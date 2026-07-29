@@ -92,22 +92,22 @@ Create a 10-slide minimal SaaS startup pitch deck. White background, electric bl
 
 ---
 
-### 2. Accenture Style
+### 2. Cloud-Native Microservices Architecture
 
-An unofficial homage to the purple-and-black consultancy look — bold typography, a signature ">" glyph motif, and monochrome-purple charts.
+A 14-slide engineering deep-dive: system design goals, service contracts, Kafka event flow, observability pillars, security perimeter, and p50/p95/p99 benchmarks.
 
 <div align="center">
-<img src="https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/slidespeak/accenture-style/0.webp" width="700" alt="Accenture Style preview">
+<img src="https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/legacy/13/0.webp" width="700" alt="Cloud-Native Microservices Architecture preview">
 </div>
 
-- **Use Case:** Business / Strategy · **Style:** Corporate, Bold
-- **Source:** [SlideSpeak/presentation-design-prompts](https://github.com/SlideSpeak/presentation-design-prompts/tree/main/prompts/accenture-style) (MIT)
+- **Use Case:** Tech / Product, Education · **Style:** Dark, Technical, Data Visualization
+- **Source:** [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
 
 <details>
 <summary>📝 Show prompt</summary>
 
 ```
-Create a presentation in the 'Accenture Style' theme, an unofficial homage to the purple-and-black look of the big technology consultancy. Interior slides are white (#ffffff); covers and section dividers are full-bleed black (#000000). Typography: headlines in 'Archivo' at 700 to 800 weight... [truncated — full prompt in the web gallery]
+Create a 14-slide cloud-native microservices architecture deep-dive for a technical audience. Dark theme: #0A0E17 background, electric blue #3B82F6 and green #22C55E highlights, white text. Slide 1: Title + audience level indicator (Advanced). Slide 2: System Design Goals — CAP theorem recap, target SLAs table. Slide 3: High-Level Architecture Diagram — service boxes with labeled API gateways, message queues, databases, CDN. Slides 4-7: Four service deep-dives — each shows service interface contract, data model, key design decisions, latency budget. Slide 8: Event-Driven Communication — Kafka topic flow diagram. Slide 9: Observability Stack — metrics/logging/tracing three-pillar diagram with tool logos. Slide 10: Security Perimeter — mTLS, OAuth2, secrets management illustrated. Slide 11: Deployment Pipeline — CI/CD flow diagram with GitHub Actions stages. Slide 12: Failure Mode Analysis — runbook table. Slide 13: Performance Benchmarks — p50/p95/p99 latency bar charts. Slide 14: Future Roadmap — 3 architectural evolution phases. Font: JetBrains Mono + Inter. Tone: detailed, precise, engineering-grade.
 ```
 
 </details>
