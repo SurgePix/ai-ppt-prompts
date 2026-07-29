@@ -1,0 +1,46 @@
+name: 📝 Submit a Prompt
+description: Suggest a new AI PPT prompt for the gallery
+title: "[Prompt]: "
+labels: ["new-prompt"]
+body:
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Prompt text
+      description: The full prompt you'd like to add
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source URL
+      description: Link to where this prompt came from (Reddit, X, GitHub, etc.)
+    validations:
+      required: false
+  - type: input
+    id: author
+    attributes:
+      label: Author / handle
+    validations:
+      required: false
+  - type: input
+    id: use-case
+    attributes:
+      label: Suggested use case
+      placeholder: "Business Pitch, Marketing, Education, ..."
+    validations:
+      required: false
+  - type: input
+    id: style
+    attributes:
+      label: Suggested style
+      placeholder: "Minimal, Dark, Corporate, ..."
+    validations:
+      required: false
+  - type: input
+    id: preview
+    attributes:
+      label: Preview image URL (optional)
+      description: A generated slide image showing this prompt in action
+    validations:
+      required: false
