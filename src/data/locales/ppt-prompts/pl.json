@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "title": "Najlepsza Biblioteka Promptów PPT i Prezentacji AI | SurgePix",
+    "description": "Odkryj 25+ wyselekcjonowanych promptów do prezentacji AI z Reddit, X i GitHub. Gotowe do użycia prompty dla ChatGPT, Claude, Gamma i innych."
+  },
+  "ui": {
+    "hero_title": "Biblioteka Promptów PPT",
+    "hero_subtitle": "Regularnie aktualizowana ze społeczności wysokiej jakości dla szybszego i lepszego tworzenia prezentacji.",
+    "hero_badge": "25 wyselekcjonowanych promptów · Reddit · X · GitHub",
+    "hero_discord": "Dołącz do Discorda po więcej darmowych zasobów",
+    "rescue_title": "Prezentacja Jutro? Ratunek w 3 Krokach",
+    "rescue_step_1": "Otwórz Surgepix.ai",
+    "rescue_step_2": "Kliknij Prezentacja",
+    "rescue_step_3": "Wklej prompt poniżej",
+    "search_label": "Szukaj",
+    "currentLocale": "Bieżący",
+    "search_placeholder": "Szukaj promptów, autorów, zastosowań lub stylów...",
+    "try_surgepix": "Wypróbuj Surgepix",
+    "ppt_writing_tips": "Wskazówki do pisania PPT",
+    "filter_count": "{{count}} / {{total}} prompt",
+    "all_types": "Wszystkie Typy",
+    "all_models": "Wszystkie Modele",
+    "all_use_cases": "Wszystkie zastosowania",
+    "all_styles": "Wszystkie style",
+    "card_copy": "Kopiuj",
+    "card_copied": "Skopiowano!",
+    "card_generate": "Generuj",
+    "expand": "Pokaż więcej",
+    "collapse": "Zwiń",
+    "more_prompts_hint": "Więcej promptów dostępnych poniżej",
+    "load_more": "Załaduj 3 kolejne wiersze",
+    "footer_section_title": "Darmowe Narzędzia - Gotowe do Użycia",
+    "footer_section_subtitle": "Bez rejestracji - potężne narzędzia do przetwarzania obrazów i projektowania",
+    "footer_tool_gpt_title": "Biblioteka Promptów GPT-Image-2",
+    "footer_tool_gpt_desc": "350+ wyselekcjonowanych promptów do generowania obrazów AI",
+    "footer_tool_surgepix_title": "SurgePix AI — Twórz i Edytuj Wizualizacje",
+    "footer_tool_surgepix_desc": "Twórz prezentacje, obrazy i więcej z AI",
+    "footer_tools": {
+      "pdf_to_jpg": "PDF na JPG",
+      "png_to_jpg": "PNG na JPG",
+      "jpg_to_pdf": "JPG na PDF",
+      "heic_to_pdf": "HEIC na PDF",
+      "heic_to_png": "HEIC na PNG",
+      "image_resizer": "Zmiana Rozmiaru Obrazu",
+      "youtube_banner": "Baner YouTube",
+      "ai_hairstyle": "Fryzura AI",
+      "bar_graph_maker": "Kreator Wykresów Słupkowych",
+      "pie_chart_maker": "Kreator Wykresów Kołowych",
+      "venn_diagram": "Diagram Venna",
+      "fathers_day": "Dzień Ojca 2026"
+    },
+    "footer_brand_tagline": "Twórz i Edytuj Wizualizacje z AI",
+    "footer_contact": "Skontaktuj się z nami",
+    "bottom_bar": "Awesome PPT Prompt Library · Awesome PPT Prompt Library · Prompty do prezentacji wyselekcjonowane przez społeczność"
+  },
+  "categories": {
+    "all": "Wszystkie Typy",
+    "business_pitch": "Pitch Biznesowy",
+    "tech_product": "Technologia / Produkt",
+    "education": "Edukacja",
+    "marketing": "Marketing",
+    "report_analysis": "Raport / Analiza",
+    "creative_design": "Kreatywne / Design",
+    "Business / Strategy": "Biznes / Strategia",
+    "Events": "Wydarzenia",
+    "Finance": "Finanse",
+    "Product Launch": "Premiera produktu",
+    "Sales Proposal": "Propozycja sprzedaży"
+  },
+  "styles": {
+    "Minimal": "Minimal",
+    "Dark": "Ciemny",
+    "Modern": "Nowoczesny",
+    "Academic": "Akademicki",
+    "Corporate": "Korporacyjny",
+    "Editorial": "Redakcyjny",
+    "Colorful": "Kolorowy",
+    "Friendly": "Przyjazny",
+    "Executive": "Wykonawczy",
+    "Technical": "Techniczny",
+    "Bold": "Pogrubiony",
+    "Narrative": "Narracyjny",
+    "Energetic": "Energetyczny",
+    "Strategic": "Strategiczny",
+    "Professional": "Profesjonalny",
+    "Brand Launch": "Wprowadzenie marki",
+    "Calm": "Spokojny",
+    "Data Visualization": "Wizualizacja danych",
+    "Elegant": "Elegancki",
+    "Playful": "Psotny",
+    "Retro": "Retro",
+    "Tech": "Tech",
+    "Warm": "Ciepły"
+  },
+  "prompts": {
+    "1": {
+      "title": "Początek"
+    },
+    "2": {
+      "title": "Narzędzia deweloperskie"
+    },
+    "3": {
+      "title": "Badania rynkowe"
+    },
+    "4": {
+      "title": "QBR"
+    },
+    "5": {
+      "title": "Przed inwestycją"
+    },
+    "6": {
+      "title": "ESG"
+    },
+    "7": {
+      "title": "Marka"
+    },
+    "8": {
+      "title": "Wzrost"
+    },
+    "9": {
+      "title": "Mapa drogowa"
+    },
+    "10": {
+      "title": "Uniwersytet"
+    },
+    "11": {
+      "title": "B2B"
+    },
+    "12": {
+      "title": "Seria B"
+    },
+    "13": {
+      "title": "Architektura"
+    },
+    "14": {
+      "title": "TED"
+    },
+    "15": {
+      "title": "Badanie rynku"
+    },
+    "16": {
+      "title": "Wdrożenie"
+    },
+    "17": {
+      "title": "Raport wyników finansowych"
+    },
+    "18": {
+      "title": "System projektowania"
+    },
+    "19": {
+      "title": "Studium przypadku"
+    },
+    "20": {
+      "title": "Prezentacja zarządu"
+    },
+    "21": {
+      "title": "Przywództwo"
+    },
+    "22": {
+      "title": "Wejście na rynek (GTM)"
+    },
+    "23": {
+      "title": "Mikroserwisy"
+    },
+    "24": {
+      "title": "Ocena wydajności"
+    },
+    "25": {
+      "title": "Trendy AI"
+    }
+  }
+}

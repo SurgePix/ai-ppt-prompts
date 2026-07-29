@@ -1,0 +1,917 @@
+[
+  {
+    "id": 1,
+    "prompt": "Create a 10-slide minimal SaaS startup pitch deck. White background, electric blue #0066FF accent. Slide 1: bold product name + one-line tagline, logo placeholder top-left. Slide 2: Problem — 3 pain points with thin line icons. Slide 3: Solution — UI mockup placeholder, 3 labeled callouts. Slide 4: Market Opportunity — TAM/SAM/SOM nested circles with $ values. Slide 5: Business Model — 3-column pricing table, recommended tier highlighted with a badge. Slide 6: Traction — MoM active users line chart, milestone markers. Slide 7: Competitive Landscape — 2×2 positioning matrix vs 4 named competitors. Slide 8: Team — 4 headshot cards, name/title/one-line bio. Slide 9: 3-Year Revenue Forecast — grouped bar chart, CAGR annotation. Slide 10: Close — full-bleed CTA, funding ask amount, contact email. Font: Inter throughout. Consistent header bar with logo + slide number on every slide. Tone: confident, data-driven, investor-ready.",
+    "author": "u/pitch_deck_lab",
+    "sourceUrl": "https://www.reddit.com/r/ChatGPT/",
+    "sourcePlatform": "reddit",
+    "model": "GPT-Image-2",
+    "style": "Minimal",
+    "category": "Business Pitch",
+    "tags": [
+      "Startup",
+      "Investor",
+      "SaaS",
+      "Pitch Deck",
+      "use_case:Business Pitch",
+      "use_case:Tech / Product",
+      "style:Minimal",
+      "style:Modern",
+      "style:Bold"
+    ],
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/legacy/1/0.webp"
+    ],
+    "useCases": [
+      "Business Pitch",
+      "Tech / Product"
+    ],
+    "styles": [
+      "Minimal",
+      "Modern",
+      "Bold"
+    ],
+    "autoTagging": {
+      "status": "success",
+      "model": "glm-5.2-ud-q2-k-xl"
+    }
+  },
+  {
+    "id": 2,
+    "prompt": "Design a 12-slide dark-mode developer tool launch keynote. Background #0D0D0D, neon green #00FF87 accent. Slide 1: full-bleed hero, product name in JetBrains Mono. Slide 2: Problem — terminal-style error messages as bullet points with red # markers. Slide 3: Product reveal — large screenshot with glowing border and subtle particle effect placeholder. Slides 4-7: four feature slides, alternating code-snippet left / result screenshot right layout. Slide 8: Architecture diagram — dark nodes, luminous connecting arrows, system labels in monospace. Slide 9: Benchmark bar chart — dark bg, green bars vs grey competitor bars. Slide 10: Pricing — 3 dark tier cards, Pro highlighted. Slide 11: GitHub star + Discord join CTA. Slide 12: Launch date countdown closer, full-screen gradient. Font: JetBrains Mono for code elements, Inter for prose. Tone: authoritative, technical, exciting.",
+    "author": "@devtools_dan",
+    "sourceUrl": "https://x.com/",
+    "sourcePlatform": "x",
+    "model": "Claude 3.7 Sonnet",
+    "style": "Dark",
+    "category": "Product Launch",
+    "tags": [
+      "Dev Tools",
+      "Keynote",
+      "Launch",
+      "Dark Mode",
+      "use_case:Product Launch",
+      "use_case:Tech / Product",
+      "style:Dark",
+      "style:Tech",
+      "style:Bold"
+    ],
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/legacy/2/0.webp"
+    ],
+    "useCases": [
+      "Product Launch",
+      "Tech / Product"
+    ],
+    "styles": [
+      "Dark",
+      "Tech",
+      "Bold"
+    ],
+    "autoTagging": {
+      "status": "success",
+      "model": "glm-5.2-ud-q2-k-xl"
+    }
+  },
+  {
+    "id": 3,
+    "prompt": "Generate a 16-slide academic conference presentation for a machine learning paper. Clean white background, university navy #003087 + gold #C9A84C accents. Include: (1) Title, authors, affiliations, venue logo. (2) Motivation — why this problem matters, with a compelling statistic. (3) Related Work — timeline comparison table. (4) Our Approach — methodology flowchart with 4 numbered stages. (5) Theoretical Framework — key equations in a clean LaTeX-style typeset box. (6-9) Results slides with bar charts, line plots, and confusion matrix, each with a highlighted key finding callout. (10) Ablation Study — horizontal grouped bar chart. (11) Qualitative Examples — 2×3 image grid with captions. (12) Limitations. (13) Future Work — 3 bullet roadmap. (14) Conclusion — 4 takeaway bullets. (15) Acknowledgements. (16) Q&A closer. Font: Source Serif Pro headings, Source Sans Pro body. Tone: rigorous, scholarly.",
+    "author": "github.com/f/awesome-chatgpt-prompts",
+    "sourceUrl": "https://github.com/f/awesome-chatgpt-prompts",
+    "sourcePlatform": "github",
+    "model": "GPT-Image-2",
+    "style": "Academic",
+    "category": "Education",
+    "tags": [
+      "Research",
+      "ML",
+      "Academic",
+      "Conference",
+      "use_case:Education",
+      "use_case:Tech / Product",
+      "style:Academic",
+      "style:Minimal",
+      "style:Data Visualization"
+    ],
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/legacy/3/0.webp"
+    ],
+    "useCases": [
+      "Education",
+      "Tech / Product"
+    ],
+    "styles": [
+      "Academic",
+      "Minimal",
+      "Data Visualization"
+    ],
+    "autoTagging": {
+      "status": "success",
+      "model": "glm-5.2-ud-q2-k-xl"
+    }
+  },
+  {
+    "id": 4,
+    "prompt": "Build a 14-slide Marketing Quarterly Business Review (QBR) deck. Corporate style: white background, bold teal #00BFA5 accents, dark grey header bars. Slide 1: Executive Summary — 6-KPI dashboard cards (MQL, SQL, CAC, LTV, Revenue, NPS). Slide 2: Channel Performance — heat map table, red/amber/green coding. Slide 3: Campaign ROI table sortable by spend. Slide 4: SEO & Organic Traffic — waterfall chart showing channel contributions. Slide 5: Social Media Engagement — dual-axis trend chart (reach vs. engagement rate). Slide 6: Paid Ads — ROAS by channel stacked horizontal bar. Slide 7: Email Funnel — conversion funnel diagram. Slide 8: Competitive Share-of-Voice — pie chart comparison. Slide 9: Wins & Learnings — 2-column table. Slides 10-11: Next Quarter OKRs with quarterly milestone timeline. Slide 12: Budget Request — waterfall bar. Slide 13: Team Highlights. Slide 14: Appendix placeholder. Font: Helvetica Neue. Tone: data-driven, executive-ready.",
+    "author": "u/marketing_ops_nerd",
+    "sourceUrl": "https://www.reddit.com/r/marketing/",
+    "sourcePlatform": "reddit",
+    "model": "GPT-Image-2",
+    "style": "Corporate",
+    "category": "Marketing",
+    "tags": [
+      "QBR",
+      "Marketing",
+      "KPIs",
+      "Executive",
+      "use_case:Marketing",
+      "use_case:Report / Analysis",
+      "style:Corporate",
+      "style:Data Visualization",
+      "style:Bold"
+    ],
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/legacy/4/0.webp"
+    ],
+    "useCases": [
+      "Marketing",
+      "Report / Analysis"
+    ],
+    "styles": [
+      "Corporate",
+      "Data Visualization",
+      "Bold"
+    ],
+    "autoTagging": {
+      "status": "success",
+      "model": "glm-5.2-ud-q2-k-xl"
+    }
+  },
+  {
+    "id": 5,
+    "prompt": "Create a 9-slide pre-seed investor deck for a consumer app. Modern asymmetric layout: off-white #FAF9F6 background, deep forest green #1A3C2D accent. Slide 1: Full-bleed lifestyle hero image placeholder + tagline overlay. Slide 2: The Problem — relatable 30-word user story quote with large typography. Slide 3: Solution — 3-step user journey with phone mockup placeholders. Slide 4: Why Now — market timing slide with 3 macro trend icons + one-liner each. Slide 5: Business Model — single illustrated revenue stream diagram. Slide 6: Traction — key metrics in large-number cards (DAU, retention, NPS). Slide 7: The Ask — funding amount, use of funds donut chart, 12-month milestone timeline. Slide 8: Team — founder photos, 2-sentence bios, notable logos. Slide 9: Vision — inspirational closer with brand manifesto quote. Font: DM Serif Display headings, DM Sans body. Tone: warm, human, compelling.",
+    "author": "@startupstudio_vc",
+    "sourceUrl": "https://x.com/",
+    "sourcePlatform": "x",
+    "model": "GPT-Image-2",
+    "style": "Modern",
+    "category": "Business Pitch",
+    "tags": [
+      "Pre-seed",
+      "Consumer App",
+      "Investor",
+      "Startup",
+      "use_case:Business Pitch",
+      "style:Modern",
+      "style:Warm",
+      "style:Bold"
+    ],
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/legacy/5/0.webp"
+    ],
+    "useCases": [
+      "Business Pitch"
+    ],
+    "styles": [
+      "Modern",
+      "Warm",
+      "Bold"
+    ],
+    "autoTagging": {
+      "status": "success",
+      "model": "glm-5.2-ud-q2-k-xl"
+    }
+  },
+  {
+    "id": 6,
+    "prompt": "Design a 20-slide ESG Annual Report executive summary presentation. Editorial style: warm ivory #FDFBF5 background, dark charcoal #1C1C1C text, forest green #2D6A4F and ocean blue #1565C0 for section dividers. Cover: company name, 'Sustainability Report 2024', hero landscape photo placeholder. Section dividers (3 total) for Environmental, Social, Governance. Environmental: carbon emissions line chart, energy mix donut, water usage bar. Social: employee diversity stacked bar, safety metrics KPIs, community impact infographic. Governance: board composition chart, ethics policy summary table. Highlights reel: 6 achievement cards with icons and numbers. Awards & certifications logos grid. Forward-looking targets timeline (2024–2030). Back cover: contact details. Fonts: Garamond headings, Gill Sans body. Print-quality with 10mm margin guidelines. Tone: transparent, accountable, optimistic.",
+    "author": "u/esg_report_wizard",
+    "sourceUrl": "https://www.reddit.com/r/Accounting/",
+    "sourcePlatform": "reddit",
+    "model": "Claude 3.7 Sonnet",
+    "style": "Editorial",
+    "category": "Report / Analysis",
+    "tags": [
+      "ESG",
+      "Annual Report",
+      "Sustainability",
+      "Corporate",
+      "use_case:Report / Analysis",
+      "use_case:Finance",
+      "style:Editorial",
+      "style:Warm",
+      "style:Data Visualization"
+    ],
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/legacy/6/0.webp"
+    ],
+    "useCases": [
+      "Report / Analysis",
+      "Finance"
+    ],
+    "styles": [
+      "Editorial",
+      "Warm",
+      "Data Visualization"
+    ],
+    "autoTagging": {
+      "status": "success",
+      "model": "glm-5.2-ud-q2-k-xl"
+    }
+  },
+  {
+    "id": 7,
+    "prompt": "Create a 15-slide brand identity guidelines deck. Vibrant style with a gradient cover (#FF6B6B → #4ECDC4). Each section has a strong color-block header. Sections: Brand Story (mission, vision, values cards); Logo Usage (correct vs incorrect usage examples grid); Color Palette (primary + secondary + neutral swatches with hex, RGB, CMYK codes); Typography (heading/body/accent type specimens with size scale); Iconography (icon set sample grid); Photography Style (mood board placeholder, do/don't examples); Illustration Style (placeholder); Brand Voice (tone adjectives wheel, writing examples); Social Media Templates (Instagram, LinkedIn, Twitter mockup placeholders); Merchandise mockups (tote bag, business card, mug placeholder); Co-branding rules; Brand in Motion (animation principles, easing guide); Digital UI snippet; Misuse examples gallery; Contact + Download links. Font: the brand's own typeface or Söhne. Tone: confident, inspiring, systematic.",
+    "author": "@brandidentity_tips",
+    "sourceUrl": "https://x.com/",
+    "sourcePlatform": "x",
+    "model": "GPT-Image-2",
+    "style": "Bold",
+    "category": "Creative / Design",
+    "tags": [
+      "Brand",
+      "Identity",
+      "Design System",
+      "Style Guide",
+      "use_case:Creative / Design",
+      "use_case:Marketing",
+      "style:Bold",
+      "style:Modern",
+      "style:Brand Launch"
+    ],
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/legacy/7/0.webp"
+    ],
+    "useCases": [
+      "Creative / Design",
+      "Marketing"
+    ],
+    "styles": [
+      "Bold",
+      "Modern",
+      "Brand Launch"
+    ],
+    "autoTagging": {
+      "status": "success",
+      "model": "glm-5.2-ud-q2-k-xl"
+    }
+  },
+  {
+    "id": 8,
+    "prompt": "Build a 12-slide growth marketing playbook presentation. Minimal style: white background, coral #FF4F4F accent, generous whitespace. Slide 1: title + subtitle 'From 0 to 100K Users'. Slide 2: The AARRR Funnel — illustrated funnel diagram with metric at each stage. Slide 3: ICP Definition — persona card with photo placeholder, demographics, pain points, goals. Slide 4: Channel Prioritization Matrix — effort vs. impact scatter plot with labeled channel bubbles. Slide 5: SEO Playbook — keyword strategy pyramid. Slide 6: Paid Acquisition — ad creative anatomy diagram. Slide 7: Referral Program Design — loop diagram. Slide 8: Email Nurture Sequence — horizontal timeline flow. Slide 9: Conversion Rate Optimization — before/after landing page annotated comparison. Slide 10: Analytics Stack — tool logos grid with data flow arrows. Slide 11: 90-Day Experiment Roadmap — Gantt-style timeline. Slide 12: Key Metrics Dashboard — 8 KPI cards with targets. Font: Inter. Tone: strategic, actionable, data-backed.",
+    "author": "u/growth_hacks_daily",
+    "sourceUrl": "https://www.reddit.com/r/startups/",
+    "sourcePlatform": "reddit",
+    "model": "GPT-Image-2",
+    "style": "Minimal",
+    "category": "Marketing",
+    "tags": [
+      "Growth",
+      "Marketing",
+      "Playbook",
+      "AARRR",
+      "use_case:Marketing",
+      "use_case:Business / Strategy",
+      "style:Minimal",
+      "style:Modern",
+      "style:Data Visualization"
+    ],
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/legacy/8/0.webp"
+    ],
+    "useCases": [
+      "Marketing",
+      "Business / Strategy"
+    ],
+    "styles": [
+      "Minimal",
+      "Modern",
+      "Data Visualization"
+    ],
+    "autoTagging": {
+      "status": "success",
+      "model": "glm-5.2-ud-q2-k-xl"
+    }
+  },
+  {
+    "id": 9,
+    "prompt": "Generate a 13-slide product roadmap presentation for a mobile app. Modern style: deep navy #0B1E3D background with white text, cyan #00D4FF accent highlights. Slide 1: Vision statement — bold one-sentence manifesto. Slide 2: 2024 Achievements recap — 4 milestone cards with icons and dates. Slide 3: Strategic Pillars — 3 column icons with one-liner each. Slide 4: H1 2025 Roadmap — horizontal swim-lane timeline by product area. Slide 5: Feature Deep-dive #1 — problem/solution/impact layout. Slides 6-7: Two more feature deep-dives. Slide 8: Platform bets — mobile vs web vs API investment allocation donut. Slide 9: Dependency Map — linked node diagram. Slide 10: OKRs by Quarter — 2×4 grid with RAG status. Slide 11: Tech Debt Plan — stacked bar showing % allocation per sprint. Slide 12: Team Headcount Plan — current vs. planned org chart. Slide 13: How to Give Feedback — channels + calendar invite placeholder. Font: Space Grotesk. Tone: transparent, strategic, execution-focused.",
+    "author": "github.com/dair-ai/Prompt-Engineering-Guide",
+    "sourceUrl": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+    "sourcePlatform": "github",
+    "model": "GPT-Image-2",
+    "style": "Modern",
+    "category": "Tech / Product",
+    "tags": [
+      "Roadmap",
+      "Product",
+      "Mobile",
+      "Q1 2025",
+      "use_case:Tech / Product",
+      "use_case:Business / Strategy",
+      "style:Modern",
+      "style:Dark",
+      "style:Technical"
+    ],
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/legacy/9/0.webp"
+    ],
+    "useCases": [
+      "Tech / Product",
+      "Business / Strategy"
+    ],
+    "styles": [
+      "Modern",
+      "Dark",
+      "Technical"
+    ],
+    "autoTagging": {
+      "status": "success",
+      "model": "glm-5.2-ud-q2-k-xl"
+    }
+  },
+  {
+    "id": 10,
+    "prompt": "Create a 10-slide introductory course slides for a university computer science module. Friendly academic style: soft blue #EEF4FF background, warm navy #1A237E headings, yellow #FFC107 highlights. Slide 1: Course title, instructor name, photo placeholder, semester info. Slide 2: Why This Course Matters — real-world applications with 3 photo placeholders. Slide 3: Learning Objectives — numbered list with checkmark icons. Slide 4: Weekly Schedule — colorful table overview of topics. Slide 5: Assessment Breakdown — donut chart of grade weightings. Slide 6: Resources — textbook cover placeholder, online tools logos. Slide 7: How Office Hours Work — visual schedule calendar. Slide 8: Academic Integrity Policy — dos/don'ts two-column table. Slide 9: First Week Assignment — step-by-step card layout. Slide 10: Q&A + contact details. Font: Nunito for headings, Open Sans for body. Tone: welcoming, clear, encouraging.",
+    "author": "u/cs_professor_tips",
+    "sourceUrl": "https://www.reddit.com/r/learnprogramming/",
+    "sourcePlatform": "reddit",
+    "model": "Gemini 2.5 Pro",
+    "style": "Academic",
+    "category": "Education",
+    "tags": [
+      "University",
+      "CS",
+      "Course Intro",
+      "Academic",
+      "use_case:Education",
+      "style:Academic",
+      "style:Warm",
+      "style:Playful"
+    ],
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/legacy/10/0.webp"
+    ],
+    "useCases": [
+      "Education"
+    ],
+    "styles": [
+      "Academic",
+      "Warm",
+      "Playful"
+    ],
+    "autoTagging": {
+      "status": "success",
+      "model": "glm-5.2-ud-q2-k-xl"
+    }
+  },
+  {
+    "id": 11,
+    "prompt": "Design a 10-slide B2B sales discovery and pitch deck. Corporate professional style: white + dark slate #1E293B + vibrant orange #F97316. Slide 1: Account name personalization slot + your company logo. Slide 2: We Heard You — mirror back the prospect's 3 stated pain points in their own language. Slide 3: Why Companies Like Yours Choose Us — 3 logos + one-sentence outcome each. Slide 4: Our Solution — value proposition in one sentence, 4 benefit icons below. Slide 5: How It Works — 3-step illustrated process. Slide 6: Case Study — metrics before/after comparison cards. Slide 7: ROI Calculator — simple input table with output highlight box. Slide 8: Implementation Timeline — 4-phase Gantt. Slide 9: Pricing Overview — simplified tier table (detailed in appendix). Slide 10: Next Steps — 3 clear action items with owner/date/emoji. Font: Inter. Tone: consultative, prospect-centric, action-oriented.",
+    "author": "@sales_deck_pro",
+    "sourceUrl": "https://x.com/",
+    "sourcePlatform": "x",
+    "model": "GPT-Image-2",
+    "style": "Corporate",
+    "category": "Sales Proposal",
+    "tags": [
+      "B2B",
+      "Sales",
+      "Pitch",
+      "Discovery",
+      "use_case:Sales Proposal",
+      "use_case:Business / Strategy",
+      "style:Corporate",
+      "style:Modern",
+      "style:Bold"
+    ],
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/legacy/11/0.webp"
+    ],
+    "useCases": [
+      "Sales Proposal",
+      "Business / Strategy"
+    ],
+    "styles": [
+      "Corporate",
+      "Modern",
+      "Bold"
+    ],
+    "autoTagging": {
+      "status": "success",
+      "model": "glm-5.2-ud-q2-k-xl"
+    }
+  },
+  {
+    "id": 12,
+    "prompt": "Build a 12-slide Series B investor update board deck. Ultra-minimal executive style: white background, thin black divider lines, single accent color — emerald #059669. Slide 1: Company name, Series B progress bar (raised vs. target), date. Slide 2: One-Page Business Summary — 6-cell grid covering product, market, model, traction, team, ask. Slide 3: KPI Dashboard — 8 large-number cards vs. last month and vs. plan. Slide 4: Revenue Waterfall — new / expansion / churn / net new MRR. Slide 5: Unit Economics — CAC, LTV, LTV:CAC, payback period in 2×2 metric cards. Slide 6: Sales Pipeline — funnel with conversion rates at each stage. Slide 7: Product Highlights — top 3 shipped features with impact metric. Slide 8: Competitive Win/Loss Analysis — bar chart by reason. Slide 9: Headcount — current org chart, open roles highlighted. Slide 10: Burn & Runway — monthly burn line chart, runway callout box. Slide 11: Risks & Mitigations — 2-column table. Slide 12: The Ask — use of funds allocation and 18-month milestone plan. Font: Inter. Tone: transparent, rigorous, investor-grade.",
+    "author": "u/vc_memo_vault",
+    "sourceUrl": "https://www.reddit.com/r/venturecapital/",
+    "sourcePlatform": "reddit",
+    "model": "Claude 3.7 Sonnet",
+    "style": "Minimal",
+    "category": "Finance",
+    "tags": [
+      "Series B",
+      "Investor Update",
+      "Board Deck",
+      "SaaS Metrics",
+      "use_case:Finance",
+      "use_case:Business / Strategy",
+      "style:Minimal",
+      "style:Corporate",
+      "style:Data Visualization"
+    ],
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/legacy/12/0.webp"
+    ],
+    "useCases": [
+      "Finance",
+      "Business / Strategy"
+    ],
+    "styles": [
+      "Minimal",
+      "Corporate",
+      "Data Visualization"
+    ],
+    "autoTagging": {
+      "status": "success",
+      "model": "glm-5.2-ud-q2-k-xl"
+    }
+  },
+  {
+    "id": 13,
+    "prompt": "Create a 14-slide cloud-native microservices architecture deep-dive for a technical audience. Dark theme: #0A0E17 background, electric blue #3B82F6 and green #22C55E highlights, white text. Slide 1: Title + audience level indicator (Advanced). Slide 2: System Design Goals — CAP theorem recap, target SLAs table. Slide 3: High-Level Architecture Diagram — service boxes with labeled API gateways, message queues, databases, CDN. Slides 4-7: Four service deep-dives — each shows service interface contract, data model, key design decisions, latency budget. Slide 8: Event-Driven Communication — Kafka topic flow diagram. Slide 9: Observability Stack — metrics/logging/tracing three-pillar diagram with tool logos. Slide 10: Security Perimeter — mTLS, OAuth2, secrets management illustrated. Slide 11: Deployment Pipeline — CI/CD flow diagram with GitHub Actions stages. Slide 12: Failure Mode Analysis — runbook table. Slide 13: Performance Benchmarks — p50/p95/p99 latency bar charts. Slide 14: Future Roadmap — 3 architectural evolution phases. Font: JetBrains Mono + Inter. Tone: detailed, precise, engineering-grade.",
+    "author": "github.com/ByteByteGoHq/system-design-101",
+    "sourceUrl": "https://github.com/ByteByteGoHq/system-design-101",
+    "sourcePlatform": "github",
+    "model": "GPT-Image-2",
+    "style": "Dark",
+    "category": "Tech / Product",
+    "tags": [
+      "Architecture",
+      "Microservices",
+      "Cloud",
+      "System Design",
+      "use_case:Tech / Product",
+      "use_case:Education",
+      "style:Dark",
+      "style:Technical",
+      "style:Data Visualization"
+    ],
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/legacy/13/0.webp"
+    ],
+    "useCases": [
+      "Tech / Product",
+      "Education"
+    ],
+    "styles": [
+      "Dark",
+      "Technical",
+      "Data Visualization"
+    ],
+    "autoTagging": {
+      "status": "success",
+      "model": "glm-5.2-ud-q2-k-xl"
+    }
+  },
+  {
+    "id": 14,
+    "prompt": "Generate a 18-slide TED-style inspirational keynote presentation. Bold editorial design: black background #111111, single vivid accent color that changes per section (coral → gold → teal), giant typographic headlines. Opening: full-screen quote in 72pt white text. Problem framing: 4 slides with one arresting statistic per slide — huge number, small context text. Story arc: 3 slides for a personal narrative with photo placeholders. The Idea: 2 slides explaining the core insight in plain language. Evidence: 3 data slides — one chart each, labeled simply. Call to Action: 2 slides — the shift required, and 3 things the audience can do today. Closing: memorable one-sentence manifesto + speaker photo + social handles. No bullet points anywhere. Every slide communicates ONE idea. Font: Obviously or Druk for display, GT America for body. Tone: urgent, emotional, memorable.",
+    "author": "@keynote_craft",
+    "sourceUrl": "https://x.com/",
+    "sourcePlatform": "x",
+    "model": "GPT-Image-2",
+    "style": "Bold",
+    "category": "Events",
+    "tags": [
+      "TED",
+      "Keynote",
+      "Public Speaking",
+      "Storytelling",
+      "use_case:Events",
+      "use_case:Creative / Design",
+      "style:Bold",
+      "style:Editorial",
+      "style:Dark"
+    ],
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/legacy/14/0.webp"
+    ],
+    "useCases": [
+      "Events",
+      "Creative / Design"
+    ],
+    "styles": [
+      "Bold",
+      "Editorial",
+      "Dark"
+    ],
+    "autoTagging": {
+      "status": "success",
+      "model": "glm-5.2-ud-q2-k-xl"
+    }
+  },
+  {
+    "id": 15,
+    "prompt": "Create a 16-slide market research report presentation. Clean corporate style: white background, professional blue #0047AB, 12px grid layout. Slide 1: Report title, date, research methodology badge. Slide 2: Executive Summary — 4 key findings in large callout boxes. Slide 3: Research Methodology — survey sample, timeline, data sources table. Slide 4: Market Overview — total market size + CAGR chart. Slide 5: Market Segmentation — donut chart + description table. Slide 6: Growth Drivers — horizontal bar chart ranked by impact. Slide 7: Market Challenges — risk matrix 2×2. Slide 8: Competitive Landscape — bubble chart (market share vs. growth rate, bubble = revenue). Slide 9: Competitor Profiles — 4 mini-profile cards. Slide 10: Consumer Behavior Survey — bar chart top findings. Slide 11: Buying Journey Map — horizontal stage diagram with channel labels. Slide 12: Emerging Trends — 4 trend cards with 3-year projection sparklines. Slide 13: Regulatory Environment — summary table. Slide 14: Opportunities by Region — world heat map. Slide 15: Strategic Recommendations — numbered action list. Slide 16: Appendix — methodology detail, raw data tables. Font: Calibri headings, Arial body. Tone: objective, analytical, evidence-based.",
+    "author": "u/market_research_pro",
+    "sourceUrl": "https://www.reddit.com/r/marketing/",
+    "sourcePlatform": "reddit",
+    "model": "GPT-Image-2",
+    "style": "Corporate",
+    "category": "Report / Analysis",
+    "tags": [
+      "Market Research",
+      "Competitive Analysis",
+      "Report",
+      "Data",
+      "use_case:Report / Analysis",
+      "use_case:Business / Strategy",
+      "style:Corporate",
+      "style:Data Visualization",
+      "style:Modern"
+    ],
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/legacy/15/0.webp"
+    ],
+    "useCases": [
+      "Report / Analysis",
+      "Business / Strategy"
+    ],
+    "styles": [
+      "Corporate",
+      "Data Visualization",
+      "Modern"
+    ],
+    "autoTagging": {
+      "status": "success",
+      "model": "glm-5.2-ud-q2-k-xl"
+    }
+  },
+  {
+    "id": 16,
+    "prompt": "Build a 12-slide new employee onboarding deck. Warm and welcoming style: off-white #FFFEF7 background, warm teal #0D9488 + sunny yellow #FCD34D accents. Slide 1: Welcome message from CEO with photo placeholder and personal quote. Slide 2: Our Mission & Values — 4 value cards with icons and one-line descriptions. Slide 3: Company Milestones — illustrated horizontal timeline from founding to today. Slide 4: Meet Your Team — org chart section with headshots placeholder, showing new hire's position highlighted. Slide 5: Your First Week Schedule — day-by-day calendar card layout. Slide 6: Tools & Systems Setup Checklist — icon grid with checkboxes. Slide 7: How We Work — working norms (async-first, feedback culture) as a visual card set. Slide 8: Benefits Overview — 6 benefit category icons with one-line summary each. Slide 9: Learning Resources — 4 resource cards with QR placeholders. Slide 10: DEI & ERGs — group logos and join links. Slide 11: Key Contacts Directory — role-based contact cards. Slide 12: Your 30-60-90 Day Goals — tabbed milestone plan. Font: Nunito. Tone: warm, human, energizing.",
+    "author": "u/people_ops_toolkit",
+    "sourceUrl": "https://www.reddit.com/r/humanresources/",
+    "sourcePlatform": "reddit",
+    "model": "Claude 3.7 Sonnet",
+    "style": "Warm",
+    "category": "Education",
+    "tags": [
+      "Onboarding",
+      "HR",
+      "New Hire",
+      "Company Culture",
+      "use_case:Education",
+      "use_case:Events",
+      "style:Warm",
+      "style:Playful"
+    ],
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/legacy/16/0.webp"
+    ],
+    "useCases": [
+      "Education",
+      "Events"
+    ],
+    "styles": [
+      "Warm",
+      "Playful"
+    ],
+    "autoTagging": {
+      "status": "success",
+      "model": "glm-5.2-ud-q2-k-xl"
+    }
+  },
+  {
+    "id": 17,
+    "prompt": "Design a 14-slide Q1 2025 financial earnings results presentation for a public company. Formal corporate style: white background, deep navy #001F5B primary, gold #C8A951 accent. Slide 1: Quarter summary title, fiscal date, safe harbor statement. Slide 2: Q1 Highlights — 5 headline metrics in large number cards (Revenue, EPS, Gross Margin, FCF, Guidance). Slide 3: Revenue Bridge — waterfall chart from Q4 2024 to Q1 2025. Slide 4: Revenue by Segment — horizontal stacked bar with prior year comparison. Slide 5: Gross Margin Trend — dual-axis line+bar chart over 8 quarters. Slide 6: Operating Expenses — grouped bar chart by category. Slide 7: EBITDA Walk — waterfall chart. Slide 8: Cash Flow Statement Summary — 3-column table. Slide 9: Balance Sheet Highlights — asset/liability card summary. Slide 10: Geographic Revenue Split — regional pie chart + table. Slide 11: Customer Metrics — ARR, NRR, logo count trend charts. Slide 12: Q2 2025 Guidance — range table with consensus vs. guidance. Slide 13: Full-Year Outlook — updated annual guidance table. Slide 14: Appendix — reconciliation tables, non-GAAP definitions. Font: Times New Roman headings, Calibri body. Tone: precise, compliance-minded, investor-grade.",
+    "author": "@ir_deck_master",
+    "sourceUrl": "https://x.com/",
+    "sourcePlatform": "x",
+    "model": "GPT-Image-2",
+    "style": "Corporate",
+    "category": "Finance",
+    "tags": [
+      "Earnings",
+      "Investor Relations",
+      "Financial",
+      "Public Company",
+      "use_case:Finance",
+      "use_case:Report / Analysis",
+      "style:Corporate",
+      "style:Data Visualization",
+      "style:Elegant"
+    ],
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/legacy/17/0.webp"
+    ],
+    "useCases": [
+      "Finance",
+      "Report / Analysis"
+    ],
+    "styles": [
+      "Corporate",
+      "Data Visualization",
+      "Elegant"
+    ],
+    "autoTagging": {
+      "status": "success",
+      "model": "glm-5.2-ud-q2-k-xl"
+    }
+  },
+  {
+    "id": 18,
+    "prompt": "Create a 14-slide design system review and proposal presentation. Ultra-minimal design: pure white #FFFFFF background, 8px grid, jet black #111111 text, single electric purple #7C3AED accent for key elements. Slide 1: Design System name, version, team, date. Slide 2: Current State Audit — component inventory heat map showing coverage vs. gaps. Slide 3: Pain Points — developer survey results bar chart, top 5 complaints. Slide 4: Proposed Improvements — before/after component comparison grid (old vs. new). Slide 5: New Component Library Overview — categorized component thumbnail grid. Slide 6: Token System — color/spacing/typography token naming convention diagrams. Slide 7: Accessibility Upgrades — contrast ratio table, WCAG 2.2 AA compliance checklist. Slide 8: Motion & Animation Principles — easing curve examples with frame previews. Slide 9: Dark Mode Implementation — side-by-side light/dark component comparison. Slide 10: Documentation Site — screenshot mockup. Slide 11: Migration Guide — step-by-step numbered process. Slide 12: Adoption Roadmap — phased quarterly plan. Slide 13: Team Buy-in — stakeholder map + sign-off checklist. Slide 14: Success Metrics — KPIs for adoption tracking. Font: Inter. Tone: precise, collaborative, forward-looking.",
+    "author": "github.com/storybookjs/storybook",
+    "sourceUrl": "https://github.com/storybookjs/storybook",
+    "sourcePlatform": "github",
+    "model": "GPT-Image-2",
+    "style": "Minimal",
+    "category": "Tech / Product",
+    "tags": [
+      "Design System",
+      "UI/UX",
+      "Component Library",
+      "Accessibility",
+      "use_case:Tech / Product",
+      "use_case:Report / Analysis",
+      "style:Minimal",
+      "style:Technical",
+      "style:Modern"
+    ],
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/legacy/18/0.webp"
+    ],
+    "useCases": [
+      "Tech / Product",
+      "Report / Analysis"
+    ],
+    "styles": [
+      "Minimal",
+      "Technical",
+      "Modern"
+    ],
+    "autoTagging": {
+      "status": "success",
+      "model": "glm-5.2-ud-q2-k-xl"
+    }
+  },
+  {
+    "id": 19,
+    "prompt": "Build a 10-slide customer success story / case study presentation. Narrative storytelling style: warm white background, brand color of the featured customer, large pull quotes in 48pt type. Slide 1: Customer logo + headline result in one sentence ('How [Company] 3× revenue in 6 months'). Slide 2: Meet the Customer — company profile card, industry, size, key challenge. Slide 3: The Challenge — customer's words as a large testimonial quote, plus 3 pain points. Slide 4: Why They Chose Us — decision criteria table, competitive alternatives considered. Slide 5: The Solution — product areas used, implementation timeline. Slide 6: Results — 3 metric cards with before/after numbers and % improvement. Slide 7: Impact Deep-dive — supporting chart (revenue, time saved, etc.). Slide 8: Team Quote — full-page quote from their VP/Director with headshot. Slide 9: What's Next — customer's expansion plan and future goals. Slide 10: Your Turn — CTA to book a demo, contact details, next step button. Font: Georgia headings, Inter body. Tone: authentic, outcome-focused, persuasive.",
+    "author": "u/b2b_case_study_tips",
+    "sourceUrl": "https://www.reddit.com/r/sales/",
+    "sourcePlatform": "reddit",
+    "model": "Claude 3.7 Sonnet",
+    "style": "Warm",
+    "category": "Marketing",
+    "tags": [
+      "Case Study",
+      "Customer Story",
+      "Social Proof",
+      "B2B",
+      "use_case:Marketing",
+      "use_case:Sales Proposal",
+      "style:Warm",
+      "style:Elegant",
+      "style:Editorial"
+    ],
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/legacy/19/0.webp"
+    ],
+    "useCases": [
+      "Marketing",
+      "Sales Proposal"
+    ],
+    "styles": [
+      "Warm",
+      "Elegant",
+      "Editorial"
+    ],
+    "autoTagging": {
+      "status": "success",
+      "model": "glm-5.2-ud-q2-k-xl"
+    }
+  },
+  {
+    "id": 20,
+    "prompt": "Design a 12-slide monthly board packet update presentation. Executive minimalist style: clean white, slate grey #475569 secondary, accent dot indicators in red/amber/green for status. Slide 1: Month/Year, company name, key metrics banner (3 large KPI numbers). Slide 2: CEO Summary — three bullet narrative: what went well, what didn't, what we're doing about it. Slide 3: Revenue Dashboard — actuals vs. plan bar chart + trend line, variance commentary box. Slide 4: Customer Metrics — NRR, churn rate, logo count vs. last month + plan. Slide 5: Product Velocity — shipped items table with business impact tags. Slide 6: Sales Pipeline — stage-by-stage funnel chart, weighted vs. unweighted. Slide 7: Burn Rate & Runway — monthly bar chart + months of runway callout. Slide 8: People — headcount table, open roles, attrition rate. Slide 9: Strategic Initiative Status — 5-row RAG status table. Slide 10: Risks & Issues — risk register top 5 with owner and ETA. Slide 11: Board Decision Required — clearly highlighted item with two-option framing. Slide 12: Appendix — detailed financial tables, cohort data. Font: Inter. Tone: concise, transparent, decision-facilitating.",
+    "author": "@founderboard_tips",
+    "sourceUrl": "https://x.com/",
+    "sourcePlatform": "x",
+    "model": "GPT-Image-2",
+    "style": "Minimal",
+    "category": "Business / Strategy",
+    "tags": [
+      "Board Deck",
+      "Monthly Update",
+      "Governance",
+      "Startup",
+      "use_case:Business / Strategy",
+      "use_case:Finance",
+      "style:Minimal",
+      "style:Corporate"
+    ],
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/legacy/20/0.webp"
+    ],
+    "useCases": [
+      "Business / Strategy",
+      "Finance"
+    ],
+    "styles": [
+      "Minimal",
+      "Corporate"
+    ],
+    "autoTagging": {
+      "status": "success",
+      "model": "glm-5.2-ud-q2-k-xl"
+    }
+  },
+  {
+    "id": 21,
+    "prompt": "Create a 14-slide corporate leadership training workshop presentation. Energetic modern style: gradient section headers (dark blue → purple), white content areas, large workshop activity icons. Slide 1: Workshop title, facilitator name, agenda overview timeline. Slide 2: Learning Objectives — 4 skill outcome cards with icons. Slides 3-4: Module 1 — Adaptive Leadership (theory overview, then interactive discussion prompt). Slides 5-6: Module 2 — Psychological Safety (research summary chart, team exercise instructions). Slides 7-8: Module 3 — Feedback Culture (SBI model diagram, role-play scenario cards). Slide 9: Reflection Activity — individual journaling prompt with timer graphic. Slide 10: Group Discussion Template — table format for capturing team norms. Slide 11: Key Takeaways — top 5 principles illustrated as icons with one-liners. Slide 12: 30-Day Action Plan template — personal commitment worksheet. Slide 13: Resources — book covers, article QR codes. Slide 14: Evaluation & Feedback QR code. Font: Raleway headings, Open Sans body. Tone: energizing, practical, participatory.",
+    "author": "u/learning_dev_toolkit",
+    "sourceUrl": "https://www.reddit.com/r/humanresources/",
+    "sourcePlatform": "reddit",
+    "model": "Gemini 2.5 Pro",
+    "style": "Modern",
+    "category": "Education",
+    "tags": [
+      "Leadership",
+      "Training",
+      "Workshop",
+      "L&D",
+      "use_case:Education",
+      "style:Modern",
+      "style:Corporate",
+      "style:Bold"
+    ],
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/legacy/21/0.webp"
+    ],
+    "useCases": [
+      "Education"
+    ],
+    "styles": [
+      "Modern",
+      "Corporate",
+      "Bold"
+    ],
+    "autoTagging": {
+      "status": "success",
+      "model": "glm-5.2-ud-q2-k-xl"
+    }
+  },
+  {
+    "id": 22,
+    "prompt": "Build a 15-slide go-to-market (GTM) strategy presentation for a new product launch. Strategic style: dark charcoal #1C1C2E background, vibrant gradient accents, white text. Slide 1: Product name + GTM mission statement. Slide 2: Target Market — ICP definition table (firmographics + psychographics + technographics). Slide 3: Total Addressable Market — top-down and bottoms-up TAM/SAM/SOM comparison. Slide 4: Competitive Positioning — perceptual map with 6 competitors plotted. Slide 5: Value Proposition Canvas — customer jobs/pains/gains vs. product gains/pain relievers. Slide 6: Pricing Strategy — price positioning chart, tier rationale. Slide 7: Channel Strategy — direct vs. partner vs. self-serve allocation waterfall. Slide 8: Launch Phases — 3-phase horizontal timeline (Pre-launch, Launch, Post-launch) with milestones. Slide 9: Content & Demand Gen Plan — channel mix table with budget allocation. Slide 10: Sales Motion — land-and-expand diagram. Slide 11: Partner Ecosystem — partner type matrix. Slide 12: Success Metrics by Phase — KPI table per launch phase. Slide 13: Budget Overview — spend breakdown by function. Slide 14: Team RACI — responsibilities matrix. Slide 15: Risk Register — top 5 risks with mitigation. Font: Syne headings, Inter body. Tone: strategic, ambitious, cross-functional.",
+    "author": "@gtm_strategies",
+    "sourceUrl": "https://x.com/",
+    "sourcePlatform": "x",
+    "model": "Claude 3.7 Sonnet",
+    "style": "Dark",
+    "category": "Product Launch",
+    "tags": [
+      "GTM",
+      "Product Launch",
+      "Strategy",
+      "B2B SaaS",
+      "use_case:Product Launch",
+      "use_case:Business / Strategy",
+      "style:Dark",
+      "style:Modern",
+      "style:Bold"
+    ],
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/legacy/22/0.webp"
+    ],
+    "useCases": [
+      "Product Launch",
+      "Business / Strategy"
+    ],
+    "styles": [
+      "Dark",
+      "Modern",
+      "Bold"
+    ],
+    "autoTagging": {
+      "status": "success",
+      "model": "glm-5.2-ud-q2-k-xl"
+    }
+  },
+  {
+    "id": 23,
+    "prompt": "Generate a 16-slide technical deep-dive on migrating from monolith to microservices for senior engineers. Dark professional theme: #0F172A background, Tailwind-blue accent #38BDF8. Slide 1: Title + prerequisites (experience level badge). Slide 2: Monolith Pain Points — deployment coupling diagram, scale bottlenecks heatmap. Slide 3: Migration Strategies Overview — Big Bang vs. Strangler Fig vs. Branch by Abstraction comparison table. Slide 4: The Strangler Fig Pattern — step-by-step annotated diagram. Slide 5: Service Boundary Identification — DDD bounded context mapping diagram. Slide 6: API Contract Design — OpenAPI spec snippet, versioning strategy. Slide 7: Database Decomposition — shared DB → per-service DB migration phases. Slide 8: Saga Pattern for Distributed Transactions — choreography vs. orchestration comparison. Slide 9: Service Mesh Introduction — sidecar proxy diagram. Slide 10: Observability Requirements — distributed tracing flow with Jaeger example. Slide 11: Testing Strategy — test pyramid adapted for microservices, contract testing highlighted. Slide 12: CI/CD Pipeline Changes — monorepo vs. polyrepo pipeline comparison. Slide 13: Canary Deployment Strategy — traffic split diagram. Slide 14: Common Pitfalls — 6 anti-patterns with code smell examples. Slide 15: Migration Checklist — phased readiness checklist table. Slide 16: Q&A + further reading QR codes. Font: Fira Code + Inter. Tone: technical, pragmatic, battle-tested.",
+    "author": "github.com/donnemartin/system-design-primer",
+    "sourceUrl": "https://github.com/donnemartin/system-design-primer",
+    "sourcePlatform": "github",
+    "model": "GPT-Image-2",
+    "style": "Dark",
+    "category": "Tech / Product",
+    "tags": [
+      "Microservices",
+      "Migration",
+      "System Design",
+      "Engineering",
+      "use_case:Tech / Product",
+      "use_case:Education",
+      "style:Dark",
+      "style:Technical",
+      "style:Data Visualization"
+    ],
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/legacy/23/0.webp"
+    ],
+    "useCases": [
+      "Tech / Product",
+      "Education"
+    ],
+    "styles": [
+      "Dark",
+      "Technical",
+      "Data Visualization"
+    ],
+    "autoTagging": {
+      "status": "success",
+      "model": "glm-5.2-ud-q2-k-xl"
+    }
+  },
+  {
+    "id": 24,
+    "prompt": "Create a 10-slide annual performance review presentation template for managers. Clean professional style: white background, subtle grey sidebar, teal #0891B2 accents. Slide 1: Employee name (placeholder), role, review period, manager name. Slide 2: Role Expectations Overview — original job description key responsibilities in a table. Slide 3: Goal Achievement Review — goals set vs. results achieved table with RAG status and % complete. Slide 4: Competency Assessment — radar chart covering 6 core competencies with self-score vs. manager-score overlay. Slide 5: Key Accomplishments — 3 featured achievement cards with impact metric. Slide 6: Areas for Development — 2-column table: skill gap + recommended action. Slide 7: 360 Feedback Summary — anonymized theme cards from peers and reports (verbatim quotes in quote boxes). Slide 8: Compensation & Level Change Decision — current vs. proposed comp table with rationale. Slide 9: Goals for Next Year — SMART goal template table (3 rows). Slide 10: Career Development Plan — 12-month learning roadmap with milestones. Font: Inter. Tone: fair, constructive, growth-oriented.",
+    "author": "u/people_manager_tips",
+    "sourceUrl": "https://www.reddit.com/r/managers/",
+    "sourcePlatform": "reddit",
+    "model": "GPT-Image-2",
+    "style": "Corporate",
+    "category": "Report / Analysis",
+    "tags": [
+      "Performance Review",
+      "HR",
+      "Manager",
+      "Template",
+      "use_case:Report / Analysis",
+      "use_case:Business / Strategy",
+      "style:Corporate",
+      "style:Minimal",
+      "style:Data Visualization"
+    ],
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/legacy/24/0.webp"
+    ],
+    "useCases": [
+      "Report / Analysis",
+      "Business / Strategy"
+    ],
+    "styles": [
+      "Corporate",
+      "Minimal",
+      "Data Visualization"
+    ],
+    "autoTagging": {
+      "status": "success",
+      "model": "glm-5.2-ud-q2-k-xl"
+    }
+  },
+  {
+    "id": 25,
+    "prompt": "Design a 20-slide 'State of AI in 2025' trend report presentation. Editorial magazine style: rich black #0C0C0C background, white text, gold #E9B96E data highlights, full-bleed section cover slides. Cover: oversized typography, 'STATE OF AI 2025', subtitle, publisher logo. Section 1 — Foundation Models (4 slides): model landscape timeline, capability benchmark radar chart, cost-per-token trend line, open vs. closed model market share. Section 2 — Enterprise Adoption (4 slides): adoption rate by industry heat map, ROI survey results bar chart, implementation barriers ranking, top use case leaderboard. Section 3 — Workforce Impact (4 slides): job augmentation vs. displacement research summary, skills gap analysis, training investment trends, new AI-native role taxonomy. Section 4 — Regulation & Safety (3 slides): global regulation tracker map, safety incident database chart, red-teaming maturity model. Section 5 — What's Next (3 slides): 3 expert predictions with confidence scores, technology readiness levels, '5 things to do in 2025' action list. Back cover: methodology, citations. Font: Editorial New Display + Neue Haas Grotesk. Tone: authoritative, insightful, forward-looking.",
+    "author": "@ai_trends_digest",
+    "sourceUrl": "https://x.com/",
+    "sourcePlatform": "x",
+    "model": "GPT-Image-2",
+    "style": "Editorial",
+    "category": "Report / Analysis",
+    "tags": [
+      "AI Trends",
+      "2025",
+      "State of AI",
+      "Research Report",
+      "use_case:Report / Analysis",
+      "use_case:Tech / Product",
+      "style:Editorial",
+      "style:Dark",
+      "style:Data Visualization"
+    ],
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/legacy/25/0.webp"
+    ],
+    "useCases": [
+      "Report / Analysis",
+      "Tech / Product"
+    ],
+    "styles": [
+      "Editorial",
+      "Dark",
+      "Data Visualization"
+    ],
+    "autoTagging": {
+      "status": "success",
+      "model": "glm-5.2-ud-q2-k-xl"
+    }
+  }
+]

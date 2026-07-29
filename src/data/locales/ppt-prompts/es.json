@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "title": "Biblioteca de Prompts PPT IA Seleccionados | SurgePix | Prompts de Presentación GPT-Image-2",
+    "description": "Descubre más de 25 prompts de presentación IA seleccionados de Reddit, X y GitHub. Prompts listos para usar con ChatGPT, Claude, Gamma y más."
+  },
+  "ui": {
+    "hero_title": "Biblioteca de Prompts PPT",
+    "hero_subtitle": "Actualizada regularmente desde comunidades de alta calidad para crear prompts PPT listos para usar más rápido.",
+    "hero_badge": "25 prompts seleccionados · Reddit · X · GitHub",
+    "hero_discord": "Únete a Discord para más recursos gratuitos",
+    "rescue_title": "¿Presentación mañana? Rescate en 3 pasos",
+    "rescue_step_1": "Abre Surgepix.ai",
+    "rescue_step_2": "Haz clic en Presentación",
+    "rescue_step_3": "Pega un prompt abajo",
+    "search_label": "Buscar",
+    "currentLocale": "Actual",
+    "search_placeholder": "Buscar prompts, autores, usos o estilos...",
+    "try_surgepix": "Probar Surgepix",
+    "ppt_writing_tips": "Consejos para escribir PPT",
+    "filter_count": "{{shown}} / {{total}} mostrados",
+    "all_types": "Todos los tipos",
+    "all_models": "Todos los modelos",
+    "all_use_cases": "Todos los usos",
+    "all_styles": "Todos los estilos",
+    "card_copy": "Copiar",
+    "card_copied": "¡Copiado!",
+    "card_generate": "Generar",
+    "expand": "Expandir",
+    "collapse": "Contraer",
+    "more_prompts_hint": "Más prompts abajo",
+    "load_more": "Cargar 3 filas más",
+    "footer_section_title": "Herramientas gratuitas — Listas para usar",
+    "footer_section_subtitle": "Sin registro necesario — potentes herramientas de imagen y diseño",
+    "footer_tool_gpt_title": "Biblioteca de Prompts GPT-Image-2",
+    "footer_tool_gpt_desc": "Más de 350 prompts de generación de imágenes IA seleccionados",
+    "footer_tool_surgepix_title": "SurgePix AI — Plataforma de creación visual IA",
+    "footer_tool_surgepix_desc": "Genera presentaciones, imágenes y más con IA",
+    "footer_tools": {
+      "pdf_to_jpg": "PDF a JPG",
+      "png_to_jpg": "PNG a JPG",
+      "jpg_to_pdf": "JPG a PDF",
+      "heic_to_pdf": "HEIC a PDF",
+      "heic_to_png": "HEIC a PNG",
+      "image_resizer": "Redimensionar imagen",
+      "youtube_banner": "Banner de YouTube",
+      "ai_hairstyle": "Peinado IA",
+      "bar_graph_maker": "Creador de gráfico de barras",
+      "pie_chart_maker": "Creador de gráfico circular",
+      "venn_diagram": "Diagrama de Venn",
+      "fathers_day": "Día del Padre 2026"
+    },
+    "footer_brand_tagline": "Crea y edita contenido visual con IA",
+    "footer_contact": "Contáctanos",
+    "bottom_bar": "Prompts de presentación seleccionados por la comunidad"
+  },
+  "categories": {
+    "all": "Todos los tipos",
+    "business_pitch": "Presentación de negocio",
+    "tech_product": "Tecnología / Producto",
+    "education": "Educación",
+    "marketing": "Marketing",
+    "report_analysis": "Informe / Análisis",
+    "creative_design": "Creativo / Diseño",
+    "Business / Strategy": "Negocios / Estrategia",
+    "Events": "Eventos",
+    "Finance": "Finanzas",
+    "Product Launch": "Lanzamiento de producto",
+    "Sales Proposal": "Propuesta de ventas"
+  },
+  "styles": {
+    "Minimal": "Minimalista",
+    "Modern": "Moderno",
+    "Academic": "Académico",
+    "Corporate": "Corporativo",
+    "Editorial": "Editorial",
+    "Colorful": "Colorido",
+    "Friendly": "Amigable",
+    "Executive": "Ejecutivo",
+    "Technical": "Técnico",
+    "Bold": "Audaz",
+    "Narrative": "Narrativo",
+    "Energetic": "Enérgico",
+    "Strategic": "Estratégico",
+    "Professional": "Profesional",
+    "Brand Launch": "Lanzamiento de marca",
+    "Calm": "Tranquilo",
+    "Dark": "Oscuro",
+    "Data Visualization": "Visualización de datos",
+    "Elegant": "Elegante",
+    "Playful": "Juguetón",
+    "Retro": "Retro",
+    "Tech": "Tecnología",
+    "Warm": "Cálido"
+  },
+  "prompts": {
+    "1": {
+      "title": "Startup"
+    },
+    "2": {
+      "title": "Herramientas para desarrolladores"
+    },
+    "3": {
+      "title": "Investigación académica"
+    },
+    "4": {
+      "title": "Revisión trimestral de negocio (QBR)"
+    },
+    "5": {
+      "title": "Pre-semilla"
+    },
+    "6": {
+      "title": "Informe ESG"
+    },
+    "7": {
+      "title": "Identidad de marca"
+    },
+    "8": {
+      "title": "Crecimiento"
+    },
+    "9": {
+      "title": "Hoja de ruta del producto"
+    },
+    "10": {
+      "title": "Material de clase"
+    },
+    "11": {
+      "title": "Ventas B2B"
+    },
+    "12": {
+      "title": "Financiación Serie B"
+    },
+    "13": {
+      "title": "Arquitectura de sistema"
+    },
+    "14": {
+      "title": "Presentación estilo TED"
+    },
+    "15": {
+      "title": "Investigación de mercado"
+    },
+    "16": {
+      "title": "Orientación para nuevos empleados"
+    },
+    "17": {
+      "title": "Informe de rendimiento financiero"
+    },
+    "18": {
+      "title": "Sistema de diseño"
+    },
+    "19": {
+      "title": "Caso de estudio"
+    },
+    "20": {
+      "title": "Presentación para la junta directiva"
+    },
+    "21": {
+      "title": "Liderazgo"
+    },
+    "22": {
+      "title": "Estrategia de entrada al mercado"
+    },
+    "23": {
+      "title": "Microservicios"
+    },
+    "24": {
+      "title": "Evaluación de desempeño"
+    },
+    "25": {
+      "title": "Tendencias de IA"
+    }
+  }
+}

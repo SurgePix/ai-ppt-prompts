@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "title": "Thư Viện Prompt PPT & Thuyết Trình AI Tốt Nhất | SurgePix",
+    "description": "Khám phá 25+ prompt thuyết trình AI được tuyển chọn từ Reddit, X & GitHub. Prompt sẵn sàng sao chép cho ChatGPT, Claude, Gamma và nhiều hơn nữa."
+  },
+  "ui": {
+    "hero_title": "Thư Viện Prompt PPT",
+    "hero_subtitle": "Được cập nhật thường xuyên từ các cộng đồng chất lượng cao để soạn thảo thuyết trình nhanh hơn, tốt hơn.",
+    "hero_badge": "25 prompt được tuyển chọn · Reddit · X · GitHub",
+    "hero_discord": "Tham gia Discord để có thêm tài nguyên miễn phí",
+    "rescue_title": "Thuyết Trình Ngày Mai? Giải Pháp 3 Bước",
+    "rescue_step_1": "Mở Surgepix.ai",
+    "rescue_step_2": "Nhấp vào Thuyết Trình",
+    "rescue_step_3": "Dán một prompt bên dưới",
+    "search_label": "Tìm kiếm",
+    "currentLocale": "Hiện tại",
+    "search_placeholder": "Tìm prompt, tác giả, mục đích hoặc phong cách...",
+    "try_surgepix": "Dùng thử Surgepix",
+    "ppt_writing_tips": "Mẹo viết PPT",
+    "filter_count": "{{count}} / {{total}} prompt",
+    "all_types": "Tất cả loại",
+    "all_models": "Tất cả mô hình",
+    "all_use_cases": "Tất cả mục đích",
+    "all_styles": "Tất cả phong cách",
+    "card_copy": "Sao chép",
+    "card_copied": "Đã sao chép!",
+    "card_generate": "Tạo",
+    "expand": "Xem thêm",
+    "collapse": "Thu gọn",
+    "more_prompts_hint": "Còn nhiều prompt hơn ở bên dưới",
+    "load_more": "Tải thêm 3 dòng",
+    "footer_section_title": "Công Cụ Miễn Phí - Sẵn Sàng Sử Dụng",
+    "footer_section_subtitle": "Không cần đăng ký - công cụ xử lý hình ảnh và thiết kế mạnh mẽ",
+    "footer_tool_gpt_title": "Thư Viện Prompt GPT-Image-2",
+    "footer_tool_gpt_desc": "350+ prompt tạo hình ảnh AI được tuyển chọn",
+    "footer_tool_surgepix_title": "SurgePix AI — Tạo & Chỉnh sửa Hình ảnh",
+    "footer_tool_surgepix_desc": "Tạo bài thuyết trình, hình ảnh và nhiều hơn nữa với AI",
+    "footer_tools": {
+      "pdf_to_jpg": "PDF sang JPG",
+      "png_to_jpg": "PNG sang JPG",
+      "jpg_to_pdf": "JPG sang PDF",
+      "heic_to_pdf": "HEIC sang PDF",
+      "heic_to_png": "HEIC sang PNG",
+      "image_resizer": "Thay đổi kích thước hình ảnh",
+      "youtube_banner": "Banner YouTube",
+      "ai_hairstyle": "Kiểu tóc AI",
+      "bar_graph_maker": "Tạo biểu đồ cột",
+      "pie_chart_maker": "Tạo biểu đồ tròn",
+      "venn_diagram": "Biểu đồ Venn",
+      "fathers_day": "Ngày của Cha 2026"
+    },
+    "footer_brand_tagline": "Tạo & Chỉnh sửa Hình ảnh với AI",
+    "footer_contact": "Liên Hệ",
+    "bottom_bar": "Awesome PPT Prompt Library · Awesome PPT Prompt Library · Prompt thuyết trình được tuyển chọn bởi cộng đồng"
+  },
+  "categories": {
+    "all": "Tất cả loại",
+    "business_pitch": "Pitch Kinh Doanh",
+    "tech_product": "Công Nghệ / Sản Phẩm",
+    "education": "Giáo Dục",
+    "marketing": "Tiếp Thị",
+    "report_analysis": "Báo Cáo / Phân Tích",
+    "creative_design": "Sáng Tạo / Thiết Kế",
+    "Business / Strategy": "Kinh doanh / Chiến lược",
+    "Events": "Sự kiện",
+    "Finance": "Tài chính",
+    "Product Launch": "Ra mắt sản phẩm",
+    "Sales Proposal": "Đề xuất Bán hàng"
+  },
+  "styles": {
+    "Minimal": "Tối giản",
+    "Dark": "Tối",
+    "Modern": "Hiện đại",
+    "Academic": "Học thuật",
+    "Corporate": "Doanh nghiệp",
+    "Editorial": "Biên tập",
+    "Colorful": "Sặc sỡ",
+    "Friendly": "Thân thiện",
+    "Executive": "Điều hành",
+    "Technical": "Kỹ thuật",
+    "Bold": "Đậm",
+    "Narrative": "Tường thuật",
+    "Energetic": "Năng động",
+    "Strategic": "Chiến lược",
+    "Professional": "Chuyên nghiệp",
+    "Brand Launch": "Ra mắt thương hiệu",
+    "Calm": "Bình tĩnh",
+    "Data Visualization": "Trực quan hóa dữ liệu",
+    "Elegant": "Thanh lịch",
+    "Playful": "Tinh nghịch",
+    "Retro": "Hoài cổ",
+    "Tech": "Công nghệ",
+    "Warm": "Ấm áp"
+  },
+  "prompts": {
+    "1": {
+      "title": "Bắt đầu"
+    },
+    "2": {
+      "title": "Công cụ phát triển"
+    },
+    "3": {
+      "title": "Nghiên cứu"
+    },
+    "4": {
+      "title": "QBR"
+    },
+    "5": {
+      "title": "Hạt giống trước"
+    },
+    "6": {
+      "title": "ESG"
+    },
+    "7": {
+      "title": "Thương hiệu"
+    },
+    "8": {
+      "title": "Tăng trưởng"
+    },
+    "9": {
+      "title": "Lộ trình"
+    },
+    "10": {
+      "title": "Đại học"
+    },
+    "11": {
+      "title": "B2B"
+    },
+    "12": {
+      "title": "Series B"
+    },
+    "13": {
+      "title": "Kiến trúc"
+    },
+    "14": {
+      "title": "TED"
+    },
+    "15": {
+      "title": "Nghiên cứu thị trường"
+    },
+    "16": {
+      "title": "Đào tạo"
+    },
+    "17": {
+      "title": "Báo cáo hiệu suất tài chính"
+    },
+    "18": {
+      "title": "Hệ thống thiết kế"
+    },
+    "19": {
+      "title": "Nghiên cứu trường hợp"
+    },
+    "20": {
+      "title": "Báo cáo hội đồng quản trị"
+    },
+    "21": {
+      "title": "Lãnh đạo"
+    },
+    "22": {
+      "title": "Chiến lược ra mắt thị trường (GTM)"
+    },
+    "23": {
+      "title": "Dịch vụ vi mô"
+    },
+    "24": {
+      "title": "Đánh giá hiệu suất"
+    },
+    "25": {
+      "title": "Xu hướng AI"
+    }
+  }
+}

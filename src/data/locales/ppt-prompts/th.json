@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "title": "คลังพรอมต์ PPT AI คัดสรร | SurgePix | พรอมต์นำเสนอ GPT-Image-2",
+    "description": "ค้นพบพรอมต์นำเสนอ AI กว่า 25 รายการจาก Reddit, X และ GitHub พรอมต์พร้อมใช้สำหรับ ChatGPT, Claude, Gamma และอื่นๆ"
+  },
+  "ui": {
+    "hero_title": "คลังพรอมต์ PPT",
+    "hero_subtitle": "อัปเดตเป็นประจำจากชุมชนคุณภาพสูงเพื่อสร้างสไลด์นำเสนอได้เร็วและดียิ่งขึ้น",
+    "hero_badge": "25 พรอมต์คัดสรร · Reddit · X · GitHub",
+    "hero_discord": "เข้าร่วม Discord เพื่อรับทรัพยากรฟรีเพิ่มเติม",
+    "rescue_title": "พรุ่งนี้ต้องนำเสนอ? ทางรอด 3 ขั้นตอน",
+    "rescue_step_1": "เปิด Surgepix.ai",
+    "rescue_step_2": "คลิกการนำเสนอ",
+    "rescue_step_3": "วางพรอมต์ด้านล่าง",
+    "search_label": "ค้นหา",
+    "currentLocale": "ปัจจุบัน",
+    "search_placeholder": "ค้นหาพรอมต์ ผู้เขียน การใช้งาน หรือสไตล์...",
+    "try_surgepix": "ลองใช้ Surgepix",
+    "ppt_writing_tips": "เคล็ดลับการเขียน PPT",
+    "filter_count": "แสดง {{shown}} / {{total}} รายการ",
+    "all_types": "ทุกประเภท",
+    "all_models": "ทุกโมเดล",
+    "all_use_cases": "การใช้งานทั้งหมด",
+    "all_styles": "สไตล์ทั้งหมด",
+    "card_copy": "คัดลอก",
+    "card_copied": "คัดลอกแล้ว!",
+    "card_generate": "สร้าง",
+    "expand": "ขยาย",
+    "collapse": "ย่อ",
+    "more_prompts_hint": "มีพรอมต์เพิ่มเติมด้านล่าง",
+    "load_more": "โหลดเพิ่มอีก 3 แถว",
+    "footer_section_title": "เครื่องมือฟรี - พร้อมใช้งาน",
+    "footer_section_subtitle": "ไม่ต้องลงทะเบียน - เครื่องมือประมวลผลภาพและการออกแบบที่ทรงพลัง",
+    "footer_tool_gpt_title": "คลังพรอมต์ GPT-Image-2",
+    "footer_tool_gpt_desc": "พรอมต์สร้างภาพ AI กว่า 350 รายการ",
+    "footer_tool_surgepix_title": "SurgePix AI — แพลตฟอร์มสร้างสรรค์ภาพด้วย AI",
+    "footer_tool_surgepix_desc": "สร้างงานนำเสนอ รูปภาพ และอื่นๆ ด้วย AI",
+    "footer_tools": {
+      "pdf_to_jpg": "PDF เป็น JPG",
+      "png_to_jpg": "PNG เป็น JPG",
+      "jpg_to_pdf": "JPG เป็น PDF",
+      "heic_to_pdf": "HEIC เป็น PDF",
+      "heic_to_png": "HEIC เป็น PNG",
+      "image_resizer": "ปรับขนาดรูปภาพ",
+      "youtube_banner": "แบนเนอร์ YouTube",
+      "ai_hairstyle": "ทรงผม AI",
+      "bar_graph_maker": "สร้างกราฟแท่ง",
+      "pie_chart_maker": "สร้างแผนภูมิวงกลม",
+      "venn_diagram": "แผนภาพเวนน์",
+      "fathers_day": "วันพ่อ 2026"
+    },
+    "footer_brand_tagline": "สร้างและแก้ไขเนื้อหาภาพด้วย AI",
+    "footer_contact": "ติดต่อเรา",
+    "bottom_bar": "พรอมต์นำเสนอคัดสรรจากชุมชน"
+  },
+  "categories": {
+    "all": "ทุกประเภท",
+    "business_pitch": "การนำเสนอธุรกิจ",
+    "tech_product": "เทคโนโลยี / ผลิตภัณฑ์",
+    "education": "การศึกษา",
+    "marketing": "การตลาด",
+    "report_analysis": "รายงาน / วิเคราะห์",
+    "creative_design": "สร้างสรรค์ / ดีไซน์",
+    "Business / Strategy": "ธุรกิจ/กลยุทธ์",
+    "Events": "กิจกรรม",
+    "Finance": "การเงิน",
+    "Product Launch": "การเปิดตัวผลิตภัณฑ์",
+    "Sales Proposal": "ข้อเสนอการขาย"
+  },
+  "styles": {
+    "Minimal": "มินิมอล",
+    "Modern": "โมเดิร์น",
+    "Academic": "วิชาการ",
+    "Corporate": "องค์กร",
+    "Editorial": "บรรณาธิการ",
+    "Colorful": "สีสัน",
+    "Friendly": "เป็นกันเอง",
+    "Executive": "ผู้บริหาร",
+    "Technical": "เทคนิค",
+    "Bold": "โดดเด่น",
+    "Narrative": "เล่าเรื่อง",
+    "Energetic": "มีพลัง",
+    "Strategic": "กลยุทธ์",
+    "Professional": "มืออาชีพ",
+    "Brand Launch": "เปิดตัวแบรนด์",
+    "Calm": "สงบ",
+    "Dark": "มืด",
+    "Data Visualization": "การแสดงข้อมูล",
+    "Elegant": "หรูหรา",
+    "Playful": "ซุกซน",
+    "Retro": "เรโทร",
+    "Tech": "เทคโนโลยี",
+    "Warm": "อบอุ่น"
+  },
+  "prompts": {
+    "1": {
+      "title": "สตาร์ทอัพ"
+    },
+    "2": {
+      "title": "เครื่องมือสำหรับนักพัฒนา"
+    },
+    "3": {
+      "title": "งานวิจัยวิชาการ"
+    },
+    "4": {
+      "title": "รีวิวธุรกิจรายไตรมาส (QBR)"
+    },
+    "5": {
+      "title": "ระดมทุน Pre-Seed"
+    },
+    "6": {
+      "title": "รายงาน ESG"
+    },
+    "7": {
+      "title": "เอกลักษณ์แบรนด์"
+    },
+    "8": {
+      "title": "การเติบโต"
+    },
+    "9": {
+      "title": "โรดแมปผลิตภัณฑ์"
+    },
+    "10": {
+      "title": "เอกสารประกอบการสอน"
+    },
+    "11": {
+      "title": "การขาย B2B"
+    },
+    "12": {
+      "title": "ระดมทุน Series B"
+    },
+    "13": {
+      "title": "สถาปัตยกรรมระบบ"
+    },
+    "14": {
+      "title": "การนำเสนอสไตล์ TED"
+    },
+    "15": {
+      "title": "การวิจัยตลาด"
+    },
+    "16": {
+      "title": "ปฐมนิเทศพนักงานใหม่"
+    },
+    "17": {
+      "title": "รายงานผลประกอบการ"
+    },
+    "18": {
+      "title": "ระบบการออกแบบ"
+    },
+    "19": {
+      "title": "กรณีศึกษา"
+    },
+    "20": {
+      "title": "การนำเสนอต่อคณะกรรมการ"
+    },
+    "21": {
+      "title": "ภาวะผู้นำ"
+    },
+    "22": {
+      "title": "กลยุทธ์การเข้าสู่ตลาด"
+    },
+    "23": {
+      "title": "ไมโครเซอร์วิส"
+    },
+    "24": {
+      "title": "การประเมินผลงาน"
+    },
+    "25": {
+      "title": "เทรนด์ AI"
+    }
+  }
+}

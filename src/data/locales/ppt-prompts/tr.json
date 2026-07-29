@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "title": "En İyi AI PPT & Sunum Prompt Kütüphanesi | SurgePix",
+    "description": "Reddit, X ve GitHub'dan derlenmiş 25+ yapay zeka sunum promptu. ChatGPT, Claude, Gamma ve daha fazlası için kopyala-yapıştır hazır promptlar."
+  },
+  "ui": {
+    "hero_title": "PPT Prompt Kütüphanesi",
+    "hero_subtitle": "Daha hızlı ve daha iyi sunum hazırlamak için yüksek kaliteli topluluktan düzenli olarak güncellenir.",
+    "hero_badge": "25 derlenmiş prompt · Reddit · X · GitHub",
+    "hero_discord": "Daha fazla ücretsiz kaynak için Discord'a katıl",
+    "rescue_title": "Yarın Sunum mu Var? 3 Adımlı Kurtarma",
+    "rescue_step_1": "Surgepix.ai'yi Aç",
+    "rescue_step_2": "Sunum'a Tıkla",
+    "rescue_step_3": "Aşağıdan bir prompt yapıştır",
+    "search_label": "Ara",
+    "currentLocale": "Geçerli",
+    "search_placeholder": "Prompt, yazar, kullanım alanı veya stil ara...",
+    "try_surgepix": "Surgepix'i Dene",
+    "ppt_writing_tips": "PPT Yazma İpuçları",
+    "filter_count": "{{count}} / {{total}} prompt",
+    "all_types": "Tüm Türler",
+    "all_models": "Tüm Modeller",
+    "all_use_cases": "Tüm kullanım alanları",
+    "all_styles": "Tüm stiller",
+    "card_copy": "Kopyala",
+    "card_copied": "Kopyalandı!",
+    "card_generate": "Oluştur",
+    "expand": "Devamını göster",
+    "collapse": "Gizle",
+    "more_prompts_hint": "Daha fazla prompt aşağıda mevcut",
+    "load_more": "3 satır daha yükle",
+    "footer_section_title": "Ücretsiz Araçlar - Kullanıma Hazır",
+    "footer_section_subtitle": "Kayıt gerekmez - güçlü görüntü işleme ve tasarım araçları",
+    "footer_tool_gpt_title": "GPT-Image-2 Prompt Kütüphanesi",
+    "footer_tool_gpt_desc": "350+ derlenmiş AI görüntü oluşturma promptu",
+    "footer_tool_surgepix_title": "SurgePix AI — Görsel Oluştur & Düzenle",
+    "footer_tool_surgepix_desc": "AI ile sunum, görsel ve daha fazlasını oluştur",
+    "footer_tools": {
+      "pdf_to_jpg": "PDF'den JPG'ye",
+      "png_to_jpg": "PNG'den JPG'ye",
+      "jpg_to_pdf": "JPG'den PDF'ye",
+      "heic_to_pdf": "HEIC'den PDF'ye",
+      "heic_to_png": "HEIC'den PNG'ye",
+      "image_resizer": "Görüntü Boyutlandırıcı",
+      "youtube_banner": "YouTube Banner",
+      "ai_hairstyle": "AI Saç Stili",
+      "bar_graph_maker": "Çubuk Grafik Oluşturucu",
+      "pie_chart_maker": "Pasta Grafik Oluşturucu",
+      "venn_diagram": "Venn Diyagramı",
+      "fathers_day": "Babalar Günü 2026"
+    },
+    "footer_brand_tagline": "AI ile Görsel Oluştur & Düzenle",
+    "footer_contact": "Bize Ulaşın",
+    "bottom_bar": "Awesome PPT Prompt Library · Awesome PPT Prompt Library · Topluluk tarafından derlenen sunum promptları"
+  },
+  "categories": {
+    "all": "Tüm Türler",
+    "business_pitch": "İş Sunumu",
+    "tech_product": "Teknoloji / Ürün",
+    "education": "Eğitim",
+    "marketing": "Pazarlama",
+    "report_analysis": "Rapor / Analiz",
+    "creative_design": "Yaratıcı / Tasarım",
+    "Business / Strategy": "İş / Strateji",
+    "Events": "Etkinlikler",
+    "Finance": "Finans",
+    "Product Launch": "Ürün Lansmanı",
+    "Sales Proposal": "Satış Teklifi"
+  },
+  "styles": {
+    "Minimal": "Minimal",
+    "Dark": "Koyu",
+    "Modern": "Modern",
+    "Academic": "Akademik",
+    "Corporate": "Kurumsal",
+    "Editorial": "Editoryal",
+    "Colorful": "Renkli",
+    "Friendly": "Dostane",
+    "Executive": "Yönetici",
+    "Technical": "Teknik",
+    "Bold": "Kalın",
+    "Narrative": "Anlatısal",
+    "Energetic": "Enerjik",
+    "Strategic": "Stratejik",
+    "Professional": "Profesyonel",
+    "Brand Launch": "Marka Lansmanı",
+    "Calm": "Sakin",
+    "Data Visualization": "Veri Görselleştirme",
+    "Elegant": "Zarif",
+    "Playful": "Şakacı",
+    "Retro": "Retro",
+    "Tech": "Teknoloji",
+    "Warm": "Sıcak"
+  },
+  "prompts": {
+    "1": {
+      "title": "Başlangıç"
+    },
+    "2": {
+      "title": "Geliştirici Araçları"
+    },
+    "3": {
+      "title": "Araştırma"
+    },
+    "4": {
+      "title": "QBR"
+    },
+    "5": {
+      "title": "Ön Tohum"
+    },
+    "6": {
+      "title": "ESG"
+    },
+    "7": {
+      "title": "Marka"
+    },
+    "8": {
+      "title": "Büyüme"
+    },
+    "9": {
+      "title": "Yol Haritası"
+    },
+    "10": {
+      "title": "Üniversite"
+    },
+    "11": {
+      "title": "B2B"
+    },
+    "12": {
+      "title": "Series B"
+    },
+    "13": {
+      "title": "Mimari"
+    },
+    "14": {
+      "title": "TED"
+    },
+    "15": {
+      "title": "Pazar Araştırması"
+    },
+    "16": {
+      "title": "İşe Alıştırma"
+    },
+    "17": {
+      "title": "Finansal Performans Raporu"
+    },
+    "18": {
+      "title": "Tasarım Sistemi"
+    },
+    "19": {
+      "title": "Vaka Çalışması"
+    },
+    "20": {
+      "title": "Yönetim Kurulu Sunumu"
+    },
+    "21": {
+      "title": "Liderlik"
+    },
+    "22": {
+      "title": "Pazara Giriş (GTM)"
+    },
+    "23": {
+      "title": "Mikroservisler"
+    },
+    "24": {
+      "title": "Performans Değerlendirmesi"
+    },
+    "25": {
+      "title": "AI Trendleri"
+    }
+  }
+}

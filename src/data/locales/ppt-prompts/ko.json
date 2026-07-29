@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "title": "엄선된 AI PPT 프롬프트 라이브러리 | SurgePix | GPT-Image-2 프레젠테이션 프롬프트",
+    "description": "Reddit, X, GitHub에서 선별한 25개 이상의 AI 프레젠테이션 프롬프트. ChatGPT, Claude, Gamma 등에서 바로 복사하여 사용 가능."
+  },
+  "ui": {
+    "hero_title": "PPT 프롬프트 라이브러리",
+    "hero_subtitle": "고품질 커뮤니티에서 정기적으로 업데이트되어 바로 사용할 수 있는 PPT 프롬프트를 더 빠르게 작성할 수 있습니다.",
+    "hero_badge": "25개 선별 프롬프트 · Reddit · X · GitHub",
+    "hero_discord": "Discord 참여로 더 많은 무료 리소스 받기",
+    "rescue_title": "내일 발표? 3단계 긴급 대응",
+    "rescue_step_1": "Surgepix.ai 열기",
+    "rescue_step_2": "프레젠테이션 클릭",
+    "rescue_step_3": "아래 프롬프트 붙여넣기",
+    "search_label": "검색",
+    "currentLocale": "현재",
+    "search_placeholder": "프롬프트, 작성자, 용도 또는 스타일 검색...",
+    "try_surgepix": "Surgepix 사용하기",
+    "ppt_writing_tips": "PPT 작성 팁",
+    "filter_count": "{{shown}} / {{total}}개 표시",
+    "all_types": "모든 유형",
+    "all_models": "모든 모델",
+    "all_use_cases": "모든 용도",
+    "all_styles": "모든 스타일",
+    "card_copy": "복사",
+    "card_copied": "복사 완료!",
+    "card_generate": "생성",
+    "expand": "펼치기",
+    "collapse": "접기",
+    "more_prompts_hint": "아래에 더 많은 프롬프트가 있습니다",
+    "load_more": "3줄 더 불러오기",
+    "footer_section_title": "무료 도구 - 바로 사용 가능",
+    "footer_section_subtitle": "등록 불필요 - 강력한 이미지 처리 및 디자인 도구",
+    "footer_tool_gpt_title": "GPT-Image-2 프롬프트 라이브러리",
+    "footer_tool_gpt_desc": "350개 이상의 선별된 AI 이미지 생성 프롬프트",
+    "footer_tool_surgepix_title": "SurgePix AI — AI 비주얼 제작 플랫폼",
+    "footer_tool_surgepix_desc": "AI로 프레젠테이션, 이미지 등을 생성",
+    "footer_tools": {
+      "pdf_to_jpg": "PDF를 JPG로",
+      "png_to_jpg": "PNG를 JPG로",
+      "jpg_to_pdf": "JPG를 PDF로",
+      "heic_to_pdf": "HEIC를 PDF로",
+      "heic_to_png": "HEIC를 PNG로",
+      "image_resizer": "이미지 크기 조정",
+      "youtube_banner": "YouTube 배너",
+      "ai_hairstyle": "AI 헤어스타일",
+      "bar_graph_maker": "막대 그래프 메이커",
+      "pie_chart_maker": "원형 차트 메이커",
+      "venn_diagram": "벤 다이어그램",
+      "fathers_day": "아버지의 날 2026"
+    },
+    "footer_brand_tagline": "AI로 시각 콘텐츠 제작 및 편집",
+    "footer_contact": "문의하기",
+    "bottom_bar": "커뮤니티 선별 프레젠테이션 프롬프트"
+  },
+  "categories": {
+    "all": "모든 유형",
+    "business_pitch": "비즈니스 프레젠테이션",
+    "tech_product": "기술 / 제품",
+    "education": "교육",
+    "marketing": "마케팅",
+    "report_analysis": "보고서 / 분석",
+    "creative_design": "크리에이티브 / 디자인",
+    "Business / Strategy": "비즈니스/전략",
+    "Events": "이벤트",
+    "Finance": "금융",
+    "Product Launch": "제품 출시",
+    "Sales Proposal": "영업 제안서"
+  },
+  "styles": {
+    "Minimal": "미니멀",
+    "Modern": "모던",
+    "Academic": "아카데믹",
+    "Corporate": "코퍼레이트",
+    "Editorial": "에디토리얼",
+    "Colorful": "컬러풀",
+    "Friendly": "프렌들리",
+    "Executive": "이그제큐티브",
+    "Technical": "테크니컬",
+    "Bold": "볼드",
+    "Narrative": "내러티브",
+    "Energetic": "에너제틱",
+    "Strategic": "스트래티직",
+    "Professional": "프로페셔널",
+    "Brand Launch": "브랜드 론칭",
+    "Calm": "차분한",
+    "Dark": "다크",
+    "Data Visualization": "데이터 시각화",
+    "Elegant": "우아한",
+    "Playful": "장난스러운",
+    "Retro": "레트로",
+    "Tech": "테크",
+    "Warm": "따뜻한"
+  },
+  "prompts": {
+    "1": {
+      "title": "스타트업"
+    },
+    "2": {
+      "title": "개발자 도구"
+    },
+    "3": {
+      "title": "학술 연구"
+    },
+    "4": {
+      "title": "분기별 비즈니스 리뷰 (QBR)"
+    },
+    "5": {
+      "title": "프리시드"
+    },
+    "6": {
+      "title": "ESG 보고서"
+    },
+    "7": {
+      "title": "브랜드 아이덴티티"
+    },
+    "8": {
+      "title": "성장"
+    },
+    "9": {
+      "title": "제품 로드맵"
+    },
+    "10": {
+      "title": "강의 자료"
+    },
+    "11": {
+      "title": "B2B 세일즈"
+    },
+    "12": {
+      "title": "시리즈 B 펀딩"
+    },
+    "13": {
+      "title": "시스템 아키텍처"
+    },
+    "14": {
+      "title": "TED 스타일 프레젠테이션"
+    },
+    "15": {
+      "title": "시장 조사"
+    },
+    "16": {
+      "title": "신입사원 오리엔테이션"
+    },
+    "17": {
+      "title": "재무 성과 보고서"
+    },
+    "18": {
+      "title": "디자인 시스템"
+    },
+    "19": {
+      "title": "사례 연구"
+    },
+    "20": {
+      "title": "이사회 프레젠테이션"
+    },
+    "21": {
+      "title": "리더십"
+    },
+    "22": {
+      "title": "시장 진출 전략"
+    },
+    "23": {
+      "title": "마이크로서비스"
+    },
+    "24": {
+      "title": "성과 평가"
+    },
+    "25": {
+      "title": "AI 트렌드"
+    }
+  }
+}

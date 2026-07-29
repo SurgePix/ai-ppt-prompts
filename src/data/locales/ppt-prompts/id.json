@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "title": "Koleksi Prompt PPT AI Terbaik | SurgePix | Prompt Presentasi GPT-Image-2",
+    "description": "Temukan 25+ prompt presentasi AI terkurasi dari Reddit, X & GitHub. Prompt siap pakai untuk ChatGPT, Claude, Gamma, dan lainnya."
+  },
+  "ui": {
+    "hero_title": "Koleksi Prompt PPT",
+    "hero_subtitle": "Diperbarui rutin dari komunitas berkualitas tinggi untuk membuat presentasi lebih cepat dan lebih baik.",
+    "hero_badge": "25 prompt terkurasi · Reddit · X · GitHub",
+    "hero_discord": "Gabung Discord untuk sumber daya gratis lainnya",
+    "rescue_title": "Presentasi Besok? Solusi 3 Langkah",
+    "rescue_step_1": "Buka Surgepix.ai",
+    "rescue_step_2": "Klik Presentasi",
+    "rescue_step_3": "Tempel salah satu prompt di bawah",
+    "search_label": "Cari",
+    "currentLocale": "Saat ini",
+    "search_placeholder": "Cari prompt, penulis, kegunaan, atau gaya...",
+    "try_surgepix": "Coba Surgepix",
+    "ppt_writing_tips": "Tips Penulisan PPT",
+    "filter_count": "{{count}} / {{total}} prompt",
+    "all_types": "Semua Jenis",
+    "all_models": "Semua Model",
+    "all_use_cases": "Semua kegunaan",
+    "all_styles": "Semua gaya",
+    "card_copy": "Copy",
+    "card_copied": "Tersalin!",
+    "card_generate": "Buat",
+    "expand": "Tampilkan selengkapnya",
+    "collapse": "Sembunyikan",
+    "more_prompts_hint": "Lebih banyak prompt tersedia di bawah",
+    "load_more": "Muat 3 baris lagi",
+    "footer_section_title": "Alat Gratis - Siap Digunakan",
+    "footer_section_subtitle": "Tidak perlu registrasi - alat pemrosesan gambar dan desain yang andal",
+    "footer_tool_gpt_title": "Koleksi Prompt GPT-Image-2",
+    "footer_tool_gpt_desc": "350+ prompt pembuatan gambar AI terkurasi",
+    "footer_tool_surgepix_title": "SurgePix AI — Buat & Edit Visual",
+    "footer_tool_surgepix_desc": "Buat presentasi, gambar, dan lainnya dengan AI",
+    "footer_tools": {
+      "pdf_to_jpg": "PDF ke JPG",
+      "png_to_jpg": "PNG ke JPG",
+      "jpg_to_pdf": "JPG ke PDF",
+      "heic_to_pdf": "HEIC ke PDF",
+      "heic_to_png": "HEIC ke PNG",
+      "image_resizer": "Pengubah Ukuran Gambar",
+      "youtube_banner": "Spanduk YouTube",
+      "ai_hairstyle": "Gaya Rambut AI",
+      "bar_graph_maker": "Pembuat Grafik Batang",
+      "pie_chart_maker": "Pembuat Diagram Lingkaran",
+      "venn_diagram": "Diagram Venn",
+      "fathers_day": "Hari Ayah 2026"
+    },
+    "footer_brand_tagline": "Buat & Edit Visual dengan AI",
+    "footer_contact": "Hubungi Kami",
+    "bottom_bar": "Koleksi Prompt PPT Keren · Perpustakaan Prompt PPT Keren · Prompt presentasi yang dikurasi komunitas"
+  },
+  "categories": {
+    "all": "Semua Jenis",
+    "business_pitch": "PRESENTASI BISNIS",
+    "tech_product": "TEKNOLOGI & PRODUK",
+    "education": "Pendidikan",
+    "marketing": "PEMASARAN",
+    "report_analysis": "LAPORAN & ANALISIS",
+    "creative_design": "KREATIF & DESAIN",
+    "Business / Strategy": "Bisnis / Strategi",
+    "Events": "Acara",
+    "Finance": "Keuangan",
+    "Product Launch": "Peluncuran Produk",
+    "Sales Proposal": "Proposal Penjualan"
+  },
+  "styles": {
+    "Minimal": "Minimalis",
+    "Modern": "Modern",
+    "Academic": "Akademik",
+    "Corporate": "Korporat",
+    "Editorial": "Editorial",
+    "Colorful": "Berwarna",
+    "Friendly": "Ramah",
+    "Executive": "Eksekutif",
+    "Technical": "Teknis",
+    "Bold": "Berani",
+    "Narrative": "Naratif",
+    "Energetic": "Dinamis",
+    "Strategic": "Strategis",
+    "Professional": "Profesional",
+    "Brand Launch": "Peluncuran Merek",
+    "Calm": "Tenang",
+    "Dark": "Gelap",
+    "Data Visualization": "Visualisasi Data",
+    "Elegant": "Elegan",
+    "Playful": "Playful",
+    "Retro": "Retro",
+    "Tech": "Teknologi",
+    "Warm": "Hangat"
+  },
+  "prompts": {
+    "1": {
+      "title": "Startup"
+    },
+    "2": {
+      "title": "Alat Developer"
+    },
+    "3": {
+      "title": "Riset Akademik"
+    },
+    "4": {
+      "title": "Tinjauan Bisnis Kuartalan (QBR)"
+    },
+    "5": {
+      "title": "Pra-Pendanaan (Pre-Seed)"
+    },
+    "6": {
+      "title": "Laporan ESG"
+    },
+    "7": {
+      "title": "Identitas Merek"
+    },
+    "8": {
+      "title": "Pertumbuhan"
+    },
+    "9": {
+      "title": "Peta Jalan Produk"
+    },
+    "10": {
+      "title": "Materi Perkuliahan"
+    },
+    "11": {
+      "title": "Penjualan B2B"
+    },
+    "12": {
+      "title": "Pendanaan Seri B"
+    },
+    "13": {
+      "title": "Arsitektur Sistem"
+    },
+    "14": {
+      "title": "Presentasi Gaya TED"
+    },
+    "15": {
+      "title": "Riset Pasar"
+    },
+    "16": {
+      "title": "Orientasi Karyawan Baru"
+    },
+    "17": {
+      "title": "Laporan Kinerja Keuangan"
+    },
+    "18": {
+      "title": "Sistem Desain"
+    },
+    "19": {
+      "title": "Studi Kasus"
+    },
+    "20": {
+      "title": "Presentasi Dewan Direksi"
+    },
+    "21": {
+      "title": "Kepemimpinan"
+    },
+    "22": {
+      "title": "Strategi Go-to-Market"
+    },
+    "23": {
+      "title": "Mikroservis"
+    },
+    "24": {
+      "title": "Evaluasi Kinerja"
+    },
+    "25": {
+      "title": "Tren AI"
+    }
+  }
+}

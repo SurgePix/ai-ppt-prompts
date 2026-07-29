@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "title": "厳選 AI PPT プロンプトライブラリ | SurgePix | GPT-Image-2 プレゼンテーションプロンプト",
+    "description": "Reddit、X、GitHubから厳選した25以上のAIプレゼンテーションプロンプト。ChatGPT、Claude、Gammaなどに対応し、そのままコピーして使用可能。"
+  },
+  "ui": {
+    "hero_title": "PPT プロンプトライブラリ",
+    "hero_subtitle": "高品質コミュニティから定期的に更新され、すぐに使えるPPTプロンプトをより早く作成できます。",
+    "hero_badge": "厳選25プロンプト · Reddit · X · GitHub",
+    "hero_discord": "Discordに参加してさらに無料リソースを入手",
+    "rescue_title": "明日プレゼン？3ステップで緊急対応",
+    "rescue_step_1": "Surgepix.ai を開く",
+    "rescue_step_2": "プレゼンテーションをクリック",
+    "rescue_step_3": "下のプロンプトを貼り付け",
+    "search_label": "検索",
+    "currentLocale": "現在",
+    "search_placeholder": "プロンプト、作者、用途、スタイルを検索...",
+    "try_surgepix": "Surgepix を試す",
+    "ppt_writing_tips": "PPT作成のコツ",
+    "filter_count": "{{shown}} / {{total}} 件表示",
+    "all_types": "すべてのタイプ",
+    "all_models": "すべてのモデル",
+    "all_use_cases": "すべての用途",
+    "all_styles": "すべてのスタイル",
+    "card_copy": "コピー",
+    "card_copied": "コピーしました！",
+    "card_generate": "生成",
+    "expand": "展開",
+    "collapse": "折りたたむ",
+    "more_prompts_hint": "さらに下にプロンプトがあります",
+    "load_more": "さらに3行読み込む",
+    "footer_section_title": "無料ツール - すぐに使える",
+    "footer_section_subtitle": "登録不要 - 強力な画像処理・デザインツール",
+    "footer_tool_gpt_title": "GPT-Image-2 プロンプトライブラリ",
+    "footer_tool_gpt_desc": "350以上の厳選AI画像生成プロンプト",
+    "footer_tool_surgepix_title": "SurgePix AI — AIビジュアル作成プラットフォーム",
+    "footer_tool_surgepix_desc": "AIでプレゼンテーション、画像などを作成",
+    "footer_tools": {
+      "pdf_to_jpg": "PDFをJPGに",
+      "png_to_jpg": "PNGをJPGに",
+      "jpg_to_pdf": "JPGをPDFに",
+      "heic_to_pdf": "HEICをPDFに",
+      "heic_to_png": "HEICをPNGに",
+      "image_resizer": "画像リサイズ",
+      "youtube_banner": "YouTubeバナー",
+      "ai_hairstyle": "AIヘアスタイル",
+      "bar_graph_maker": "棒グラフメーカー",
+      "pie_chart_maker": "円グラフメーカー",
+      "venn_diagram": "ベン図",
+      "fathers_day": "父の日 2026"
+    },
+    "footer_brand_tagline": "AIでビジュアルコンテンツを作成・編集",
+    "footer_contact": "お問い合わせ",
+    "bottom_bar": "コミュニティ厳選プレゼンテーションプロンプト"
+  },
+  "categories": {
+    "all": "すべてのタイプ",
+    "business_pitch": "ビジネスプレゼン",
+    "tech_product": "テクノロジー / 製品",
+    "education": "教育",
+    "marketing": "マーケティング",
+    "report_analysis": "レポート / 分析",
+    "creative_design": "クリエイティブ / デザイン",
+    "Business / Strategy": "ビジネス・戦略",
+    "Events": "イベント",
+    "Finance": "金融",
+    "Product Launch": "製品発表",
+    "Sales Proposal": "営業提案"
+  },
+  "styles": {
+    "Minimal": "ミニマル",
+    "Modern": "モダン",
+    "Academic": "アカデミック",
+    "Corporate": "コーポレート",
+    "Editorial": "エディトリアル",
+    "Colorful": "カラフル",
+    "Friendly": "フレンドリー",
+    "Executive": "エグゼクティブ",
+    "Technical": "テクニカル",
+    "Bold": "ボールド",
+    "Narrative": "ナラティブ",
+    "Energetic": "エネルギッシュ",
+    "Strategic": "ストラテジック",
+    "Professional": "プロフェッショナル",
+    "Brand Launch": "ブランドローンチ",
+    "Calm": "穏やか",
+    "Dark": "ダーク",
+    "Data Visualization": "データ可視化",
+    "Elegant": "エレガント",
+    "Playful": "プレイフル",
+    "Retro": "レトロ",
+    "Tech": "テック",
+    "Warm": "温かい"
+  },
+  "prompts": {
+    "1": {
+      "title": "スタートアップ"
+    },
+    "2": {
+      "title": "開発者向けツール"
+    },
+    "3": {
+      "title": "学術研究"
+    },
+    "4": {
+      "title": "四半期ビジネスレビュー (QBR)"
+    },
+    "5": {
+      "title": "プレシード"
+    },
+    "6": {
+      "title": "ESGレポート"
+    },
+    "7": {
+      "title": "ブランドアイデンティティ"
+    },
+    "8": {
+      "title": "成長戦略"
+    },
+    "9": {
+      "title": "製品ロードマップ"
+    },
+    "10": {
+      "title": "講義資料"
+    },
+    "11": {
+      "title": "B2Bセールス"
+    },
+    "12": {
+      "title": "シリーズB資金調達"
+    },
+    "13": {
+      "title": "システムアーキテクチャ"
+    },
+    "14": {
+      "title": "TED風プレゼンテーション"
+    },
+    "15": {
+      "title": "市場調査"
+    },
+    "16": {
+      "title": "新入社員研修"
+    },
+    "17": {
+      "title": "業績レポート"
+    },
+    "18": {
+      "title": "デザインシステム"
+    },
+    "19": {
+      "title": "ケーススタディ"
+    },
+    "20": {
+      "title": "取締役会プレゼンテーション"
+    },
+    "21": {
+      "title": "リーダーシップ"
+    },
+    "22": {
+      "title": "市場参入戦略"
+    },
+    "23": {
+      "title": "マイクロサービス"
+    },
+    "24": {
+      "title": "業績評価"
+    },
+    "25": {
+      "title": "AIトレンド"
+    }
+  }
+}

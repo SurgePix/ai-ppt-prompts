@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "title": "Kuratierte KI-PPT-Promptbibliothek | SurgePix | GPT-Image-2 Präsentationsprompts",
+    "description": "Entdecken Sie 25+ kuratierte KI-Präsentationsprompts aus Reddit, X und GitHub. Fertige Prompts für ChatGPT, Claude, Gamma und mehr."
+  },
+  "ui": {
+    "hero_title": "PPT-Promptbibliothek",
+    "hero_subtitle": "Regelmäßig aus hochwertigen Communities aktualisiert, damit Sie schneller direkt verwendbare PPT-Prompts erstellen können.",
+    "hero_badge": "25 kuratierte Prompts · Reddit · X · GitHub",
+    "hero_discord": "Treten Sie Discord bei für weitere kostenlose Ressourcen",
+    "rescue_title": "Morgen präsentieren? 3-Schritte-Notfallplan",
+    "rescue_step_1": "Öffnen Sie Surgepix.ai",
+    "rescue_step_2": "Klicken Sie auf Präsentation",
+    "rescue_step_3": "Fügen Sie einen Prompt unten ein",
+    "search_label": "Suchen",
+    "currentLocale": "Aktuell",
+    "search_placeholder": "Prompts, Autoren, Einsatzzwecke oder Stile durchsuchen...",
+    "try_surgepix": "Surgepix ausprobieren",
+    "ppt_writing_tips": "PPT-Schreibtricks",
+    "filter_count": "{{shown}} von {{total}} angezeigt",
+    "all_types": "Alle Typen",
+    "all_models": "Alle Modelle",
+    "all_use_cases": "Alle Einsatzzwecke",
+    "all_styles": "Alle Stile",
+    "card_copy": "Kopieren",
+    "card_copied": "Kopiert!",
+    "card_generate": "Generieren",
+    "expand": "Erweitern",
+    "collapse": "Einklappen",
+    "more_prompts_hint": "Weitere Prompts unten",
+    "load_more": "3 weitere Zeilen laden",
+    "footer_section_title": "Kostenlose Tools — Einsatzbereit",
+    "footer_section_subtitle": "Keine Registrierung erforderlich — leistungsstarke Bild- und Designtools",
+    "footer_tool_gpt_title": "GPT-Image-2 Prompt-Bibliothek",
+    "footer_tool_gpt_desc": "350+ kuratierte KI-Bildgenerierungsprompts",
+    "footer_tool_surgepix_title": "SurgePix AI — Visuelle KI-Plattform",
+    "footer_tool_surgepix_desc": "Erstellen Sie Präsentationen, Bilder und mehr mit KI",
+    "footer_tools": {
+      "pdf_to_jpg": "PDF zu JPG",
+      "png_to_jpg": "PNG zu JPG",
+      "jpg_to_pdf": "JPG zu PDF",
+      "heic_to_pdf": "HEIC zu PDF",
+      "heic_to_png": "HEIC zu PNG",
+      "image_resizer": "Bildgröße ändern",
+      "youtube_banner": "YouTube-Banner",
+      "ai_hairstyle": "KI-Frisur",
+      "bar_graph_maker": "Balkendiagramm-Ersteller",
+      "pie_chart_maker": "Kreisdiagramm-Ersteller",
+      "venn_diagram": "Venn-Diagramm",
+      "fathers_day": "Vatertag 2026"
+    },
+    "footer_brand_tagline": "Visuelle Inhalte mit KI erstellen & bearbeiten",
+    "footer_contact": "Kontakt",
+    "bottom_bar": "Community-kuratierte Präsentationsprompts"
+  },
+  "categories": {
+    "all": "Alle Typen",
+    "business_pitch": "Geschäftspräsentation",
+    "tech_product": "Technologie / Produkt",
+    "education": "Bildung",
+    "marketing": "Marketing",
+    "report_analysis": "Bericht / Analyse",
+    "creative_design": "Kreativ / Design",
+    "Business / Strategy": "Business / Strategie",
+    "Events": "Veranstaltungen",
+    "Finance": "Finanzen",
+    "Product Launch": "Produkteinführung",
+    "Sales Proposal": "Verkaufsangebot"
+  },
+  "styles": {
+    "Minimal": "Minimalistisch",
+    "Modern": "Modern",
+    "Academic": "Akademisch",
+    "Corporate": "Unternehmen",
+    "Editorial": "Editorial",
+    "Colorful": "Farbenfroh",
+    "Friendly": "Freundlich",
+    "Executive": "Führungsebene",
+    "Technical": "Technisch",
+    "Bold": "Auffällig",
+    "Narrative": "Erzählerisch",
+    "Energetic": "Energiegeladen",
+    "Strategic": "Strategisch",
+    "Professional": "Professionell",
+    "Brand Launch": "Markeneinführung",
+    "Calm": "Ruhig",
+    "Dark": "Dunkel",
+    "Data Visualization": "Datenvisualisierung",
+    "Elegant": "Elegant",
+    "Playful": "Verspielt",
+    "Retro": "Retro",
+    "Tech": "Technik",
+    "Warm": "Warm"
+  },
+  "prompts": {
+    "1": {
+      "title": "Startup"
+    },
+    "2": {
+      "title": "Entwicklertools"
+    },
+    "3": {
+      "title": "Akademische Forschung"
+    },
+    "4": {
+      "title": "Quartals-Business-Review (QBR)"
+    },
+    "5": {
+      "title": "Pre-Seed"
+    },
+    "6": {
+      "title": "ESG-Bericht"
+    },
+    "7": {
+      "title": "Markenidentität"
+    },
+    "8": {
+      "title": "Wachstum"
+    },
+    "9": {
+      "title": "Produkt-Roadmap"
+    },
+    "10": {
+      "title": "Vorlesungsmaterial"
+    },
+    "11": {
+      "title": "B2B-Vertrieb"
+    },
+    "12": {
+      "title": "Series-B-Finanzierung"
+    },
+    "13": {
+      "title": "Systemarchitektur"
+    },
+    "14": {
+      "title": "TED-artige Präsentation"
+    },
+    "15": {
+      "title": "Marktforschung"
+    },
+    "16": {
+      "title": "Mitarbeiter-Onboarding"
+    },
+    "17": {
+      "title": "Finanzbericht"
+    },
+    "18": {
+      "title": "Designsystem"
+    },
+    "19": {
+      "title": "Fallstudie"
+    },
+    "20": {
+      "title": "Vorstandspräsentation"
+    },
+    "21": {
+      "title": "Führung"
+    },
+    "22": {
+      "title": "Markteintrittsstrategie"
+    },
+    "23": {
+      "title": "Microservices"
+    },
+    "24": {
+      "title": "Leistungsbeurteilung"
+    },
+    "25": {
+      "title": "KI-Trends"
+    }
+  }
+}

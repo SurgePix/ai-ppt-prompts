@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "title": "精選 AI PPT 提示詞庫 | SurgePix | GPT-Image-2 簡報提示詞",
+    "description": "探索來自 Reddit、X 和 GitHub 的 25+ 精選 AI 簡報提示詞。適用於 ChatGPT、Claude、Gamma 等模型，可直接複製使用。"
+  },
+  "ui": {
+    "hero_title": "PPT 提示詞庫",
+    "hero_subtitle": "從高品質用戶社群中持續更新，幫助你更快寫出能直接使用的 PPT 提示詞。",
+    "hero_badge": "25 條精選提示詞 · Reddit · X · GitHub",
+    "hero_discord": "加入 Discord 獲取更多免費資源",
+    "rescue_title": "明天就要簡報？三步快速救援",
+    "rescue_step_1": "打開 Surgepix.ai",
+    "rescue_step_2": "點擊簡報",
+    "rescue_step_3": "貼上下方提示詞",
+    "search_label": "搜尋",
+    "currentLocale": "目前",
+    "search_placeholder": "搜尋提示詞、作者、用途或風格...",
+    "try_surgepix": "試用 Surgepix",
+    "ppt_writing_tips": "PPT 寫作技巧",
+    "filter_count": "已顯示 {{shown}} / {{total}} 條",
+    "all_types": "全部類型",
+    "all_models": "全部模型",
+    "all_use_cases": "全部用途",
+    "all_styles": "全部風格",
+    "card_copy": "複製",
+    "card_copied": "已複製！",
+    "card_generate": "生成",
+    "expand": "展開",
+    "collapse": "收起",
+    "more_prompts_hint": "下方還有更多提示詞",
+    "load_more": "再載入 3 行",
+    "footer_section_title": "更多工具，開箱即用",
+    "footer_section_subtitle": "無需註冊，直接使用強大的影像處理與設計工具",
+    "footer_tool_gpt_title": "GPT-Image-2 提示詞庫",
+    "footer_tool_gpt_desc": "350+ 精選 AI 圖像生成提示詞",
+    "footer_tool_surgepix_title": "SurgePix AI — AI 視覺創作平台",
+    "footer_tool_surgepix_desc": "用 AI 生成簡報、圖像等內容",
+    "footer_tools": {
+      "pdf_to_jpg": "PDF 轉 JPG",
+      "png_to_jpg": "PNG 轉 JPG",
+      "jpg_to_pdf": "JPG 轉 PDF",
+      "heic_to_pdf": "HEIC 轉 PDF",
+      "heic_to_png": "HEIC 轉 PNG",
+      "image_resizer": "圖片調整器",
+      "youtube_banner": "YouTube 封面",
+      "ai_hairstyle": "AI 髮型產生器",
+      "bar_graph_maker": "長條圖產生器",
+      "pie_chart_maker": "圓餅圖產生器",
+      "venn_diagram": "文氏圖",
+      "fathers_day": "2026 父親節海報"
+    },
+    "footer_brand_tagline": "用 AI 創建和編輯視覺內容",
+    "footer_contact": "聯絡我們",
+    "bottom_bar": "社群精選簡報提示詞"
+  },
+  "categories": {
+    "all": "全部類型",
+    "business_pitch": "商業簡報",
+    "tech_product": "技術 / 產品",
+    "education": "教育",
+    "marketing": "行銷",
+    "report_analysis": "報告 / 分析",
+    "creative_design": "創意 / 設計",
+    "business_strategy": "商業 / 策略",
+    "events": "活動",
+    "finance": "金融",
+    "Product Launch": "產品發布",
+    "Sales Proposal": "銷售提案"
+  },
+  "styles": {
+    "Minimal": "極簡",
+    "Modern": "現代",
+    "Academic": "學術",
+    "Corporate": "企業",
+    "Editorial": "編輯風格",
+    "Colorful": "繽紛",
+    "Friendly": "親切",
+    "Executive": "高層主管",
+    "Technical": "技術",
+    "Bold": "大膽",
+    "Narrative": "敘事",
+    "Energetic": "活力",
+    "Strategic": "策略",
+    "Professional": "專業",
+    "Tech": "科技",
+    "Warm": "溫暖",
+    "Playful": "活潑",
+    "Calm": "沉穩",
+    "Elegant": "優雅",
+    "Dark": "深色",
+    "Retro": "復古",
+    "Brand Launch": "品牌發布",
+    "Data Visualization": "資料視覺化"
+  },
+  "prompts": {
+    "1": {
+      "title": "新創公司"
+    },
+    "2": {
+      "title": "開發者工具"
+    },
+    "3": {
+      "title": "學術研究"
+    },
+    "4": {
+      "title": "季度商業回顧 (QBR)"
+    },
+    "5": {
+      "title": "種子前募資"
+    },
+    "6": {
+      "title": "ESG 報告"
+    },
+    "7": {
+      "title": "品牌識別"
+    },
+    "8": {
+      "title": "成長"
+    },
+    "9": {
+      "title": "產品路線圖"
+    },
+    "10": {
+      "title": "授課材料"
+    },
+    "11": {
+      "title": "B2B 銷售"
+    },
+    "12": {
+      "title": "B 輪融資"
+    },
+    "13": {
+      "title": "系統架構"
+    },
+    "14": {
+      "title": "TED 風格簡報"
+    },
+    "15": {
+      "title": "市場研究"
+    },
+    "16": {
+      "title": "新進員工培訓"
+    },
+    "17": {
+      "title": "財務績效報告"
+    },
+    "18": {
+      "title": "設計系統"
+    },
+    "19": {
+      "title": "案例研究"
+    },
+    "20": {
+      "title": "董事會簡報"
+    },
+    "21": {
+      "title": "領導力"
+    },
+    "22": {
+      "title": "市場進入策略"
+    },
+    "23": {
+      "title": "微服務"
+    },
+    "24": {
+      "title": "績效評估"
+    },
+    "25": {
+      "title": "AI 趨勢"
+    }
+  }
+}

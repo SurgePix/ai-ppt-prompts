@@ -1,0 +1,638 @@
+[
+  {
+    "author": "AAAAAAAJ",
+    "autoTagging": {
+      "model": "glm-5.2-ud-q2-k-xl",
+      "status": "success"
+    },
+    "category": "Creative / Design",
+    "id": "registry:style_prompt_studio_ppt_2ab18a4cbccdf5aa",
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/registry/style_prompt_studio_ppt_2ab18a4cbccdf5aa/1.webp",
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/registry/style_prompt_studio_ppt_2ab18a4cbccdf5aa/2.webp"
+    ],
+    "metadata": {
+      "presentationExportContract": "ppt-frontend-export-v1",
+      "presentationTagContract": "presentation-tags-v1",
+      "presentationTagModel": "glm-5.2-ud-q2-k-xl",
+      "registryPromptHash": "2ab18a4cbccdf5aad1b0acb733bbfba5e038fa4258d0cbcf426b3ae7ee1add62",
+      "registryPromptId": "style_prompt_studio_ppt_2ab18a4cbccdf5aa",
+      "safetyGateVersion": "prompt-card-safety-v2",
+      "sourceCommit": "e9d5f3f3290af9e50ca3aa18eed176b9a6c02978",
+      "sourceLicense": "MIT",
+      "sourceLicenseUrl": "https://github.com/AAAAAAAJ/slides/blob/e9d5f3f3290af9e50ca3aa18eed176b9a6c02978/LICENSE",
+      "sourceRepository": "AAAAAAAJ/slides",
+      "sourceUniqueKey": "style_prompt_studio_ppt:github_repository:aaaaaaaj/slides:style_prompt_studio_ppt:acid-graphics"
+    },
+    "prompt": "Acid graphics Y2K style PPT slide, Light gray background, title text, subtitle below, key stats in stylized cards, Metallic chrome elements, holographic accents, Colors: purple #B185FF, pink #FF6EC7, mint #7BFFCB, gold #FFD700, Liquid shapes, star sparkles, mesh gradients, Y2K aesthetic, futuristic design, 16:9",
+    "sourcePlatform": "github",
+    "sourceUrl": "https://github.com/AAAAAAAJ/slides/blob/e9d5f3f3290af9e50ca3aa18eed176b9a6c02978/PROMPTS.md",
+    "style": "Retro",
+    "styles": [
+      "Retro",
+      "Bold"
+    ],
+    "tags": [
+      "use_case:Creative / Design",
+      "style:Retro",
+      "style:Bold"
+    ],
+    "title": "Acid Graphics Y2K (酸性设计)",
+    "useCases": [
+      "Creative / Design"
+    ]
+  },
+  {
+    "author": "AAAAAAAJ",
+    "autoTagging": {
+      "model": "glm-5.2-ud-q2-k-xl",
+      "status": "success"
+    },
+    "category": "Creative / Design",
+    "id": "registry:style_prompt_studio_ppt_374e776b443669d4",
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/registry/style_prompt_studio_ppt_374e776b443669d4/1.webp",
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/registry/style_prompt_studio_ppt_374e776b443669d4/2.webp"
+    ],
+    "metadata": {
+      "presentationExportContract": "ppt-frontend-export-v1",
+      "presentationTagContract": "presentation-tags-v1",
+      "presentationTagModel": "glm-5.2-ud-q2-k-xl",
+      "registryPromptHash": "374e776b443669d47d2e254743fae1c861ec11216dcbff6e35158ec7d8eb6b25",
+      "registryPromptId": "style_prompt_studio_ppt_374e776b443669d4",
+      "safetyGateVersion": "prompt-card-safety-v2",
+      "sourceCommit": "e9d5f3f3290af9e50ca3aa18eed176b9a6c02978",
+      "sourceLicense": "MIT",
+      "sourceLicenseUrl": "https://github.com/AAAAAAAJ/slides/blob/e9d5f3f3290af9e50ca3aa18eed176b9a6c02978/LICENSE",
+      "sourceRepository": "AAAAAAAJ/slides",
+      "sourceUniqueKey": "style_prompt_studio_ppt:github_repository:aaaaaaaj/slides:style_prompt_studio_ppt:swiss-international"
+    },
+    "prompt": "Swiss international style PPT slide, brutalist graphic design, Light gray background, bold title text, subtitle with diagonal layout, key stats in geometric blocks, High saturation colors: blue #007AFF, green #00994D, yellow #FFF066, purple #9966FF, pink #FF3399, orange #FF8800, Helvetica font, Asymmetric composition, 16:9",
+    "sourcePlatform": "github",
+    "sourceUrl": "https://github.com/AAAAAAAJ/slides/blob/e9d5f3f3290af9e50ca3aa18eed176b9a6c02978/PROMPTS.md",
+    "style": "Bold",
+    "styles": [
+      "Bold",
+      "Retro",
+      "Modern"
+    ],
+    "tags": [
+      "use_case:Creative / Design",
+      "style:Bold",
+      "style:Retro",
+      "style:Modern"
+    ],
+    "title": "Swiss International (瑞士国际主义)",
+    "useCases": [
+      "Creative / Design"
+    ]
+  },
+  {
+    "author": "AAAAAAAJ",
+    "autoTagging": {
+      "model": "glm-5.2-ud-q2-k-xl",
+      "status": "success"
+    },
+    "category": "Creative / Design",
+    "id": "registry:style_prompt_studio_ppt_39a41473dc4e237d",
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/registry/style_prompt_studio_ppt_39a41473dc4e237d/1.webp",
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/registry/style_prompt_studio_ppt_39a41473dc4e237d/2.webp"
+    ],
+    "metadata": {
+      "presentationExportContract": "ppt-frontend-export-v1",
+      "presentationTagContract": "presentation-tags-v1",
+      "presentationTagModel": "glm-5.2-ud-q2-k-xl",
+      "registryPromptHash": "39a41473dc4e237d54e82c3ff3c4ac2a32dc9281437b4092782915c58c7e4ac2",
+      "registryPromptId": "style_prompt_studio_ppt_39a41473dc4e237d",
+      "safetyGateVersion": "prompt-card-safety-v2",
+      "sourceCommit": "e9d5f3f3290af9e50ca3aa18eed176b9a6c02978",
+      "sourceLicense": "MIT",
+      "sourceLicenseUrl": "https://github.com/AAAAAAAJ/slides/blob/e9d5f3f3290af9e50ca3aa18eed176b9a6c02978/LICENSE",
+      "sourceRepository": "AAAAAAAJ/slides",
+      "sourceUniqueKey": "style_prompt_studio_ppt:github_repository:aaaaaaaj/slides:style_prompt_studio_ppt:neo-brutalism"
+    },
+    "prompt": "Neo-brutalism style PPT slide, raw design, Cream background, bold title text, subtitle below, key stats displayed, Bold primary colors: red #FF4D4D, blue #4D94FF, yellow #FFD93D, Thick 4px black outlines, hard shadows, Brutalist frames, bold typography, Stark contrast, 16:9",
+    "sourcePlatform": "github",
+    "sourceUrl": "https://github.com/AAAAAAAJ/slides/blob/e9d5f3f3290af9e50ca3aa18eed176b9a6c02978/PROMPTS.md",
+    "style": "Bold",
+    "styles": [
+      "Bold",
+      "Retro"
+    ],
+    "tags": [
+      "use_case:Creative / Design",
+      "style:Bold",
+      "style:Retro"
+    ],
+    "title": "Neo-Brutalism (新粗野主义)",
+    "useCases": [
+      "Creative / Design"
+    ]
+  },
+  {
+    "author": "AAAAAAAJ",
+    "autoTagging": {
+      "model": "glm-5.2-ud-q2-k-xl",
+      "status": "success"
+    },
+    "category": "Business / Strategy",
+    "id": "registry:style_prompt_studio_ppt_43fcd84cc52d4ba2",
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/registry/style_prompt_studio_ppt_43fcd84cc52d4ba2/1.webp",
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/registry/style_prompt_studio_ppt_43fcd84cc52d4ba2/2.webp"
+    ],
+    "metadata": {
+      "presentationExportContract": "ppt-frontend-export-v1",
+      "presentationTagContract": "presentation-tags-v1",
+      "presentationTagModel": "glm-5.2-ud-q2-k-xl",
+      "registryPromptHash": "43fcd84cc52d4ba2cc85764a984c4f90a3916e12cb33e0ad6f30f631ceed0fcc",
+      "registryPromptId": "style_prompt_studio_ppt_43fcd84cc52d4ba2",
+      "safetyGateVersion": "prompt-card-safety-v2",
+      "sourceCommit": "e9d5f3f3290af9e50ca3aa18eed176b9a6c02978",
+      "sourceLicense": "MIT",
+      "sourceLicenseUrl": "https://github.com/AAAAAAAJ/slides/blob/e9d5f3f3290af9e50ca3aa18eed176b9a6c02978/LICENSE",
+      "sourceRepository": "AAAAAAAJ/slides",
+      "sourceUniqueKey": "style_prompt_studio_ppt:github_repository:aaaaaaaj/slides:style_prompt_studio_ppt:minimal"
+    },
+    "prompt": "Minimalist clean design PPT slide, White background, generous whitespace, centered title text, subtitle below, key stats in simple cards, Subtle gray and blue accents, Thin elegant lines, Inter Helvetica font, Professional corporate presentation, Simple elegant layout, 16:9",
+    "sourcePlatform": "github",
+    "sourceUrl": "https://github.com/AAAAAAAJ/slides/blob/e9d5f3f3290af9e50ca3aa18eed176b9a6c02978/PROMPTS.md",
+    "style": "Minimal",
+    "styles": [
+      "Minimal",
+      "Corporate",
+      "Elegant"
+    ],
+    "tags": [
+      "use_case:Business / Strategy",
+      "use_case:Report / Analysis",
+      "style:Minimal",
+      "style:Corporate",
+      "style:Elegant"
+    ],
+    "title": "Minimalist Clean (极简主义)",
+    "useCases": [
+      "Business / Strategy",
+      "Report / Analysis"
+    ]
+  },
+  {
+    "author": "AAAAAAAJ",
+    "autoTagging": {
+      "model": "glm-5.2-ud-q2-k-xl",
+      "status": "success"
+    },
+    "category": "Creative / Design",
+    "id": "registry:style_prompt_studio_ppt_54b8b815ae02c26f",
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/registry/style_prompt_studio_ppt_54b8b815ae02c26f/1.webp"
+    ],
+    "metadata": {
+      "presentationExportContract": "ppt-frontend-export-v1",
+      "presentationTagContract": "presentation-tags-v1",
+      "presentationTagModel": "glm-5.2-ud-q2-k-xl",
+      "registryPromptHash": "54b8b815ae02c26f265e936d63f25a0bd60d9b5c5662efb105401fdadd072ec9",
+      "registryPromptId": "style_prompt_studio_ppt_54b8b815ae02c26f",
+      "safetyGateVersion": "prompt-card-safety-v2",
+      "sourceCommit": "e9d5f3f3290af9e50ca3aa18eed176b9a6c02978",
+      "sourceLicense": "MIT",
+      "sourceLicenseUrl": "https://github.com/AAAAAAAJ/slides/blob/e9d5f3f3290af9e50ca3aa18eed176b9a6c02978/LICENSE",
+      "sourceRepository": "AAAAAAAJ/slides",
+      "sourceUniqueKey": "style_prompt_studio_ppt:github_repository:aaaaaaaj/slides:style_prompt_studio_ppt:claymorphism"
+    },
+    "prompt": "Claymorphism style PPT slide, soft chunky 3D clay interface, thick toy-like rounded cards, inflated pill buttons, tactile depth with bright top-left inner highlights and soft bottom-right shadows, creamy warm background, bold title text, subtitle below, 3 to 5 key statistics in colorful chunky cards, candy palette with coral #FF7A59, sky blue #6EC5FF, lemon yellow #FFD85E, mint #7EE2B8, lavender #B79CFF, bubbly icons, smooth plastic texture, friendly high-contrast presentation design, clean single-slide composition, 16:9",
+    "sourcePlatform": "github",
+    "sourceUrl": "https://github.com/AAAAAAAJ/slides/blob/e9d5f3f3290af9e50ca3aa18eed176b9a6c02978/PROMPTS.md",
+    "style": "Playful",
+    "styles": [
+      "Playful",
+      "Bold"
+    ],
+    "tags": [
+      "use_case:Creative / Design",
+      "use_case:Marketing",
+      "style:Playful",
+      "style:Bold"
+    ],
+    "title": "Claymorphism (黏土拟态)",
+    "useCases": [
+      "Creative / Design",
+      "Marketing"
+    ]
+  },
+  {
+    "author": "AAAAAAAJ",
+    "autoTagging": {
+      "model": "glm-5.2-ud-q2-k-xl",
+      "status": "success"
+    },
+    "category": "Tech / Product",
+    "id": "registry:style_prompt_studio_ppt_6f6c17b7394a1bc5",
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/registry/style_prompt_studio_ppt_6f6c17b7394a1bc5/1.webp",
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/registry/style_prompt_studio_ppt_6f6c17b7394a1bc5/2.webp"
+    ],
+    "metadata": {
+      "presentationExportContract": "ppt-frontend-export-v1",
+      "presentationTagContract": "presentation-tags-v1",
+      "presentationTagModel": "glm-5.2-ud-q2-k-xl",
+      "registryPromptHash": "6f6c17b7394a1bc5a1ad3147ef55f37cb56737bfa24f623e0b39789eb1b22295",
+      "registryPromptId": "style_prompt_studio_ppt_6f6c17b7394a1bc5",
+      "safetyGateVersion": "prompt-card-safety-v2",
+      "sourceCommit": "e9d5f3f3290af9e50ca3aa18eed176b9a6c02978",
+      "sourceLicense": "MIT",
+      "sourceLicenseUrl": "https://github.com/AAAAAAAJ/slides/blob/e9d5f3f3290af9e50ca3aa18eed176b9a6c02978/LICENSE",
+      "sourceRepository": "AAAAAAAJ/slides",
+      "sourceUniqueKey": "style_prompt_studio_ppt:github_repository:aaaaaaaj/slides:style_prompt_studio_ppt:design-blueprint"
+    },
+    "prompt": "Design blueprint PPT slide, Figma documentation style, White background with cyan grid lines #66B8CC, title text, subtitle below, Figma selection boxes with control points, Annotation lines, numbered labels, Technical UI mockup aesthetic, Clean sans-serif Inter font, 16:9",
+    "sourcePlatform": "github",
+    "sourceUrl": "https://github.com/AAAAAAAJ/slides/blob/e9d5f3f3290af9e50ca3aa18eed176b9a6c02978/PROMPTS.md",
+    "style": "Technical",
+    "styles": [
+      "Technical",
+      "Minimal",
+      "Modern"
+    ],
+    "tags": [
+      "use_case:Tech / Product",
+      "use_case:Creative / Design",
+      "style:Technical",
+      "style:Minimal",
+      "style:Modern"
+    ],
+    "title": "Design Blueprint (设计蓝图)",
+    "useCases": [
+      "Tech / Product",
+      "Creative / Design"
+    ]
+  },
+  {
+    "author": "AAAAAAAJ",
+    "autoTagging": {
+      "model": "glm-5.2-ud-q2-k-xl",
+      "status": "success"
+    },
+    "category": "Tech / Product",
+    "id": "registry:style_prompt_studio_ppt_727304750a3233ef",
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/registry/style_prompt_studio_ppt_727304750a3233ef/1.webp",
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/registry/style_prompt_studio_ppt_727304750a3233ef/2.webp"
+    ],
+    "metadata": {
+      "presentationExportContract": "ppt-frontend-export-v1",
+      "presentationTagContract": "presentation-tags-v1",
+      "presentationTagModel": "glm-5.2-ud-q2-k-xl",
+      "registryPromptHash": "727304750a3233eff1a493af4af38123b28d45080a5d3ec8975abda9dea8592b",
+      "registryPromptId": "style_prompt_studio_ppt_727304750a3233ef",
+      "safetyGateVersion": "prompt-card-safety-v2",
+      "sourceCommit": "e9d5f3f3290af9e50ca3aa18eed176b9a6c02978",
+      "sourceLicense": "MIT",
+      "sourceLicenseUrl": "https://github.com/AAAAAAAJ/slides/blob/e9d5f3f3290af9e50ca3aa18eed176b9a6c02978/LICENSE",
+      "sourceRepository": "AAAAAAAJ/slides",
+      "sourceUniqueKey": "style_prompt_studio_ppt:github_repository:aaaaaaaj/slides:style_prompt_studio_ppt:cyberpunk"
+    },
+    "prompt": "Cyberpunk neon style PPT slide, Dark charcoal background, title text with neon glow effect, subtitle below, Neon colors: magenta #FF00FF, cyan #00FFFF, yellow #FFFF00, Tech grid patterns, circuit decorations, Holographic data panels, glow effects, Futuristic UI elements, Digital presentation, 16:9",
+    "sourcePlatform": "github",
+    "sourceUrl": "https://github.com/AAAAAAAJ/slides/blob/e9d5f3f3290af9e50ca3aa18eed176b9a6c02978/PROMPTS.md",
+    "style": "Dark",
+    "styles": [
+      "Dark",
+      "Tech",
+      "Bold"
+    ],
+    "tags": [
+      "use_case:Tech / Product",
+      "use_case:Creative / Design",
+      "style:Dark",
+      "style:Tech",
+      "style:Bold"
+    ],
+    "title": "Cyberpunk Neon (赛博朋克)",
+    "useCases": [
+      "Tech / Product",
+      "Creative / Design"
+    ]
+  },
+  {
+    "author": "AAAAAAAJ",
+    "autoTagging": {
+      "model": "glm-5.2-ud-q2-k-xl",
+      "status": "success"
+    },
+    "category": "Creative / Design",
+    "id": "registry:style_prompt_studio_ppt_7b7f338a6cc32430",
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/registry/style_prompt_studio_ppt_7b7f338a6cc32430/1.webp",
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/registry/style_prompt_studio_ppt_7b7f338a6cc32430/2.webp"
+    ],
+    "metadata": {
+      "presentationExportContract": "ppt-frontend-export-v1",
+      "presentationTagContract": "presentation-tags-v1",
+      "presentationTagModel": "glm-5.2-ud-q2-k-xl",
+      "registryPromptHash": "7b7f338a6cc32430fcb22af17c26edbc7b9b4c886aee75d73ffbf739a6cbb107",
+      "registryPromptId": "style_prompt_studio_ppt_7b7f338a6cc32430",
+      "safetyGateVersion": "prompt-card-safety-v2",
+      "sourceCommit": "e9d5f3f3290af9e50ca3aa18eed176b9a6c02978",
+      "sourceLicense": "MIT",
+      "sourceLicenseUrl": "https://github.com/AAAAAAAJ/slides/blob/e9d5f3f3290af9e50ca3aa18eed176b9a6c02978/LICENSE",
+      "sourceRepository": "AAAAAAAJ/slides",
+      "sourceUniqueKey": "style_prompt_studio_ppt:github_repository:aaaaaaaj/slides:style_prompt_studio_ppt:modern-minimal-pop"
+    },
+    "prompt": "Modern minimal pop art PPT slide, Instagram aesthetic, Pastel background, title text, subtitle below, key stats displayed, Pastel colors: mint #A8E6C8, cream #FFF4BD, coral #FF8B7A, purple #8B7AFF, Star burst graphics, thin line circles, Tilted color blocks, small arrows, Clean sans-serif typography, Swiss design influence, 16:9",
+    "sourcePlatform": "github",
+    "sourceUrl": "https://github.com/AAAAAAAJ/slides/blob/e9d5f3f3290af9e50ca3aa18eed176b9a6c02978/PROMPTS.md",
+    "style": "Minimal",
+    "styles": [
+      "Minimal",
+      "Playful",
+      "Modern"
+    ],
+    "tags": [
+      "use_case:Creative / Design",
+      "use_case:Marketing",
+      "style:Minimal",
+      "style:Playful",
+      "style:Modern"
+    ],
+    "title": "Modern Minimal Pop (现代极简波普)",
+    "useCases": [
+      "Creative / Design",
+      "Marketing"
+    ]
+  },
+  {
+    "author": "AAAAAAAJ",
+    "autoTagging": {
+      "model": "glm-5.2-ud-q2-k-xl",
+      "status": "success"
+    },
+    "category": "Creative / Design",
+    "id": "registry:style_prompt_studio_ppt_82a9ea777097f080",
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/registry/style_prompt_studio_ppt_82a9ea777097f080/1.webp",
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/registry/style_prompt_studio_ppt_82a9ea777097f080/2.webp"
+    ],
+    "metadata": {
+      "presentationExportContract": "ppt-frontend-export-v1",
+      "presentationTagContract": "presentation-tags-v1",
+      "presentationTagModel": "glm-5.2-ud-q2-k-xl",
+      "registryPromptHash": "82a9ea777097f08038ebd11a8f5b03b76d165695f24c80cab284df4f2afc8cb7",
+      "registryPromptId": "style_prompt_studio_ppt_82a9ea777097f080",
+      "safetyGateVersion": "prompt-card-safety-v2",
+      "sourceCommit": "e9d5f3f3290af9e50ca3aa18eed176b9a6c02978",
+      "sourceLicense": "MIT",
+      "sourceLicenseUrl": "https://github.com/AAAAAAAJ/slides/blob/e9d5f3f3290af9e50ca3aa18eed176b9a6c02978/LICENSE",
+      "sourceRepository": "AAAAAAAJ/slides",
+      "sourceUniqueKey": "style_prompt_studio_ppt:github_repository:aaaaaaaj/slides:style_prompt_studio_ppt:retro-pop"
+    },
+    "prompt": "Retro pop art style PPT slide, 1970s magazine aesthetic, flat design with thick black outlines, cream beige background, bold title text, subtitle below, key statistics displayed as cards, Salmon pink #FF6B6B, sky blue #4ECDC4, mustard yellow #FFD93D, mint green #6BCB77 accents, Geometric decorations: quarter circles, concentric rings, star bursts, Bold sans-serif typography, Professional presentation design, 16:9",
+    "sourcePlatform": "github",
+    "sourceUrl": "https://github.com/AAAAAAAJ/slides/blob/e9d5f3f3290af9e50ca3aa18eed176b9a6c02978/PROMPTS.md",
+    "style": "Retro",
+    "styles": [
+      "Retro",
+      "Bold",
+      "Playful"
+    ],
+    "tags": [
+      "use_case:Creative / Design",
+      "use_case:Marketing",
+      "style:Retro",
+      "style:Bold",
+      "style:Playful"
+    ],
+    "title": "Retro Pop Art (复古波普)",
+    "useCases": [
+      "Creative / Design",
+      "Marketing"
+    ]
+  },
+  {
+    "author": "AAAAAAAJ",
+    "autoTagging": {
+      "model": "glm-5.2-ud-q2-k-xl",
+      "status": "success"
+    },
+    "category": "Creative / Design",
+    "id": "registry:style_prompt_studio_ppt_c0b4a804b9f69b0a",
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/registry/style_prompt_studio_ppt_c0b4a804b9f69b0a/1.webp"
+    ],
+    "metadata": {
+      "presentationExportContract": "ppt-frontend-export-v1",
+      "presentationTagContract": "presentation-tags-v1",
+      "presentationTagModel": "glm-5.2-ud-q2-k-xl",
+      "registryPromptHash": "c0b4a804b9f69b0a0d2bf7cffc8718b15e09ada83965e8e5209e3603db86e4a8",
+      "registryPromptId": "style_prompt_studio_ppt_c0b4a804b9f69b0a",
+      "safetyGateVersion": "prompt-card-safety-v2",
+      "sourceCommit": "e9d5f3f3290af9e50ca3aa18eed176b9a6c02978",
+      "sourceLicense": "MIT",
+      "sourceLicenseUrl": "https://github.com/AAAAAAAJ/slides/blob/e9d5f3f3290af9e50ca3aa18eed176b9a6c02978/LICENSE",
+      "sourceRepository": "AAAAAAAJ/slides",
+      "sourceUniqueKey": "style_prompt_studio_ppt:github_repository:aaaaaaaj/slides:style_prompt_studio_ppt:scrapbook-diy"
+    },
+    "prompt": "Scrapbook DIY vibe PPT slide, poster-like handmade collage composition, off-white paper board background with subtle paper grain, hand-cut paper blocks with torn edges, transparent tape corners, sticker badges, doodled arrows, handwritten marker notes, layered polaroid-style photo cutouts, bold title on a pasted headline card, subtitle below on a small note strip, 3 to 5 key stats shown as clipped paper labels, saturated youth accents: tomato orange #FF7A59, butter yellow #FFD766, sky blue #6EC5FF, grass green #72D572, hot pink #FF5FA2, anti-grid layout, messy but readable hierarchy, social app launch poster energy, authentic DIY mood, bold sans-serif typography mixed with handwritten highlights, creative editorial presentation design, 16:9",
+    "sourcePlatform": "github",
+    "sourceUrl": "https://github.com/AAAAAAAJ/slides/blob/e9d5f3f3290af9e50ca3aa18eed176b9a6c02978/PROMPTS.md",
+    "style": "Playful",
+    "styles": [
+      "Playful",
+      "Bold",
+      "Editorial"
+    ],
+    "tags": [
+      "use_case:Creative / Design",
+      "use_case:Marketing",
+      "style:Playful",
+      "style:Bold",
+      "style:Editorial"
+    ],
+    "title": "Scrapbook DIY Vibe (剪贴板手作风格)",
+    "useCases": [
+      "Creative / Design",
+      "Marketing"
+    ]
+  },
+  {
+    "author": "AAAAAAAJ",
+    "autoTagging": {
+      "model": "glm-5.2-ud-q2-k-xl",
+      "status": "success"
+    },
+    "category": "Tech / Product",
+    "id": "registry:style_prompt_studio_ppt_cee61bd0cf49b2c2",
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/registry/style_prompt_studio_ppt_cee61bd0cf49b2c2/1.webp",
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/registry/style_prompt_studio_ppt_cee61bd0cf49b2c2/2.webp"
+    ],
+    "metadata": {
+      "presentationExportContract": "ppt-frontend-export-v1",
+      "presentationTagContract": "presentation-tags-v1",
+      "presentationTagModel": "glm-5.2-ud-q2-k-xl",
+      "registryPromptHash": "cee61bd0cf49b2c2f4c57db3b50557fdf72f4a102935a29b4f71ccac914d815e",
+      "registryPromptId": "style_prompt_studio_ppt_cee61bd0cf49b2c2",
+      "safetyGateVersion": "prompt-card-safety-v2",
+      "sourceCommit": "e9d5f3f3290af9e50ca3aa18eed176b9a6c02978",
+      "sourceLicense": "MIT",
+      "sourceLicenseUrl": "https://github.com/AAAAAAAJ/slides/blob/e9d5f3f3290af9e50ca3aa18eed176b9a6c02978/LICENSE",
+      "sourceRepository": "AAAAAAAJ/slides",
+      "sourceUniqueKey": "style_prompt_studio_ppt:github_repository:aaaaaaaj/slides:style_prompt_studio_ppt:neo-brutalist-ui"
+    },
+    "prompt": "Neo-brutalist UI PPT slide, dashboard interface design, Cream background, title text, subtitle below, stats in cards, Pastel panels: mint #A8E4CF, yellow #FFD93D, lavender #E5B3FF, Thick 3px black outlines, Card-based layout, flat colors, Bold typography, Contemporary SaaS dashboard aesthetic, 16:9",
+    "sourcePlatform": "github",
+    "sourceUrl": "https://github.com/AAAAAAAJ/slides/blob/e9d5f3f3290af9e50ca3aa18eed176b9a6c02978/PROMPTS.md",
+    "style": "Bold",
+    "styles": [
+      "Bold",
+      "Retro"
+    ],
+    "tags": [
+      "use_case:Tech / Product",
+      "use_case:Creative / Design",
+      "style:Bold",
+      "style:Retro"
+    ],
+    "title": "Neo-Brutalist UI (粗野主义 UI)",
+    "useCases": [
+      "Tech / Product",
+      "Creative / Design"
+    ]
+  },
+  {
+    "author": "AAAAAAAJ",
+    "autoTagging": {
+      "model": "glm-5.2-ud-q2-k-xl",
+      "status": "success"
+    },
+    "category": "Creative / Design",
+    "id": "registry:style_prompt_studio_ppt_f695adb40fc0edf2",
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/registry/style_prompt_studio_ppt_f695adb40fc0edf2/1.webp",
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/registry/style_prompt_studio_ppt_f695adb40fc0edf2/2.webp"
+    ],
+    "metadata": {
+      "presentationExportContract": "ppt-frontend-export-v1",
+      "presentationTagContract": "presentation-tags-v1",
+      "presentationTagModel": "glm-5.2-ud-q2-k-xl",
+      "registryPromptHash": "f695adb40fc0edf2cd8161f483c584f0192b6fd3f7a225b6fb9c50608da076f9",
+      "registryPromptId": "style_prompt_studio_ppt_f695adb40fc0edf2",
+      "safetyGateVersion": "prompt-card-safety-v2",
+      "sourceCommit": "e9d5f3f3290af9e50ca3aa18eed176b9a6c02978",
+      "sourceLicense": "MIT",
+      "sourceLicenseUrl": "https://github.com/AAAAAAAJ/slides/blob/e9d5f3f3290af9e50ca3aa18eed176b9a6c02978/LICENSE",
+      "sourceRepository": "AAAAAAAJ/slides",
+      "sourceUniqueKey": "style_prompt_studio_ppt:github_repository:aaaaaaaj/slides:style_prompt_studio_ppt:y2k-pixel-retro"
+    },
+    "prompt": "Y2K pixel retro PPT slide, 1990s aesthetic, Dark background with noise texture, title text in pixel font, subtitle below, Bright colors: yellow #FFD700, orange #FF8C00, green #4A7C4E, Pixel art computer icons, CRT monitor graphics, Isometric tech illustrations, VT323 pixel font style, Vintage 1990s design, 16:9",
+    "sourcePlatform": "github",
+    "sourceUrl": "https://github.com/AAAAAAAJ/slides/blob/e9d5f3f3290af9e50ca3aa18eed176b9a6c02978/PROMPTS.md",
+    "style": "Retro",
+    "styles": [
+      "Retro",
+      "Dark"
+    ],
+    "tags": [
+      "use_case:Creative / Design",
+      "style:Retro",
+      "style:Dark"
+    ],
+    "title": "Y2K Pixel Retro (Y2K 像素复古)",
+    "useCases": [
+      "Creative / Design"
+    ]
+  },
+  {
+    "author": "AAAAAAAJ",
+    "autoTagging": {
+      "model": "glm-5.2-ud-q2-k-xl",
+      "status": "success"
+    },
+    "category": "Tech / Product",
+    "id": "registry:style_prompt_studio_ppt_f8bb27291f9bd5e2",
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/registry/style_prompt_studio_ppt_f8bb27291f9bd5e2/1.webp"
+    ],
+    "metadata": {
+      "presentationExportContract": "ppt-frontend-export-v1",
+      "presentationTagContract": "presentation-tags-v1",
+      "presentationTagModel": "glm-5.2-ud-q2-k-xl",
+      "registryPromptHash": "f8bb27291f9bd5e243ebce5299542f8636b73be7a32286dea33bc5abbd1dcc89",
+      "registryPromptId": "style_prompt_studio_ppt_f8bb27291f9bd5e2",
+      "safetyGateVersion": "prompt-card-safety-v2",
+      "sourceCommit": "e9d5f3f3290af9e50ca3aa18eed176b9a6c02978",
+      "sourceLicense": "MIT",
+      "sourceLicenseUrl": "https://github.com/AAAAAAAJ/slides/blob/e9d5f3f3290af9e50ca3aa18eed176b9a6c02978/LICENSE",
+      "sourceRepository": "AAAAAAAJ/slides",
+      "sourceUniqueKey": "style_prompt_studio_ppt:github_repository:aaaaaaaj/slides:style_prompt_studio_ppt:frutiger-aero"
+    },
+    "prompt": "Frutiger Aero style PPT slide, optimistic 2000s tech-utopia aesthetic, glossy translucent glass panels floating over an aqua sky and fresh green field background, bold title text, subtitle below, 3 to 5 key statistics displayed in rounded glossy cards, bright clean colors: aqua blue #7FD8FF, sky cyan #BFEFFF, grass green #7ED957, leaf green #B7F07A, pure white #FFFFFF, soft lens flare, bokeh light circles, water bubbles, gentle wave swooshes, cloudlike highlights, humanist sans-serif typography, polished corporate technology presentation, clean depth, cheerful and futuristic but friendly, Windows Vista Aero and early eco-tech ad mood, 16:9",
+    "sourcePlatform": "github",
+    "sourceUrl": "https://github.com/AAAAAAAJ/slides/blob/e9d5f3f3290af9e50ca3aa18eed176b9a6c02978/PROMPTS.md",
+    "style": "Retro",
+    "styles": [
+      "Retro",
+      "Bold",
+      "Playful"
+    ],
+    "tags": [
+      "use_case:Tech / Product",
+      "use_case:Marketing",
+      "style:Retro",
+      "style:Bold",
+      "style:Playful"
+    ],
+    "title": "Frutiger Aero (乐观科技风)",
+    "useCases": [
+      "Tech / Product",
+      "Marketing"
+    ]
+  },
+  {
+    "author": "AAAAAAAJ",
+    "autoTagging": {
+      "model": "glm-5.2-ud-q2-k-xl",
+      "status": "success"
+    },
+    "category": "Tech / Product",
+    "id": "registry:style_prompt_studio_ppt_fb139c8d621713aa",
+    "images": [
+      "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/registry/style_prompt_studio_ppt_fb139c8d621713aa/1.webp"
+    ],
+    "metadata": {
+      "presentationExportContract": "ppt-frontend-export-v1",
+      "presentationTagContract": "presentation-tags-v1",
+      "presentationTagModel": "glm-5.2-ud-q2-k-xl",
+      "registryPromptHash": "fb139c8d621713aaeaab99d013d6bbc416a9b4cc55b0a83fa3b13d5b97148217",
+      "registryPromptId": "style_prompt_studio_ppt_fb139c8d621713aa",
+      "safetyGateVersion": "prompt-card-safety-v2",
+      "sourceCommit": "e9d5f3f3290af9e50ca3aa18eed176b9a6c02978",
+      "sourceLicense": "MIT",
+      "sourceLicenseUrl": "https://github.com/AAAAAAAJ/slides/blob/e9d5f3f3290af9e50ca3aa18eed176b9a6c02978/LICENSE",
+      "sourceRepository": "AAAAAAAJ/slides",
+      "sourceUniqueKey": "style_prompt_studio_ppt:github_repository:aaaaaaaj/slides:style_prompt_studio_ppt:dark-glassmorphism"
+    },
+    "prompt": "Dark glassmorphism PPT slide, premium AI control-plane aesthetic, deep obsidian background with blurred aurora glow under smoked frosted glass panels, bold title text, subtitle below, 3 to 5 KPI cards in translucent dashboard modules, thin luminous white borders, subtle cyan and violet highlights, soft reflections, layered depth, high-contrast modern sans-serif typography, elegant enterprise SaaS and copilot interface design, cinematic yet clean, 16:9",
+    "sourcePlatform": "github",
+    "sourceUrl": "https://github.com/AAAAAAAJ/slides/blob/e9d5f3f3290af9e50ca3aa18eed176b9a6c02978/PROMPTS.md",
+    "style": "Dark",
+    "styles": [
+      "Dark",
+      "Modern",
+      "Elegant"
+    ],
+    "tags": [
+      "use_case:Tech / Product",
+      "use_case:Report / Analysis",
+      "style:Dark",
+      "style:Modern",
+      "style:Elegant"
+    ],
+    "title": "Dark Glassmorphism (暗黑玻璃拟态)",
+    "useCases": [
+      "Tech / Product",
+      "Report / Analysis"
+    ]
+  }
+]
