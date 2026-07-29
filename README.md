@@ -70,44 +70,44 @@ Filter by any of the above in the [web gallery](https://surgepix.ai/resources/aw
 
 ## 🔥 Featured Prompts
 
-### 1. SaaS Startup Pitch Deck
+### 1. Minimalist Clean (极简主义)
 
-A minimal, investor-ready 10-slide pitch deck: problem, solution, market sizing, business model, traction, competitive landscape, team, forecast, and close.
+Generous whitespace, thin elegant rules, and restrained gray-blue accents — a corporate-ready look for strategy decks and analyst reports.
 
 <div align="center">
-<img src="https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/legacy/1/0.webp" width="700" alt="SaaS Startup Pitch Deck preview">
+<img src="https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/registry/style_prompt_studio_ppt_43fcd84cc52d4ba2/1.webp" width="700" alt="Minimalist Clean preview">
 </div>
 
-- **Use Case:** Business Pitch, Tech / Product · **Style:** Minimal, Modern, Bold
-- **Source:** [u/pitch_deck_lab on Reddit](https://www.reddit.com/r/ChatGPT/)
+- **Use Case:** Business / Strategy, Report / Analysis · **Style:** Minimal, Corporate, Elegant
+- **Source:** [AAAAAAAJ/slides](https://github.com/AAAAAAAJ/slides/blob/e9d5f3f3290af9e50ca3aa18eed176b9a6c02978/PROMPTS.md) (MIT)
 
 <details>
 <summary>📝 Show prompt</summary>
 
 ```
-Create a 10-slide minimal SaaS startup pitch deck. White background, electric blue #0066FF accent. Slide 1: bold product name + one-line tagline, logo placeholder top-left. Slide 2: Problem — 3 pain points with thin line icons. Slide 3: Solution — UI mockup placeholder, 3 labeled callouts. Slide 4: Market Opportunity — TAM/SAM/SOM nested circles with $ values. Slide 5: Business Model — 3-column pricing table, recommended tier highlighted with a badge. Slide 6: Traction — MoM active users line chart, milestone markers. Slide 7: Competitive Landscape — 2×2 positioning matrix vs 4 named competitors. Slide 8: Team — 4 headshot cards, name/title/one-line bio. Slide 9: 3-Year Revenue Forecast — grouped bar chart, CAGR annotation. Slide 10: Close — full-bleed CTA, funding ask amount, contact email. Font: Inter throughout. Consistent header bar with logo + slide number on every slide. Tone: confident, data-driven, investor-ready.
+Minimalist clean design PPT slide, White background, generous whitespace, centered title text, subtitle below, key stats in simple cards, Subtle gray and blue accents, Thin elegant lines, Inter Helvetica font, Professional corporate presentation, Simple elegant layout, 16:9
 ```
 
 </details>
 
 ---
 
-### 2. Cloud-Native Microservices Architecture
+### 2. Cyberpunk Neon (赛博朋克)
 
-A 14-slide engineering deep-dive: system design goals, service contracts, Kafka event flow, observability pillars, security perimeter, and p50/p95/p99 benchmarks.
+Neon glow on dark charcoal, circuit decorations, and holographic data panels — for product launches and tech talks that need to land hard.
 
 <div align="center">
-<img src="https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/legacy/13/0.webp" width="700" alt="Cloud-Native Microservices Architecture preview">
+<img src="https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/ppt-prompts/registry/style_prompt_studio_ppt_727304750a3233ef/1.webp" width="700" alt="Cyberpunk Neon preview">
 </div>
 
-- **Use Case:** Tech / Product, Education · **Style:** Dark, Technical, Data Visualization
-- **Source:** [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+- **Use Case:** Tech / Product, Creative / Design · **Style:** Dark, Tech, Bold
+- **Source:** [AAAAAAAJ/slides](https://github.com/AAAAAAAJ/slides/blob/e9d5f3f3290af9e50ca3aa18eed176b9a6c02978/PROMPTS.md) (MIT)
 
 <details>
 <summary>📝 Show prompt</summary>
 
 ```
-Create a 14-slide cloud-native microservices architecture deep-dive for a technical audience. Dark theme: #0A0E17 background, electric blue #3B82F6 and green #22C55E highlights, white text. Slide 1: Title + audience level indicator (Advanced). Slide 2: System Design Goals — CAP theorem recap, target SLAs table. Slide 3: High-Level Architecture Diagram — service boxes with labeled API gateways, message queues, databases, CDN. Slides 4-7: Four service deep-dives — each shows service interface contract, data model, key design decisions, latency budget. Slide 8: Event-Driven Communication — Kafka topic flow diagram. Slide 9: Observability Stack — metrics/logging/tracing three-pillar diagram with tool logos. Slide 10: Security Perimeter — mTLS, OAuth2, secrets management illustrated. Slide 11: Deployment Pipeline — CI/CD flow diagram with GitHub Actions stages. Slide 12: Failure Mode Analysis — runbook table. Slide 13: Performance Benchmarks — p50/p95/p99 latency bar charts. Slide 14: Future Roadmap — 3 architectural evolution phases. Font: JetBrains Mono + Inter. Tone: detailed, precise, engineering-grade.
+Cyberpunk neon style PPT slide, Dark charcoal background, title text with neon glow effect, subtitle below, Neon colors: magenta #FF00FF, cyan #00FFFF, yellow #FFFF00, Tech grid patterns, circuit decorations, Holographic data panels, glow effects, Futuristic UI elements, Digital presentation, 16:9
 ```
 
 </details>
