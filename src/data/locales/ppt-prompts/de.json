@@ -107,10 +107,10 @@
       "title": "Entwicklertools"
     },
     "3": {
-      "title": "Akademische Forschung"
+      "title": "Forschung"
     },
     "4": {
-      "title": "Quartals-Business-Review (QBR)"
+      "title": "Quartalsreview"
     },
     "5": {
       "title": "Pre-Seed"
@@ -119,37 +119,34 @@
       "title": "ESG-Bericht"
     },
     "7": {
-      "title": "Markenidentität"
+      "title": "Marke"
     },
     "8": {
-      "title": "Wachstum"
+      "title": "Growth"
     },
     "9": {
-      "title": "Produkt-Roadmap"
+      "title": "Roadmap"
     },
     "10": {
-      "title": "Vorlesungsmaterial"
+      "title": "Hochschule"
     },
     "11": {
       "title": "B2B-Vertrieb"
     },
     "12": {
-      "title": "Series-B-Finanzierung"
+      "title": "Series B"
     },
     "13": {
       "title": "Systemarchitektur"
-    },
-    "14": {
-      "title": "TED-artige Präsentation"
     },
     "15": {
       "title": "Marktforschung"
     },
     "16": {
-      "title": "Mitarbeiter-Onboarding"
+      "title": "Onboarding"
     },
     "17": {
-      "title": "Finanzbericht"
+      "title": "Quartalszahlen"
     },
     "18": {
       "title": "Designsystem"
@@ -158,13 +155,13 @@
       "title": "Fallstudie"
     },
     "20": {
-      "title": "Vorstandspräsentation"
+      "title": "Aufsichtsrat"
     },
     "21": {
-      "title": "Führung"
+      "title": "Führungstraining"
     },
     "22": {
-      "title": "Markteintrittsstrategie"
+      "title": "Go-to-Market"
     },
     "23": {
       "title": "Microservices"
@@ -174,6 +171,293 @@
     },
     "25": {
       "title": "KI-Trends"
+    },
+    "1001": {
+      "description": "Violett, Schwarz und ein Größer-als"
+    },
+    "1002": {
+      "description": "Münze einwerfen"
+    },
+    "1003": {
+      "description": "Goldene Geometrie für das Jazz-Zeitalter"
+    },
+    "1004": {
+      "description": "Gebaut wie ein Bauplan"
+    },
+    "1005": {
+      "description": "Die verlässliche Variante"
+    },
+    "1006": {
+      "description": "Ruhig wie ein Innenhof"
+    },
+    "1007": {
+      "description": "Verlaufs-Pitchdeck für SaaS"
+    },
+    "1008": {
+      "description": "Antwort zuerst, Rot an den richtigen Stellen"
+    },
+    "1009": {
+      "description": "Laute Typografie, sonst nichts"
+    },
+    "1010": {
+      "description": "Strategie lebt in der 2×2-Matrix"
+    },
+    "1011": {
+      "title": "Benchmark",
+      "description": "Wir gegen das gesamte Feld"
+    },
+    "1012": {
+      "title": "Plakatwand",
+      "description": "Eine Farbe, eine Zeile"
+    },
+    "1013": {
+      "title": "Sitzungssaal",
+      "description": "Die Folie ist das Argument"
+    },
+    "1014": {
+      "title": "Zeitungsformat",
+      "description": "Alles Wichtige auf einen Blick"
+    },
+    "1015": {
+      "description": "Y2K-Glitzer, aber mit System"
+    },
+    "1016": {
+      "title": "Tafel",
+      "description": "In der Halbzeit aufgezeichnet"
+    },
+    "1017": {
+      "description": "Vier Phasen, eine Richtung"
+    },
+    "1018": {
+      "title": "Weihnachten",
+      "description": "Festlich poliert, ganz ohne Clipart-Kitsch"
+    },
+    "1019": {
+      "description": "Ruhe am Set"
+    },
+    "1020": {
+      "description": "Den Traces folgen"
+    },
+    "1021": {
+      "title": "Collage",
+      "description": "Erst die Schere, dann das Layout"
+    },
+    "1022": {
+      "description": "Schleifen, Rouge und ein Kirschkuss"
+    },
+    "1023": {
+      "description": "Bibliothek bei Kerzenlicht, Zirkel der seltenen Bücher"
+    },
+    "1024": {
+      "description": "Schwarz, Weiß und ein grüner Punkt"
+    },
+    "1025": {
+      "title": "Demo Day",
+      "description": "Drei Minuten, eine Idee pro Folie"
+    },
+    "1026": {
+      "title": "Zeichensaal",
+      "description": "Zweimal messen, einmal präsentieren"
+    },
+    "1027": {
+      "title": "Expedition",
+      "description": "Hier lauern Tagesordnungspunkte"
+    },
+    "1028": {
+      "description": "Dunkles Schiefergrau, ein entschiedener gelber Strahl"
+    },
+    "1029": {
+      "title": "Feldnotizen",
+      "description": "Auf den Ordner geklebt"
+    },
+    "1030": {
+      "title": "Halloween",
+      "description": "Gruselstimmung, klassenzimmertauglich"
+    },
+    "1031": {
+      "description": "Reifegrad, Quartal für Quartal"
+    },
+    "1032": {
+      "description": "Warmer, erzählerischer Markenpitch"
+    },
+    "1033": {
+      "title": "Herbarium",
+      "description": "Gepresst, beschriftet, abgelegt"
+    },
+    "1034": {
+      "description": "Schillernd, aber diszipliniert"
+    },
+    "1035": {
+      "title": "Minimal-Keynote",
+      "description": "Eine Folie, eine Idee, kein Ballast"
+    },
+    "1036": {
+      "description": "Prüfungssichere Klarheit in KPMG-Blau"
+    },
+    "1037": {
+      "description": "Jede Zahl stimmt überein"
+    },
+    "1038": {
+      "title": "Briefkopf",
+      "description": "Graviert, nicht gedruckt"
+    },
+    "1039": {
+      "title": "Level-up",
+      "description": "Sammle die XP"
+    },
+    "1040": {
+      "title": "Logline",
+      "description": "Der Pitch auf einer Seite"
+    },
+    "1041": {
+      "title": "Lookbook",
+      "description": "Stimmung, Ton und Bildausschnitt"
+    },
+    "1042": {
+      "title": "Großrechner",
+      "description": "Direkt aus dem Maschinenraum"
+    },
+    "1043": {
+      "title": "Manuskript",
+      "description": "Erst die Folien, dann der Druck"
+    },
+    "1044": {
+      "description": "Mach ein Ereignis daraus"
+    },
+    "1045": {
+      "description": "Immer zuerst die Antwort"
+    },
+    "1046": {
+      "title": "Memo",
+      "description": "Wie in meinem letzten Memo erwähnt"
+    },
+    "1047": {
+      "description": "Ernste Inhalte, unernster Stil"
+    },
+    "1048": {
+      "description": "Vorsicht, Lückenanalyse"
+    },
+    "1049": {
+      "title": "Mitternachtspitch",
+      "description": "Damit Investoren sich vorbeugen"
+    },
+    "1050": {
+      "description": "Teures Schweigen"
+    },
+    "1051": {
+      "title": "Notizbuch",
+      "description": "Ränder inklusive"
+    },
+    "1052": {
+      "description": "Warme Neutraltöne, stille Bögen, teure Gelassenheit"
+    },
+    "1053": {
+      "title": "Sternwarte",
+      "description": "Daten als Sternbilder"
+    },
+    "1054": {
+      "title": "One-Sheet",
+      "description": "Ganz oben auf dem Plakat"
+    },
+    "1055": {
+      "title": "Betriebsübersicht",
+      "description": "Status statt Geschichten"
+    },
+    "1056": {
+      "description": "Gefaltet, nicht dekoriert"
+    },
+    "1057": {
+      "description": "Direkt aus dem Jahr 1986"
+    },
+    "1058": {
+      "title": "Passepartout",
+      "description": "Auf jeder Folie eine Galerie"
+    },
+    "1059": {
+      "title": "Pitchbook",
+      "description": "Marineblaue Strenge, goldene Linien, dichte Überzeugung"
+    },
+    "1060": {
+      "description": "An die Wand geheftet"
+    },
+    "1061": {
+      "description": "Serifen-Headlines, fünf warme Farben"
+    },
+    "1062": {
+      "title": "Quartalsreview",
+      "description": "Ziele, Ist-Werte und die Verlängerungsstory"
+    },
+    "1063": {
+      "title": "Quizabend",
+      "description": "Schulung, aber mit Buzzern"
+    },
+    "1064": {
+      "title": "Runway",
+      "description": "Klares, leichtes Investoren-Pitchdeck"
+    },
+    "1065": {
+      "title": "Sammelalbum",
+      "description": "Papier, Klebeband und handschriftlicher Charme"
+    },
+    "1066": {
+      "title": "Seminar",
+      "description": "Beamer, nur schöner"
+    },
+    "1067": {
+      "title": "Sechsseiter",
+      "description": "Das Memo, das die Sitzung führt"
+    },
+    "1068": {
+      "description": "Zarte Pastelltöne, mit Geschmack"
+    },
+    "1069": {
+      "description": "Knalliger Pink-Pitch für Consumer-Apps"
+    },
+    "1070": {
+      "title": "Lehrplan",
+      "description": "Die Gliederung ist das Design"
+    },
+    "1071": {
+      "description": "Sag es groß, halt es dunkel"
+    },
+    "1072": {
+      "title": "Telemetrie",
+      "description": "Deine Präsentation als Dashboard"
+    },
+    "1073": {
+      "title": "Term Sheet",
+      "description": "Das Framework institutioneller VCs"
+    },
+    "1074": {
+      "title": "Kursticker",
+      "description": "Bernstein auf Schwarz"
+    },
+    "1075": {
+      "title": "Traction",
+      "description": "Lass die Zahlen sprechen"
+    },
+    "1076": {
+      "title": "Startpunkt",
+      "description": "Lernen, Meile für Meile"
+    },
+    "1077": {
+      "title": "Uni-Team",
+      "description": "Trag die Vereinsfarben"
+    },
+    "1078": {
+      "title": "Whiteboard",
+      "description": "Frisch aus der Werkstatt"
+    },
+    "1079": {
+      "title": "Wildblume",
+      "description": "Handgepflückt, locker arrangiert"
+    },
+    "1080": {
+      "title": "Wireframe",
+      "description": "Ausgeliefert vor dem Visual Design"
+    },
+    "1081": {
+      "description": "Chromträume aus dem Jahr 2000"
     }
   }
 }

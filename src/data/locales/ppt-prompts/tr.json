@@ -101,22 +101,22 @@
   },
   "prompts": {
     "1": {
-      "title": "Başlangıç"
+      "title": "Girişim"
     },
     "2": {
-      "title": "Geliştirici Araçları"
+      "title": "Geliştirici araçları"
     },
     "3": {
-      "title": "Araştırma"
+      "title": "Akademik araştırma"
     },
     "4": {
-      "title": "QBR"
+      "title": "Çeyrek değerlendirmesi"
     },
     "5": {
-      "title": "Ön Tohum"
+      "title": "Pre-seed"
     },
     "6": {
-      "title": "ESG"
+      "title": "ESG raporu"
     },
     "7": {
       "title": "Marka"
@@ -125,55 +125,339 @@
       "title": "Büyüme"
     },
     "9": {
-      "title": "Yol Haritası"
+      "title": "Yol haritası"
     },
     "10": {
       "title": "Üniversite"
     },
     "11": {
-      "title": "B2B"
+      "title": "B2B satış"
     },
     "12": {
-      "title": "Series B"
+      "title": "B Serisi"
     },
     "13": {
-      "title": "Mimari"
-    },
-    "14": {
-      "title": "TED"
+      "title": "Sistem mimarisi"
     },
     "15": {
-      "title": "Pazar Araştırması"
+      "title": "Pazar araştırması"
     },
     "16": {
-      "title": "İşe Alıştırma"
+      "title": "Oryantasyon"
     },
     "17": {
-      "title": "Finansal Performans Raporu"
+      "title": "Finansal sonuçlar"
     },
     "18": {
-      "title": "Tasarım Sistemi"
+      "title": "Tasarım sistemi"
     },
     "19": {
-      "title": "Vaka Çalışması"
+      "title": "Vaka çalışması"
     },
     "20": {
-      "title": "Yönetim Kurulu Sunumu"
+      "title": "Yönetim kurulu sunumu"
     },
     "21": {
-      "title": "Liderlik"
+      "title": "Liderlik eğitimi"
     },
     "22": {
-      "title": "Pazara Giriş (GTM)"
+      "title": "Pazara giriş stratejisi"
     },
     "23": {
       "title": "Mikroservisler"
     },
     "24": {
-      "title": "Performans Değerlendirmesi"
+      "title": "Performans değerlendirmesi"
     },
     "25": {
-      "title": "AI Trendleri"
+      "title": "Yapay zeka trendleri"
+    },
+    "1001": {
+      "description": "Mor, siyah ve bir büyüktür işareti"
+    },
+    "1002": {
+      "description": "Jetonu at"
+    },
+    "1003": {
+      "description": "Caz çağı için altın geometri"
+    },
+    "1004": {
+      "description": "Teknik çizim gibi kurgulanmış"
+    },
+    "1005": {
+      "description": "Her zaman güvenilen seçenek"
+    },
+    "1006": {
+      "description": "Bir avlu kadar sakin"
+    },
+    "1007": {
+      "description": "SaaS için degradeli sunum"
+    },
+    "1008": {
+      "description": "Önce cevap, gerektiği yerde kırmızı"
+    },
+    "1009": {
+      "description": "Sadece tipografi, hem de yüksek sesle"
+    },
+    "1010": {
+      "description": "Strateji 2×2 matriste yaşar"
+    },
+    "1011": {
+      "title": "Kıyaslama",
+      "description": "Biz, tüm rakiplere karşı"
+    },
+    "1012": {
+      "title": "Bilbord",
+      "description": "Tek renk, tek satır"
+    },
+    "1013": {
+      "title": "Toplantı salonu",
+      "description": "Slaytın kendisi bir argümandır"
+    },
+    "1014": {
+      "title": "Büyük boy gazete",
+      "description": "Manşetlerin hepsi burada"
+    },
+    "1015": {
+      "description": "Y2K parıltısı, ama düzenli"
+    },
+    "1016": {
+      "title": "Kara tahta",
+      "description": "Devre arasında çizilen taktik"
+    },
+    "1017": {
+      "description": "Dört aşama, tek yön"
+    },
+    "1018": {
+      "title": "Yılbaşı",
+      "description": "Bayram şıklığı, sıfır ucuz klipart"
+    },
+    "1019": {
+      "description": "Sette sessizlik"
+    },
+    "1020": {
+      "description": "İzleri takip et"
+    },
+    "1021": {
+      "title": "Kolaj",
+      "description": "Önce makas, sonra mizanpaj"
+    },
+    "1022": {
+      "description": "Kurdeleler, allık ve bir kiraz öpücüğü"
+    },
+    "1023": {
+      "description": "Mum ışığında kütüphane, nadir kitaplar derneği"
+    },
+    "1024": {
+      "description": "Siyah, beyaz ve tek bir yeşil nokta"
+    },
+    "1025": {
+      "title": "Demo Day",
+      "description": "Üç dakika, slayt başına tek fikir"
+    },
+    "1026": {
+      "title": "Çizim odası",
+      "description": "İki kez ölç, bir kez sun"
+    },
+    "1027": {
+      "title": "Keşif seferi",
+      "description": "Buradan sonrası gündem maddeleri"
+    },
+    "1028": {
+      "description": "Koyu arduvaz ve kararlı bir sarı huzme"
+    },
+    "1029": {
+      "title": "Saha notları",
+      "description": "Dosyanın üstüne bantlanmış"
+    },
+    "1030": {
+      "title": "Cadılar Bayramı",
+      "description": "Korku mevsimi, sınıfa uygun"
+    },
+    "1031": {
+      "description": "Çeyrek çeyrek olgunlaşan"
+    },
+    "1032": {
+      "description": "Hikâyeyle ilerleyen sıcak marka sunumu"
+    },
+    "1033": {
+      "title": "Herbaryum",
+      "description": "Preslendi, etiketlendi, dosyalandı"
+    },
+    "1034": {
+      "description": "Yanardöner, ama disiplinli"
+    },
+    "1035": {
+      "title": "Minimal açılış konuşması",
+      "description": "Tek slayt, tek fikir, sıfır karmaşa"
+    },
+    "1036": {
+      "description": "KPMG mavisinde denetim düzeyinde netlik"
+    },
+    "1037": {
+      "description": "Her rakam mutabık"
+    },
+    "1038": {
+      "title": "Antetli kağıt",
+      "description": "Basılmış değil, kazınmış"
+    },
+    "1039": {
+      "title": "Seviye atla",
+      "description": "Deneyim puanını kazan"
+    },
+    "1040": {
+      "title": "Tek cümlelik özet",
+      "description": "Tek sayfada sunum"
+    },
+    "1041": {
+      "title": "Lookbook",
+      "description": "Atmosfer, ton ve kadraj"
+    },
+    "1042": {
+      "title": "Ana bilgisayar",
+      "description": "Doğrudan makine dairesinden"
+    },
+    "1043": {
+      "title": "El yazması",
+      "description": "Baskıdan önce slaytlar"
+    },
+    "1044": {
+      "description": "Bunu bir olaya dönüştür"
+    },
+    "1045": {
+      "description": "Her zaman önce cevap"
+    },
+    "1046": {
+      "title": "Not",
+      "description": "Son notumda belirttiğim gibi"
+    },
+    "1047": {
+      "description": "Ciddi içerik, ciddiyetsiz üslup"
+    },
+    "1048": {
+      "description": "Fark analizine dikkat"
+    },
+    "1049": {
+      "title": "Gece yarısı sunumu",
+      "description": "Yatırımcıyı öne eğdiren sunum"
+    },
+    "1050": {
+      "description": "Pahalı bir sessizlik"
+    },
+    "1051": {
+      "title": "Defter",
+      "description": "Kenar boşlukları dahil"
+    },
+    "1052": {
+      "description": "Sıcak nötrler, sakin kemerler, pahalı bir dinginlik"
+    },
+    "1053": {
+      "title": "Gözlemevi",
+      "description": "Veriyi takımyıldız gibi çizmek"
+    },
+    "1054": {
+      "title": "Tek sayfa",
+      "description": "Afişin en üstünde"
+    },
+    "1055": {
+      "title": "Operasyon paneli",
+      "description": "Hikâye değil, durum"
+    },
+    "1056": {
+      "description": "Süslenmiş değil, katlanmış"
+    },
+    "1057": {
+      "description": "Tam 1986 çıkışlı"
+    },
+    "1058": {
+      "title": "Paspartu",
+      "description": "Her slaytta bir galeri"
+    },
+    "1059": {
+      "title": "Pitch book",
+      "description": "Lacivert titizlik, altın çizgiler, yoğun bir inandırıcılık"
+    },
+    "1060": {
+      "description": "Duvara iğnelenmiş"
+    },
+    "1061": {
+      "description": "Serifli başlıklar, beş sıcak renk"
+    },
+    "1062": {
+      "title": "Çeyrek değerlendirmesi",
+      "description": "Hedefler, gerçekleşenler ve yenileme hikâyesi"
+    },
+    "1063": {
+      "title": "Bilgi yarışması gecesi",
+      "description": "Eğitim, ama sinyal butonlu"
+    },
+    "1064": {
+      "title": "Nakit ömrü",
+      "description": "Temiz ve hafif yatırımcı sunumu"
+    },
+    "1065": {
+      "title": "Karalama defteri",
+      "description": "Kağıt, bant ve el yazısının cazibesi"
+    },
+    "1066": {
+      "title": "Seminer",
+      "description": "Beamer, ama daha güzeli"
+    },
+    "1067": {
+      "title": "Altı sayfalık not",
+      "description": "Toplantıyı yöneten not"
+    },
+    "1068": {
+      "description": "Yumuşak pasteller, zevkli sınırlarda"
+    },
+    "1069": {
+      "description": "Tüketici uygulamaları için çarpıcı pembe"
+    },
+    "1070": {
+      "title": "Ders izlencesi",
+      "description": "Taslağın kendisi tasarımdır"
+    },
+    "1071": {
+      "description": "Kocaman söyle, karanlıkta tut"
+    },
+    "1072": {
+      "title": "Telemetri",
+      "description": "Sunumunuz bir gösterge paneli gibi"
+    },
+    "1073": {
+      "title": "Term sheet",
+      "description": "Kurumsal yatırımcıların kullandığı çerçeve"
+    },
+    "1074": {
+      "title": "Borsa şeridi",
+      "description": "Siyah üzerine kehribar"
+    },
+    "1075": {
+      "title": "Traction",
+      "description": "Bırak rakamlar konuşsun"
+    },
+    "1076": {
+      "title": "Patika başı",
+      "description": "Adım adım öğrenmek"
+    },
+    "1077": {
+      "title": "Üniversite takımı",
+      "description": "Takımın renklerini giy"
+    },
+    "1078": {
+      "title": "Beyaz tahta",
+      "description": "Atölyeden yeni çıkmış"
+    },
+    "1079": {
+      "title": "Kır çiçeği",
+      "description": "Elle toplanmış, gelişigüzel yerleştirilmiş"
+    },
+    "1080": {
+      "title": "Tel kafes",
+      "description": "Görsel tasarımdan önce yayında"
+    },
+    "1081": {
+      "description": "2000 yılından krom rüyalar"
     }
   }
 }

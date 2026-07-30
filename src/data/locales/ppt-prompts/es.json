@@ -104,67 +104,64 @@
       "title": "Startup"
     },
     "2": {
-      "title": "Herramientas para desarrolladores"
+      "title": "Herramientas dev"
     },
     "3": {
-      "title": "Investigación académica"
+      "title": "Investigación"
     },
     "4": {
-      "title": "Revisión trimestral de negocio (QBR)"
+      "title": "Revisión trimestral"
     },
     "5": {
-      "title": "Pre-semilla"
+      "title": "Pre-seed"
     },
     "6": {
       "title": "Informe ESG"
     },
     "7": {
-      "title": "Identidad de marca"
+      "title": "Marca"
     },
     "8": {
       "title": "Crecimiento"
     },
     "9": {
-      "title": "Hoja de ruta del producto"
+      "title": "Hoja de ruta"
     },
     "10": {
-      "title": "Material de clase"
+      "title": "Universidad"
     },
     "11": {
       "title": "Ventas B2B"
     },
     "12": {
-      "title": "Financiación Serie B"
+      "title": "Serie B"
     },
     "13": {
-      "title": "Arquitectura de sistema"
-    },
-    "14": {
-      "title": "Presentación estilo TED"
+      "title": "Arquitectura de sistemas"
     },
     "15": {
-      "title": "Investigación de mercado"
+      "title": "Estudio de mercado"
     },
     "16": {
-      "title": "Orientación para nuevos empleados"
+      "title": "Incorporación"
     },
     "17": {
-      "title": "Informe de rendimiento financiero"
+      "title": "Resultados financieros"
     },
     "18": {
       "title": "Sistema de diseño"
     },
     "19": {
-      "title": "Caso de estudio"
+      "title": "Caso de éxito"
     },
     "20": {
-      "title": "Presentación para la junta directiva"
+      "title": "Consejo de administración"
     },
     "21": {
-      "title": "Liderazgo"
+      "title": "Formación en liderazgo"
     },
     "22": {
-      "title": "Estrategia de entrada al mercado"
+      "title": "Go-to-market"
     },
     "23": {
       "title": "Microservicios"
@@ -174,6 +171,293 @@
     },
     "25": {
       "title": "Tendencias de IA"
+    },
+    "1001": {
+      "description": "Morado, negro y un signo mayor que"
+    },
+    "1002": {
+      "description": "Inserta una moneda"
+    },
+    "1003": {
+      "description": "Geometría dorada para la era del jazz"
+    },
+    "1004": {
+      "description": "Construido como un plano"
+    },
+    "1005": {
+      "description": "La opción de siempre"
+    },
+    "1006": {
+      "description": "Sereno, como un patio interior"
+    },
+    "1007": {
+      "description": "Pitch deck con degradados para SaaS"
+    },
+    "1008": {
+      "description": "La respuesta primero, rojo donde importa"
+    },
+    "1009": {
+      "description": "Solo tipografía, y a lo grande"
+    },
+    "1010": {
+      "description": "La estrategia cabe en una matriz 2×2"
+    },
+    "1011": {
+      "title": "Benchmark",
+      "description": "Nosotros contra todo el mercado"
+    },
+    "1012": {
+      "title": "Valla publicitaria",
+      "description": "Un color, una línea"
+    },
+    "1013": {
+      "title": "Sala del consejo",
+      "description": "La diapositiva es el argumento"
+    },
+    "1014": {
+      "title": "Formato sábana",
+      "description": "Todo en portada"
+    },
+    "1015": {
+      "description": "Brillo Y2K, pero con sistema"
+    },
+    "1016": {
+      "title": "Pizarra",
+      "description": "Dibujado en el descanso"
+    },
+    "1017": {
+      "description": "Cuatro fases, una dirección"
+    },
+    "1018": {
+      "title": "Navidad",
+      "description": "Elegancia navideña, sin clipart hortera"
+    },
+    "1019": {
+      "description": "Silencio, se rueda"
+    },
+    "1020": {
+      "description": "Sigue las trazas"
+    },
+    "1021": {
+      "title": "Collage",
+      "description": "Primero las tijeras, después la maquetación"
+    },
+    "1022": {
+      "description": "Lazos, colorete y un beso de cereza"
+    },
+    "1023": {
+      "description": "Biblioteca a la luz de las velas, club de libros raros"
+    },
+    "1024": {
+      "description": "Blanco, negro y un punto verde"
+    },
+    "1025": {
+      "title": "Demo Day",
+      "description": "Tres minutos, una idea por diapositiva"
+    },
+    "1026": {
+      "title": "Sala de dibujo",
+      "description": "Mide dos veces, presenta una"
+    },
+    "1027": {
+      "title": "Expedición",
+      "description": "Aquí hay puntos del orden del día"
+    },
+    "1028": {
+      "description": "Pizarra oscura y un haz amarillo decisivo"
+    },
+    "1029": {
+      "title": "Notas de campo",
+      "description": "Pegado con cinta a la carpeta"
+    },
+    "1030": {
+      "title": "Halloween",
+      "description": "Ambiente de terror, apto para el aula"
+    },
+    "1031": {
+      "description": "Madurez trimestre a trimestre"
+    },
+    "1032": {
+      "description": "Pitch de marca cálido y narrativo"
+    },
+    "1033": {
+      "title": "Herbario",
+      "description": "Prensado, etiquetado, archivado"
+    },
+    "1034": {
+      "description": "Iridiscente, pero con disciplina"
+    },
+    "1035": {
+      "title": "Keynote minimalista",
+      "description": "Una diapositiva, una idea, cero ruido"
+    },
+    "1036": {
+      "description": "Claridad de auditoría en azul KPMG"
+    },
+    "1037": {
+      "description": "Cada cifra cuadra"
+    },
+    "1038": {
+      "title": "Membrete",
+      "description": "Grabado, no impreso"
+    },
+    "1039": {
+      "title": "Subir de nivel",
+      "description": "Gana la experiencia"
+    },
+    "1040": {
+      "title": "Logline",
+      "description": "El pitch en una página"
+    },
+    "1041": {
+      "title": "Lookbook",
+      "description": "Ambiente, tono y encuadre"
+    },
+    "1042": {
+      "title": "Mainframe",
+      "description": "Directo desde la sala de máquinas"
+    },
+    "1043": {
+      "title": "Manuscrito",
+      "description": "Primero las diapositivas, luego la imprenta"
+    },
+    "1044": {
+      "description": "Conviértelo en un acontecimiento"
+    },
+    "1045": {
+      "description": "Siempre la respuesta primero"
+    },
+    "1046": {
+      "title": "Memorándum",
+      "description": "Como decía en mi último memorándum"
+    },
+    "1047": {
+      "description": "Contenido serio, estilo desenfadado"
+    },
+    "1048": {
+      "description": "Cuidado con el análisis de brechas"
+    },
+    "1049": {
+      "title": "Pitch de medianoche",
+      "description": "Para que los inversores se inclinen hacia delante"
+    },
+    "1050": {
+      "description": "Un silencio caro"
+    },
+    "1051": {
+      "title": "Cuaderno",
+      "description": "Márgenes incluidos"
+    },
+    "1052": {
+      "description": "Neutros cálidos, arcos serenos, calma cara"
+    },
+    "1053": {
+      "title": "Observatorio",
+      "description": "Los datos como constelaciones"
+    },
+    "1054": {
+      "title": "Una hoja",
+      "description": "A la cabeza del cartel"
+    },
+    "1055": {
+      "title": "Panel de operaciones",
+      "description": "Estados, no relatos"
+    },
+    "1056": {
+      "description": "Plegado, no decorado"
+    },
+    "1057": {
+      "description": "Directo desde 1986"
+    },
+    "1058": {
+      "title": "Paspartú",
+      "description": "Una galería en cada diapositiva"
+    },
+    "1059": {
+      "title": "Pitch book",
+      "description": "Rigor marino, filetes dorados, convicción densa"
+    },
+    "1060": {
+      "description": "Clavado en la pared"
+    },
+    "1061": {
+      "description": "Titulares con serifa, cinco colores cálidos"
+    },
+    "1062": {
+      "title": "Revisión trimestral",
+      "description": "Objetivos, reales y la historia de la renovación"
+    },
+    "1063": {
+      "title": "Noche de trivia",
+      "description": "Formación, pero con pulsadores"
+    },
+    "1064": {
+      "title": "Runway",
+      "description": "Pitch de inversión limpio y ligero"
+    },
+    "1065": {
+      "title": "Álbum de recortes",
+      "description": "Papel, cinta y encanto manuscrito"
+    },
+    "1066": {
+      "title": "Seminario",
+      "description": "Beamer, pero más bonito"
+    },
+    "1067": {
+      "title": "Memo de seis páginas",
+      "description": "El memorándum que dirige la reunión"
+    },
+    "1068": {
+      "description": "Pasteles suaves, con buen gusto"
+    },
+    "1069": {
+      "description": "Pitch en rosa intenso para apps de consumo"
+    },
+    "1070": {
+      "title": "Programa del curso",
+      "description": "El guion es el diseño"
+    },
+    "1071": {
+      "description": "Dilo enorme, mantenlo oscuro"
+    },
+    "1072": {
+      "title": "Telemetría",
+      "description": "Tu presentación como un cuadro de mando"
+    },
+    "1073": {
+      "title": "Term sheet",
+      "description": "El marco que usan los fondos institucionales"
+    },
+    "1074": {
+      "title": "Teletipo bursátil",
+      "description": "Ámbar sobre negro"
+    },
+    "1075": {
+      "title": "Tracción",
+      "description": "Deja que hablen los números"
+    },
+    "1076": {
+      "title": "Punto de partida",
+      "description": "Aprender, kilómetro a kilómetro"
+    },
+    "1077": {
+      "title": "Equipo universitario",
+      "description": "Viste los colores del equipo"
+    },
+    "1078": {
+      "title": "Pizarra blanca",
+      "description": "Recién salido del taller"
+    },
+    "1079": {
+      "title": "Flor silvestre",
+      "description": "Recogido a mano, colocado sin rigidez"
+    },
+    "1080": {
+      "title": "Wireframe",
+      "description": "Publicado antes que el diseño visual"
+    },
+    "1081": {
+      "description": "Sueños cromados del año 2000"
     }
   }
 }

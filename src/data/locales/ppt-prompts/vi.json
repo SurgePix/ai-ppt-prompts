@@ -101,22 +101,22 @@
   },
   "prompts": {
     "1": {
-      "title": "Bắt đầu"
+      "title": "Khởi nghiệp"
     },
     "2": {
-      "title": "Công cụ phát triển"
+      "title": "Công cụ lập trình"
     },
     "3": {
-      "title": "Nghiên cứu"
+      "title": "Nghiên cứu học thuật"
     },
     "4": {
-      "title": "QBR"
+      "title": "Đánh giá quý"
     },
     "5": {
-      "title": "Hạt giống trước"
+      "title": "Pre-seed"
     },
     "6": {
-      "title": "ESG"
+      "title": "Báo cáo ESG"
     },
     "7": {
       "title": "Thương hiệu"
@@ -125,55 +125,339 @@
       "title": "Tăng trưởng"
     },
     "9": {
-      "title": "Lộ trình"
+      "title": "Lộ trình sản phẩm"
     },
     "10": {
-      "title": "Đại học"
+      "title": "Giảng đường"
     },
     "11": {
-      "title": "B2B"
+      "title": "Bán hàng B2B"
     },
     "12": {
-      "title": "Series B"
+      "title": "Vòng Series B"
     },
     "13": {
-      "title": "Kiến trúc"
-    },
-    "14": {
-      "title": "TED"
+      "title": "Kiến trúc hệ thống"
     },
     "15": {
       "title": "Nghiên cứu thị trường"
     },
     "16": {
-      "title": "Đào tạo"
+      "title": "Hội nhập nhân viên"
     },
     "17": {
-      "title": "Báo cáo hiệu suất tài chính"
+      "title": "Báo cáo tài chính"
     },
     "18": {
       "title": "Hệ thống thiết kế"
     },
     "19": {
-      "title": "Nghiên cứu trường hợp"
+      "title": "Nghiên cứu điển hình"
     },
     "20": {
       "title": "Báo cáo hội đồng quản trị"
     },
     "21": {
-      "title": "Lãnh đạo"
+      "title": "Đào tạo lãnh đạo"
     },
     "22": {
-      "title": "Chiến lược ra mắt thị trường (GTM)"
+      "title": "Chiến lược thâm nhập thị trường"
     },
     "23": {
-      "title": "Dịch vụ vi mô"
+      "title": "Microservices"
     },
     "24": {
       "title": "Đánh giá hiệu suất"
     },
     "25": {
       "title": "Xu hướng AI"
+    },
+    "1001": {
+      "description": "Tím, đen và dấu lớn hơn"
+    },
+    "1002": {
+      "description": "Nhét xu vào máy"
+    },
+    "1003": {
+      "description": "Hình học ánh vàng của thời đại jazz"
+    },
+    "1004": {
+      "description": "Dựng chuẩn như một bản vẽ kỹ thuật"
+    },
+    "1005": {
+      "description": "Lựa chọn luôn đáng tin"
+    },
+    "1006": {
+      "description": "Tĩnh lặng như một khoảnh sân trong"
+    },
+    "1007": {
+      "description": "Bộ slide pitch chuyển sắc cho SaaS"
+    },
+    "1008": {
+      "description": "Kết luận trước, tô đỏ đúng chỗ"
+    },
+    "1009": {
+      "description": "Chỉ có chữ, và thật lớn"
+    },
+    "1010": {
+      "description": "Chiến lược nằm gọn trong ma trận 2×2"
+    },
+    "1011": {
+      "title": "Đối sánh",
+      "description": "Chúng ta đối đầu cả thị trường"
+    },
+    "1012": {
+      "title": "Bảng quảng cáo",
+      "description": "Một màu, một dòng"
+    },
+    "1013": {
+      "title": "Phòng họp hội đồng",
+      "description": "Bản thân slide chính là luận điểm"
+    },
+    "1014": {
+      "title": "Khổ báo lớn",
+      "description": "Tất cả đều ở trang nhất"
+    },
+    "1015": {
+      "description": "Lấp lánh Y2K nhưng có kỷ luật"
+    },
+    "1016": {
+      "title": "Bảng phấn",
+      "description": "Vạch ra trong giờ nghỉ giữa hiệp"
+    },
+    "1017": {
+      "description": "Bốn giai đoạn, một hướng đi"
+    },
+    "1018": {
+      "title": "Giáng sinh",
+      "description": "Chỉn chu không khí lễ hội, không clipart rẻ tiền"
+    },
+    "1019": {
+      "description": "Trường quay giữ im lặng"
+    },
+    "1020": {
+      "description": "Lần theo dấu vết"
+    },
+    "1021": {
+      "title": "Cắt dán",
+      "description": "Cầm kéo trước, dàn trang sau"
+    },
+    "1022": {
+      "description": "Ruy băng, phấn má và một nụ hôn anh đào"
+    },
+    "1023": {
+      "description": "Thư phòng thắp nến, hội chơi sách quý"
+    },
+    "1024": {
+      "description": "Đen, trắng và một chấm xanh lá"
+    },
+    "1025": {
+      "title": "Demo Day",
+      "description": "Ba phút, mỗi slide một ý"
+    },
+    "1026": {
+      "title": "Phòng vẽ kỹ thuật",
+      "description": "Đo hai lần, trình bày một lần"
+    },
+    "1027": {
+      "title": "Chuyến thám hiểm",
+      "description": "Từ đây là các mục chương trình"
+    },
+    "1028": {
+      "description": "Nền xám sẫm và một vệt vàng dứt khoát"
+    },
+    "1029": {
+      "title": "Ghi chép thực địa",
+      "description": "Dán băng dính lên bìa hồ sơ"
+    },
+    "1030": {
+      "title": "Halloween",
+      "description": "Không khí rùng rợn, vẫn hợp lớp học"
+    },
+    "1031": {
+      "description": "Trưởng thành theo từng quý"
+    },
+    "1032": {
+      "description": "Bài giới thiệu thương hiệu ấm áp, kể bằng câu chuyện"
+    },
+    "1033": {
+      "title": "Tiêu bản thực vật",
+      "description": "Ép khô, dán nhãn, lưu hồ sơ"
+    },
+    "1034": {
+      "description": "Óng ánh nhưng vẫn chừng mực"
+    },
+    "1035": {
+      "title": "Keynote tối giản",
+      "description": "Một slide, một ý, không rườm rà"
+    },
+    "1036": {
+      "description": "Rõ ràng chuẩn kiểm toán trong sắc xanh KPMG"
+    },
+    "1037": {
+      "description": "Mọi con số đều khớp"
+    },
+    "1038": {
+      "title": "Giấy tiêu đề",
+      "description": "Khắc chứ không in"
+    },
+    "1039": {
+      "title": "Lên cấp",
+      "description": "Kiếm điểm kinh nghiệm"
+    },
+    "1040": {
+      "title": "Tóm tắt một câu",
+      "description": "Cả bài pitch gói trong một trang"
+    },
+    "1041": {
+      "title": "Lookbook",
+      "description": "Tâm trạng, tông màu và khuôn hình"
+    },
+    "1042": {
+      "title": "Máy tính lớn",
+      "description": "Thẳng từ phòng máy ra"
+    },
+    "1043": {
+      "title": "Bản thảo",
+      "description": "Làm slide trước, in ấn sau"
+    },
+    "1044": {
+      "description": "Biến nó thành một dịp đáng nhớ"
+    },
+    "1045": {
+      "description": "Luôn đưa kết luận trước"
+    },
+    "1046": {
+      "title": "Bản ghi nhớ",
+      "description": "Như đã nêu trong bản ghi nhớ trước"
+    },
+    "1047": {
+      "description": "Nội dung nghiêm túc, phong cách thì không"
+    },
+    "1048": {
+      "description": "Cẩn thận với phân tích khoảng cách"
+    },
+    "1049": {
+      "title": "Bài pitch lúc nửa đêm",
+      "description": "Khiến nhà đầu tư nhoài người tới trước"
+    },
+    "1050": {
+      "description": "Khoảng lặng đắt giá"
+    },
+    "1051": {
+      "title": "Sổ tay",
+      "description": "Kèm cả lề trang"
+    },
+    "1052": {
+      "description": "Sắc trung tính ấm, vòm cong tĩnh lặng, sự bình thản đắt giá"
+    },
+    "1053": {
+      "title": "Đài thiên văn",
+      "description": "Vẽ dữ liệu thành chòm sao"
+    },
+    "1054": {
+      "title": "Một trang",
+      "description": "Tên đứng đầu áp phích"
+    },
+    "1055": {
+      "title": "Bảng vận hành",
+      "description": "Chỉ báo trạng thái, không kể chuyện"
+    },
+    "1056": {
+      "description": "Gấp nếp chứ không trang trí"
+    },
+    "1057": {
+      "description": "Nguyên bản từ năm 1986"
+    },
+    "1058": {
+      "title": "Khung passe-partout",
+      "description": "Mỗi slide là một phòng tranh"
+    },
+    "1059": {
+      "title": "Pitch book",
+      "description": "Sự nghiêm cẩn xanh navy, đường kẻ vàng, niềm tin dày dặn"
+    },
+    "1060": {
+      "description": "Ghim lên tường"
+    },
+    "1061": {
+      "description": "Tiêu đề chân chữ, năm sắc ấm"
+    },
+    "1062": {
+      "title": "Đánh giá quý",
+      "description": "Mục tiêu, thực tế và câu chuyện gia hạn"
+    },
+    "1063": {
+      "title": "Đêm đố vui",
+      "description": "Đào tạo, nhưng có nút bấm chuông"
+    },
+    "1064": {
+      "title": "Runway",
+      "description": "Bộ slide gọi vốn gọn gàng, nhẹ nhàng"
+    },
+    "1065": {
+      "title": "Sổ dán ảnh",
+      "description": "Giấy, băng dính và nét duyên viết tay"
+    },
+    "1066": {
+      "title": "Hội thảo",
+      "description": "Beamer, nhưng đẹp hơn"
+    },
+    "1067": {
+      "title": "Bản ghi nhớ sáu trang",
+      "description": "Bản ghi nhớ dẫn dắt cả cuộc họp"
+    },
+    "1068": {
+      "description": "Pastel dịu, vẫn giữ được chừng mực"
+    },
+    "1069": {
+      "description": "Sắc hồng rực cho ứng dụng tiêu dùng"
+    },
+    "1070": {
+      "title": "Đề cương môn học",
+      "description": "Dàn ý chính là thiết kế"
+    },
+    "1071": {
+      "description": "Nói thật to, giữ nền thật tối"
+    },
+    "1072": {
+      "title": "Đo lường từ xa",
+      "description": "Biến bài trình bày thành bảng điều khiển"
+    },
+    "1073": {
+      "title": "Term sheet",
+      "description": "Khung điều khoản các quỹ đầu tư tổ chức hay dùng"
+    },
+    "1074": {
+      "title": "Bảng điện chứng khoán",
+      "description": "Hổ phách trên nền đen"
+    },
+    "1075": {
+      "title": "Đà tăng trưởng",
+      "description": "Để những con số tự lên tiếng"
+    },
+    "1076": {
+      "title": "Điểm khởi hành",
+      "description": "Học từng chặng một"
+    },
+    "1077": {
+      "title": "Đội tuyển trường",
+      "description": "Khoác lên màu áo đội nhà"
+    },
+    "1078": {
+      "title": "Bảng trắng",
+      "description": "Vừa ra lò từ xưởng"
+    },
+    "1079": {
+      "title": "Hoa dại",
+      "description": "Hái bằng tay, cắm thật tự nhiên"
+    },
+    "1080": {
+      "title": "Khung giao diện",
+      "description": "Lên sóng trước cả bản thiết kế đồ họa"
+    },
+    "1081": {
+      "description": "Giấc mơ mạ crôm từ năm 2000"
     }
   }
 }

@@ -101,22 +101,22 @@
   },
   "prompts": {
     "1": {
-      "title": "Początek"
+      "title": "Startup"
     },
     "2": {
       "title": "Narzędzia deweloperskie"
     },
     "3": {
-      "title": "Badania rynkowe"
+      "title": "Badania naukowe"
     },
     "4": {
-      "title": "QBR"
+      "title": "Przegląd kwartalny"
     },
     "5": {
-      "title": "Przed inwestycją"
+      "title": "Pre-seed"
     },
     "6": {
-      "title": "ESG"
+      "title": "Raport ESG"
     },
     "7": {
       "title": "Marka"
@@ -128,19 +128,16 @@
       "title": "Mapa drogowa"
     },
     "10": {
-      "title": "Uniwersytet"
+      "title": "Uczelnia"
     },
     "11": {
-      "title": "B2B"
+      "title": "Sprzedaż B2B"
     },
     "12": {
-      "title": "Seria B"
+      "title": "Runda B"
     },
     "13": {
-      "title": "Architektura"
-    },
-    "14": {
-      "title": "TED"
+      "title": "Architektura systemu"
     },
     "15": {
       "title": "Badanie rynku"
@@ -149,31 +146,318 @@
       "title": "Wdrożenie"
     },
     "17": {
-      "title": "Raport wyników finansowych"
+      "title": "Wyniki finansowe"
     },
     "18": {
-      "title": "System projektowania"
+      "title": "System projektowy"
     },
     "19": {
       "title": "Studium przypadku"
     },
     "20": {
-      "title": "Prezentacja zarządu"
+      "title": "Prezentacja dla zarządu"
     },
     "21": {
-      "title": "Przywództwo"
+      "title": "Szkolenie przywódcze"
     },
     "22": {
-      "title": "Wejście na rynek (GTM)"
+      "title": "Strategia wejścia na rynek"
     },
     "23": {
       "title": "Mikroserwisy"
     },
     "24": {
-      "title": "Ocena wydajności"
+      "title": "Ocena okresowa"
     },
     "25": {
-      "title": "Trendy AI"
+      "title": "Trendy w AI"
+    },
+    "1001": {
+      "description": "Fiolet, czerń i znak większości"
+    },
+    "1002": {
+      "description": "Wrzuć monetę"
+    },
+    "1003": {
+      "description": "Złota geometria epoki jazzu"
+    },
+    "1004": {
+      "description": "Zbudowane jak projekt techniczny"
+    },
+    "1005": {
+      "description": "Ten pewny wybór"
+    },
+    "1006": {
+      "description": "Spokojnie, jak na dziedzińcu"
+    },
+    "1007": {
+      "description": "Gradientowa prezentacja dla SaaS"
+    },
+    "1008": {
+      "description": "Najpierw odpowiedź, czerwień tam, gdzie trzeba"
+    },
+    "1009": {
+      "description": "Tylko typografia, za to głośna"
+    },
+    "1010": {
+      "description": "Strategia mieści się w macierzy 2×2"
+    },
+    "1011": {
+      "title": "Benchmark",
+      "description": "My kontra cała konkurencja"
+    },
+    "1012": {
+      "title": "Billboard",
+      "description": "Jeden kolor, jedna linijka"
+    },
+    "1013": {
+      "title": "Sala zarządu",
+      "description": "Slajd sam w sobie jest argumentem"
+    },
+    "1014": {
+      "title": "Format gazetowy",
+      "description": "Wszystko na pierwszej stronie"
+    },
+    "1015": {
+      "description": "Blask Y2K, ale z systemem"
+    },
+    "1016": {
+      "title": "Tablica kredowa",
+      "description": "Naszkicowane w przerwie meczu"
+    },
+    "1017": {
+      "description": "Cztery fazy, jeden kierunek"
+    },
+    "1018": {
+      "title": "Święta",
+      "description": "Świąteczna elegancja, zero clipartowego kiczu"
+    },
+    "1019": {
+      "description": "Cisza na planie"
+    },
+    "1020": {
+      "description": "Podążaj za śladami"
+    },
+    "1021": {
+      "title": "Kolaż",
+      "description": "Najpierw nożyczki, potem układ"
+    },
+    "1022": {
+      "description": "Wstążki, róż i wiśniowy pocałunek"
+    },
+    "1023": {
+      "description": "Biblioteka przy świecach, towarzystwo białych kruków"
+    },
+    "1024": {
+      "description": "Czerń, biel i jedna zielona kropka"
+    },
+    "1025": {
+      "title": "Demo Day",
+      "description": "Trzy minuty, jedna myśl na slajd"
+    },
+    "1026": {
+      "title": "Kreślarnia",
+      "description": "Mierz dwa razy, prezentuj raz"
+    },
+    "1027": {
+      "title": "Wyprawa",
+      "description": "Tu zaczynają się punkty agendy"
+    },
+    "1028": {
+      "description": "Ciemny łupek i jedna zdecydowana żółta smuga"
+    },
+    "1029": {
+      "title": "Notatki terenowe",
+      "description": "Przyklejone taśmą do teczki"
+    },
+    "1030": {
+      "title": "Halloween",
+      "description": "Straszny sezon, ale w wersji szkolnej"
+    },
+    "1031": {
+      "description": "Dojrzałość kwartał po kwartale"
+    },
+    "1032": {
+      "description": "Ciepła, oparta na historii prezentacja marki"
+    },
+    "1033": {
+      "title": "Zielnik",
+      "description": "Zasuszone, opisane, zarchiwizowane"
+    },
+    "1034": {
+      "description": "Opalizujące, ale zdyscyplinowane"
+    },
+    "1035": {
+      "title": "Minimalistyczny keynote",
+      "description": "Jeden slajd, jedna myśl, zero bałaganu"
+    },
+    "1036": {
+      "description": "Audytorska przejrzystość w błękicie KPMG"
+    },
+    "1037": {
+      "description": "Każda liczba się zgadza"
+    },
+    "1038": {
+      "title": "Papier firmowy",
+      "description": "Grawerowane, nie drukowane"
+    },
+    "1039": {
+      "title": "Nowy poziom",
+      "description": "Zdobądź punkty doświadczenia"
+    },
+    "1040": {
+      "title": "Logline",
+      "description": "Cała prezentacja na jednej stronie"
+    },
+    "1041": {
+      "title": "Lookbook",
+      "description": "Nastrój, ton i kadr"
+    },
+    "1042": {
+      "title": "Mainframe",
+      "description": "Prosto z maszynowni"
+    },
+    "1043": {
+      "title": "Manuskrypt",
+      "description": "Najpierw slajdy, potem druk"
+    },
+    "1044": {
+      "description": "Zrób z tego wydarzenie"
+    },
+    "1045": {
+      "description": "Zawsze najpierw odpowiedź"
+    },
+    "1046": {
+      "title": "Notatka służbowa",
+      "description": "Jak pisałem w poprzedniej notatce"
+    },
+    "1047": {
+      "description": "Poważna treść, niepoważny styl"
+    },
+    "1048": {
+      "description": "Uwaga na analizę luk"
+    },
+    "1049": {
+      "title": "Pitch o północy",
+      "description": "Tak, by inwestorzy pochylili się do przodu"
+    },
+    "1050": {
+      "description": "Kosztowna cisza"
+    },
+    "1051": {
+      "title": "Zeszyt",
+      "description": "Z marginesami w komplecie"
+    },
+    "1052": {
+      "description": "Ciepłe neutralne barwy, ciche łuki, kosztowny spokój"
+    },
+    "1053": {
+      "title": "Obserwatorium",
+      "description": "Dane jako konstelacje"
+    },
+    "1054": {
+      "title": "Jedna kartka",
+      "description": "Na samej górze afisza"
+    },
+    "1055": {
+      "title": "Panel operacyjny",
+      "description": "Statusy, nie opowieści"
+    },
+    "1056": {
+      "description": "Złożone, nie ozdobione"
+    },
+    "1057": {
+      "description": "Prosto z 1986 roku"
+    },
+    "1058": {
+      "title": "Passe-partout",
+      "description": "Galeria na każdym slajdzie"
+    },
+    "1059": {
+      "title": "Pitch book",
+      "description": "Granatowy rygor, złote linie, gęste przekonanie"
+    },
+    "1060": {
+      "description": "Przypięte do ściany"
+    },
+    "1061": {
+      "description": "Szeryfowe nagłówki, pięć ciepłych barw"
+    },
+    "1062": {
+      "title": "Przegląd kwartalny",
+      "description": "Cele, wykonanie i historia odnowienia"
+    },
+    "1063": {
+      "title": "Wieczór quizowy",
+      "description": "Szkolenie, ale z brzęczykami"
+    },
+    "1064": {
+      "title": "Runway",
+      "description": "Czysta, lekka prezentacja inwestorska"
+    },
+    "1065": {
+      "title": "Album z wycinkami",
+      "description": "Papier, taśma i urok odręcznego pisma"
+    },
+    "1066": {
+      "title": "Seminarium",
+      "description": "Beamer, tylko ładniejszy"
+    },
+    "1067": {
+      "title": "Notatka na sześć stron",
+      "description": "Notatka, która prowadzi spotkanie"
+    },
+    "1068": {
+      "description": "Miękkie pastele, z wyczuciem"
+    },
+    "1069": {
+      "description": "Wyrazisty róż dla aplikacji konsumenckich"
+    },
+    "1070": {
+      "title": "Program zajęć",
+      "description": "Konspekt jest projektem"
+    },
+    "1071": {
+      "description": "Powiedz to wielkimi literami, na ciemnym tle"
+    },
+    "1072": {
+      "title": "Telemetria",
+      "description": "Twoja prezentacja jako pulpit danych"
+    },
+    "1073": {
+      "title": "Term sheet",
+      "description": "Rama stosowana przez fundusze instytucjonalne"
+    },
+    "1074": {
+      "title": "Pasek notowań",
+      "description": "Bursztyn na czerni"
+    },
+    "1075": {
+      "title": "Trakcja",
+      "description": "Niech mówią liczby"
+    },
+    "1076": {
+      "title": "Początek szlaku",
+      "description": "Nauka krok po kroku"
+    },
+    "1077": {
+      "title": "Drużyna uczelniana",
+      "description": "Załóż barwy drużyny"
+    },
+    "1078": {
+      "title": "Tablica suchościeralna",
+      "description": "Prosto z warsztatu"
+    },
+    "1079": {
+      "title": "Polny kwiat",
+      "description": "Zebrane ręcznie, ułożone swobodnie"
+    },
+    "1080": {
+      "title": "Makieta",
+      "description": "Wdrożone przed projektem graficznym"
+    },
+    "1081": {
+      "description": "Chromowane sny z roku 2000"
     }
   }
 }

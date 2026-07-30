@@ -104,76 +104,360 @@
       "title": "Startup"
     },
     "2": {
-      "title": "Alat Developer"
+      "title": "Perkakas developer"
     },
     "3": {
-      "title": "Riset Akademik"
+      "title": "Riset akademis"
     },
     "4": {
-      "title": "Tinjauan Bisnis Kuartalan (QBR)"
+      "title": "Tinjauan kuartalan"
     },
     "5": {
-      "title": "Pra-Pendanaan (Pre-Seed)"
+      "title": "Pra-seed"
     },
     "6": {
       "title": "Laporan ESG"
     },
     "7": {
-      "title": "Identitas Merek"
+      "title": "Merek"
     },
     "8": {
       "title": "Pertumbuhan"
     },
     "9": {
-      "title": "Peta Jalan Produk"
+      "title": "Peta jalan"
     },
     "10": {
-      "title": "Materi Perkuliahan"
+      "title": "Perkuliahan"
     },
     "11": {
       "title": "Penjualan B2B"
     },
     "12": {
-      "title": "Pendanaan Seri B"
+      "title": "Seri B"
     },
     "13": {
-      "title": "Arsitektur Sistem"
-    },
-    "14": {
-      "title": "Presentasi Gaya TED"
+      "title": "Arsitektur sistem"
     },
     "15": {
-      "title": "Riset Pasar"
+      "title": "Riset pasar"
     },
     "16": {
-      "title": "Orientasi Karyawan Baru"
+      "title": "Orientasi karyawan"
     },
     "17": {
-      "title": "Laporan Kinerja Keuangan"
+      "title": "Laporan keuangan"
     },
     "18": {
-      "title": "Sistem Desain"
+      "title": "Design system"
     },
     "19": {
-      "title": "Studi Kasus"
+      "title": "Studi kasus"
     },
     "20": {
-      "title": "Presentasi Dewan Direksi"
+      "title": "Paparan dewan direksi"
     },
     "21": {
-      "title": "Kepemimpinan"
+      "title": "Pelatihan kepemimpinan"
     },
     "22": {
-      "title": "Strategi Go-to-Market"
+      "title": "Strategi masuk pasar"
     },
     "23": {
-      "title": "Mikroservis"
+      "title": "Microservices"
     },
     "24": {
-      "title": "Evaluasi Kinerja"
+      "title": "Evaluasi kinerja"
     },
     "25": {
       "title": "Tren AI"
+    },
+    "1001": {
+      "description": "Ungu, hitam, dan tanda lebih besar"
+    },
+    "1002": {
+      "description": "Masukkan koin"
+    },
+    "1003": {
+      "description": "Geometri emas untuk era jazz"
+    },
+    "1004": {
+      "description": "Dirancang serapi cetak biru"
+    },
+    "1005": {
+      "description": "Pilihan yang selalu bisa diandalkan"
+    },
+    "1006": {
+      "description": "Setenang halaman dalam"
+    },
+    "1007": {
+      "description": "Pitch deck bergradasi untuk SaaS"
+    },
+    "1008": {
+      "description": "Kesimpulan dulu, merah di titik penting"
+    },
+    "1009": {
+      "description": "Hanya tipografi, dan lantang"
+    },
+    "1010": {
+      "description": "Strategi hidup dalam matriks 2×2"
+    },
+    "1011": {
+      "title": "Tolok ukur",
+      "description": "Kami melawan seluruh pesaing"
+    },
+    "1012": {
+      "title": "Papan reklame",
+      "description": "Satu warna, satu baris"
+    },
+    "1013": {
+      "title": "Ruang rapat direksi",
+      "description": "Slide itu sendiri adalah argumennya"
+    },
+    "1014": {
+      "title": "Format koran",
+      "description": "Semua ada di halaman depan"
+    },
+    "1015": {
+      "description": "Kilau Y2K, tapi tertata"
+    },
+    "1016": {
+      "title": "Papan tulis kapur",
+      "description": "Digambar saat jeda pertandingan"
+    },
+    "1017": {
+      "description": "Empat fase, satu arah"
+    },
+    "1018": {
+      "title": "Natal",
+      "description": "Nuansa perayaan yang rapi, tanpa clipart norak"
+    },
+    "1019": {
+      "description": "Harap tenang, mulai syuting"
+    },
+    "1020": {
+      "description": "Ikuti jejaknya"
+    },
+    "1021": {
+      "title": "Kolase",
+      "description": "Gunting dulu, tata letak belakangan"
+    },
+    "1022": {
+      "description": "Pita, perona pipi, dan sentuhan ceri"
+    },
+    "1023": {
+      "description": "Perpustakaan berpelita lilin, perkumpulan buku langka"
+    },
+    "1024": {
+      "description": "Hitam, putih, dan satu titik hijau"
+    },
+    "1025": {
+      "title": "Demo Day",
+      "description": "Tiga menit, satu gagasan per slide"
+    },
+    "1026": {
+      "title": "Ruang gambar",
+      "description": "Ukur dua kali, presentasikan sekali"
+    },
+    "1027": {
+      "title": "Ekspedisi",
+      "description": "Di sini letak butir-butir agenda"
+    },
+    "1028": {
+      "description": "Abu tua dengan satu sorot kuning yang tegas"
+    },
+    "1029": {
+      "title": "Catatan lapangan",
+      "description": "Ditempel di map"
+    },
+    "1030": {
+      "title": "Halloween",
+      "description": "Nuansa seram, tetap aman untuk kelas"
+    },
+    "1031": {
+      "description": "Kematangan yang bertambah tiap kuartal"
+    },
+    "1032": {
+      "description": "Presentasi merek yang hangat dan bercerita"
+    },
+    "1033": {
+      "title": "Herbarium",
+      "description": "Dipres, diberi label, diarsipkan"
+    },
+    "1034": {
+      "description": "Berkilau warna-warni, tapi tetap terkendali"
+    },
+    "1035": {
+      "title": "Keynote minimalis",
+      "description": "Satu slide, satu gagasan, tanpa sesak"
+    },
+    "1036": {
+      "description": "Kejelasan setara audit dalam biru KPMG"
+    },
+    "1037": {
+      "description": "Setiap angka sudah dicocokkan"
+    },
+    "1038": {
+      "title": "Kop surat",
+      "description": "Diukir, bukan dicetak"
+    },
+    "1039": {
+      "title": "Naik level",
+      "description": "Kumpulkan poin pengalaman"
+    },
+    "1040": {
+      "title": "Logline",
+      "description": "Seluruh pitch dalam satu halaman"
+    },
+    "1041": {
+      "title": "Lookbook",
+      "description": "Suasana, nada, dan bingkai"
+    },
+    "1042": {
+      "title": "Mainframe",
+      "description": "Langsung dari ruang mesin"
+    },
+    "1043": {
+      "title": "Naskah kuno",
+      "description": "Slide dulu, cetak kemudian"
+    },
+    "1044": {
+      "description": "Jadikan sebuah momen istimewa"
+    },
+    "1045": {
+      "description": "Selalu mulai dari kesimpulan"
+    },
+    "1046": {
+      "title": "Memo",
+      "description": "Seperti pada memo saya sebelumnya"
+    },
+    "1047": {
+      "description": "Isi serius, gaya santai"
+    },
+    "1048": {
+      "description": "Awas, ada analisis kesenjangan"
+    },
+    "1049": {
+      "title": "Pitch tengah malam",
+      "description": "Membuat investor mencondongkan badan"
+    },
+    "1050": {
+      "description": "Keheningan yang mahal"
+    },
+    "1051": {
+      "title": "Buku catatan",
+      "description": "Lengkap dengan marginnya"
+    },
+    "1052": {
+      "description": "Netral hangat, lengkung yang tenang, ketenangan yang mahal"
+    },
+    "1053": {
+      "title": "Observatorium",
+      "description": "Data digambar sebagai rasi bintang"
+    },
+    "1054": {
+      "title": "Satu lembar",
+      "description": "Nama paling atas di poster"
+    },
+    "1055": {
+      "title": "Panel operasi",
+      "description": "Status, bukan cerita"
+    },
+    "1056": {
+      "description": "Dilipat, bukan dihias"
+    },
+    "1057": {
+      "description": "Langsung dari tahun 1986"
+    },
+    "1058": {
+      "title": "Paspartu",
+      "description": "Setiap slide sebuah galeri"
+    },
+    "1059": {
+      "title": "Pitch book",
+      "description": "Ketegasan biru dongker, garis emas, keyakinan yang padat"
+    },
+    "1060": {
+      "description": "Ditancapkan di dinding"
+    },
+    "1061": {
+      "description": "Judul berserif, lima warna hangat"
+    },
+    "1062": {
+      "title": "Tinjauan kuartalan",
+      "description": "Target, realisasi, dan cerita perpanjangan"
+    },
+    "1063": {
+      "title": "Malam kuis",
+      "description": "Pelatihan, tapi pakai bel"
+    },
+    "1064": {
+      "title": "Runway",
+      "description": "Pitch investor yang bersih dan ringan"
+    },
+    "1065": {
+      "title": "Buku tempel",
+      "description": "Kertas, selotip, dan pesona tulisan tangan"
+    },
+    "1066": {
+      "title": "Seminar",
+      "description": "Beamer, tapi lebih cantik"
+    },
+    "1067": {
+      "title": "Memo enam halaman",
+      "description": "Memo yang menjalankan rapat"
+    },
+    "1068": {
+      "description": "Pastel lembut, tetap berselera"
+    },
+    "1069": {
+      "description": "Pitch merah muda mencolok untuk aplikasi konsumen"
+    },
+    "1070": {
+      "title": "Silabus",
+      "description": "Kerangkanya adalah desainnya"
+    },
+    "1071": {
+      "description": "Katakan sebesar mungkin, di latar gelap"
+    },
+    "1072": {
+      "title": "Telemetri",
+      "description": "Presentasi Anda sebagai dasbor"
+    },
+    "1073": {
+      "title": "Term sheet",
+      "description": "Kerangka yang dipakai investor institusional"
+    },
+    "1074": {
+      "title": "Papan bursa",
+      "description": "Ambar di atas hitam"
+    },
+    "1075": {
+      "title": "Traksi",
+      "description": "Biarkan angka yang bicara"
+    },
+    "1076": {
+      "title": "Titik awal jalur",
+      "description": "Belajar, selangkah demi selangkah"
+    },
+    "1077": {
+      "title": "Tim kampus",
+      "description": "Kenakan warna timnya"
+    },
+    "1078": {
+      "title": "Papan tulis putih",
+      "description": "Baru keluar dari bengkel kerja"
+    },
+    "1079": {
+      "title": "Bunga liar",
+      "description": "Dipetik tangan, ditata seadanya"
+    },
+    "1080": {
+      "title": "Wireframe",
+      "description": "Rilis sebelum desain visualnya jadi"
+    },
+    "1081": {
+      "description": "Mimpi berlapis krom dari tahun 2000"
     }
   }
 }
