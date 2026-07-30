@@ -13,6 +13,7 @@ interface FooterProps {
   tools?: ToolItem[];
   pagePath?: string;
   mainSiteUrl?: string;
+  githubUrl?: string;
 }
 
 const emitGa4Event = (eventName: string, params: Record<string, string>) => {
@@ -41,6 +42,7 @@ export function Footer({
   tools = [],
   pagePath = '/awesome-ppt-prompts',
   mainSiteUrl = 'https://surgepix.ai/',
+  githubUrl = 'https://github.com/SurgePix/ai-ppt-prompts',
 }: FooterProps) {
   return (
     <footer
@@ -163,6 +165,15 @@ export function Footer({
                   className="font-inter text-sm text-white/60 transition-colors hover:text-white"
                 >
                   Discord
+                </a>
+                <a
+                  href={githubUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onClick={() => trackCtaClick(pagePath, 'github_star_footer')}
+                  className="font-inter text-sm text-white/60 transition-colors hover:text-white"
+                >
+                  GitHub
                 </a>
                 <span className="font-inter text-sm text-white/50">contact@tate-a-tate.com</span>
               </div>
