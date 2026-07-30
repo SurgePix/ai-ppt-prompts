@@ -4,9 +4,17 @@
 
 > Daha hızlı ve daha iyi sunum hazırlamak için yüksek kaliteli topluluktan düzenli olarak güncellenir.
 
+<a href="https://surgepix.ai/resources/tr/awesome-ppt-prompts">
+  <img src="public/images/hero.jpg" alt="PPT Prompt Kütüphanesi" width="100%" />
+</a>
+
 > ⚠️ Telif hakkı bildirimi: Promptlar, eğitim ve ilham amacıyla kaynak belirtilerek topluluktan (Reddit, X, GitHub) derlenmiştir. Herhangi bir içeriğin haklarınızı ihlal ettiğini düşünüyorsanız lütfen bir issue açın; hızlıca kaldıracağız.
 
 ---
+
+<a href="https://surgepix.ai/resources/tr/awesome-ppt-prompts">
+  <img src="public/images/gallery.jpg" alt="PPT Prompt Kütüphanesi" width="100%" />
+</a>
 
 **[👉 SurgePix AI PPT Prompt Kütüphanesine göz atın (Türkçe)](https://surgepix.ai/resources/tr/awesome-ppt-prompts)**
 

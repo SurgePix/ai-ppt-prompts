@@ -4,9 +4,17 @@
 
 > Regelmäßig aus hochwertigen Communities aktualisiert, damit Sie schneller direkt verwendbare PPT-Prompts erstellen können.
 
+<a href="https://surgepix.ai/resources/de/awesome-ppt-prompts">
+  <img src="public/images/hero.jpg" alt="PPT-Promptbibliothek" width="100%" />
+</a>
+
 > ⚠️ Urheberrechtshinweis: Die Prompts wurden aus der Community (Reddit, X, GitHub) zu Bildungs- und Inspirationszwecken mit Quellenangabe gesammelt. Wenn Sie glauben, dass Inhalte Ihre Rechte verletzen, eröffnen Sie bitte ein Issue — wir entfernen es umgehend.
 
 ---
+
+<a href="https://surgepix.ai/resources/de/awesome-ppt-prompts">
+  <img src="public/images/gallery.jpg" alt="PPT-Promptbibliothek" width="100%" />
+</a>
 
 **[👉 SurgePix AI PPT Prompt-Bibliothek durchsuchen (Deutsch)](https://surgepix.ai/resources/de/awesome-ppt-prompts)**
 
