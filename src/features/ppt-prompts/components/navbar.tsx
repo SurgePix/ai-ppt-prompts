@@ -14,6 +14,12 @@ interface NavbarProps {
   currentLocaleLabel?: string;
   onSwitchLocale?: (locale: string) => void;
   githubUrl?: string;
+  labels?: {
+    library?: string;
+    useCases?: string;
+    styles?: string;
+    star?: string;
+  };
 }
 
 export function Navbar({
@@ -22,7 +28,14 @@ export function Navbar({
   currentLocaleLabel,
   onSwitchLocale,
   githubUrl = 'https://github.com/SurgePix/ai-ppt-prompts',
+  labels = {},
 }: NavbarProps) {
+  const {
+    library = 'Library',
+    useCases = 'Use Cases',
+    styles = 'Styles',
+    star = 'Star',
+  } = labels;
   const [isLocaleMenuOpen, setIsLocaleMenuOpen] = useState(false);
   const localeMenuRef = useRef<HTMLDivElement | null>(null);
 
@@ -80,14 +93,14 @@ export function Navbar({
             onClick={() => navigateTo('library')}
             className="text-[10px] sm:text-xs uppercase font-medium tracking-[0.15em] sm:tracking-[0.2em] text-white/85 hover:text-white transition-colors"
           >
-            Library
+            {library}
           </button>
           <button
             type="button"
             onClick={() => navigateTo('useCases')}
             className="hidden sm:inline text-xs uppercase font-medium tracking-[0.2em] text-white/85 hover:text-white transition-colors"
           >
-            Use Cases
+            {useCases}
           </button>
           <LogoSVG />
           <button
@@ -95,7 +108,7 @@ export function Navbar({
             onClick={() => navigateTo('styles')}
             className="hidden sm:inline text-xs uppercase font-medium tracking-[0.2em] text-white/85 hover:text-white transition-colors"
           >
-            Styles
+            {styles}
           </button>
 
           {/* GitHub — open-source repo for this prompt library */}
@@ -110,7 +123,7 @@ export function Navbar({
           >
             <GithubSVG />
             <span className="hidden sm:inline text-xs uppercase font-medium tracking-[0.2em]">
-              Star
+              {star}
             </span>
           </a>
 

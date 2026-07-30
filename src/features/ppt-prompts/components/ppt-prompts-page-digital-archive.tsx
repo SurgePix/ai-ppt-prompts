@@ -87,13 +87,24 @@ export default function PptPromptsPageDigitalArchive({ data, pagePath = '/awesom
         currentLocale={preferredLocale}
         currentLocaleLabel={currentLocaleLabel}
         onSwitchLocale={(locale) => switchLocale(locale as PreferredPptPromptLocale)}
+        labels={{
+          library: data.copy?.navLibrary,
+          useCases: data.copy?.navUseCases,
+          styles: data.copy?.navStyles,
+          star: data.copy?.navStar,
+        }}
       />
       <Hero
         generateLabel={data.copy?.generateBtn ?? 'Generate PPT'}
         learnLabel={data.copy?.learnBtn ?? 'Learn More'}
         description={data.copy?.subtitle}
       />
-      <PptPromptsShowcase prompts={showcasePrompts} />
+      <PptPromptsShowcase
+        prompts={showcasePrompts}
+        copy={data.copy}
+        categoryLabels={data.categoryLabels}
+        styleLabels={data.styleLabels}
+      />
       <QAndA />
       <Footer
         copy={data.copy}

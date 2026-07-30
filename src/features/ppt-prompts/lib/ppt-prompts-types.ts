@@ -82,6 +82,13 @@ export type PptPromptsPageCopy = {
   generateBtn: string;
   searchButtonLabel: string;
   currentLocale: string;
+  navLibrary: string;
+  navUseCases: string;
+  navStyles: string;
+  navStar: string;
+  browseKicker: string;
+  browseTitle: string;
+  allFilter: string;
   allUseCases: string;
   allStyles: string;
   searchPlaceholder: string;

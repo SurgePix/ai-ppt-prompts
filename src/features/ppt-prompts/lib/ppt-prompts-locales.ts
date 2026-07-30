@@ -65,6 +65,13 @@ const baseCopy: PptPromptsPageCopy = {
   generateBtn: 'Try Surgepix',
   searchButtonLabel: 'Search',
   currentLocale: 'Current',
+  navLibrary: 'Library',
+  navUseCases: 'Use Cases',
+  navStyles: 'Styles',
+  navStar: 'Star',
+  browseKicker: 'Browse the PPT prompt library',
+  browseTitle: 'Explore AI PPT Prompts',
+  allFilter: 'All',
   allUseCases: 'All Use Cases',
   allStyles: 'All Styles',
   searchPlaceholder: 'Search prompts, authors, use cases or styles...',
@@ -242,6 +249,14 @@ const relatedResourceKeyMap = {
   surgepix: 'https://surgepix.ai/',
 } as const;
 
+/* normalizeCmsTranslation emits `undefined` for keys a locale hasn't translated
+   yet; spreading those straight over baseCopy would blank out the English
+   fallback instead of keeping it. */
+const omitUndefined = <T extends Record<string, unknown>>(source?: T): Partial<T> =>
+  Object.fromEntries(
+    Object.entries(source ?? {}).filter(([, value]) => value !== undefined),
+  ) as Partial<T>;
+
 const normalizeTemplatePlaceholders = (value?: string) =>
   value
     ?.replace(/25\+?(?=\s)/, '{count}')
@@ -292,6 +307,13 @@ const cmsTranslationSchema = z.object({
     rescue_step_3: z.string().optional(),
     search_label: z.string().optional(),
     currentLocale: z.string().optional(),
+    nav_library: z.string().optional(),
+    nav_use_cases: z.string().optional(),
+    nav_styles: z.string().optional(),
+    nav_star: z.string().optional(),
+    browse_kicker: z.string().optional(),
+    browse_title: z.string().optional(),
+    all_filter: z.string().optional(),
     search_placeholder: z.string().optional(),
     try_surgepix: z.string().optional(),
     ppt_writing_tips: z.string().optional(),
@@ -366,6 +388,13 @@ function normalizeCmsTranslation(raw: z.infer<typeof cmsTranslationSchema>): Ppt
       generateBtn: ui?.try_surgepix,
       searchButtonLabel: ui?.search_label,
       currentLocale: ui?.currentLocale,
+      navLibrary: ui?.nav_library,
+      navUseCases: ui?.nav_use_cases,
+      navStyles: ui?.nav_styles,
+      navStar: ui?.nav_star,
+      browseKicker: ui?.browse_kicker,
+      browseTitle: ui?.browse_title,
+      allFilter: ui?.all_filter,
       allUseCases: ui?.all_use_cases ?? ui?.all_types,
       allStyles: ui?.all_styles ?? ui?.all_models,
       searchPlaceholder: ui?.search_placeholder,
@@ -454,7 +483,7 @@ export async function getPptPromptsPageData(locale: PptPromptPageLocale): Promis
     locale,
     copy: {
       ...baseCopy,
-      ...translation.ui,
+      ...omitUndefined(translation.ui),
     },
     categoryLabels: {
       ...baseCategoryLabels,

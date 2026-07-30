@@ -3,6 +3,7 @@
 import { useState, useMemo, useRef, useEffect, ReactNode } from 'react';
 import { Search, X } from 'lucide-react';
 import { useScrollReveal } from '@/hooks/use-scroll-reveal';
+import type { PptPromptsPageCopy } from '@/features/ppt-prompts/lib/ppt-prompts-types';
 
 interface PromptCard {
   id: string | number;
@@ -20,6 +21,11 @@ interface PromptCard {
 interface PptPromptsShowcaseProps {
   prompts: PromptCard[];
   children?: ReactNode;
+  /* Localised UI strings and taxonomy labels. Filtering still keys off the raw
+     English taxonomy values; these only control what gets rendered. */
+  copy?: Partial<PptPromptsPageCopy>;
+  categoryLabels?: Record<string, string>;
+  styleLabels?: Record<string, string>;
 }
 
 const escapeSvgText = (value: string) =>
@@ -75,7 +81,20 @@ function PptPreviewImage({ source, alt }: { source: string; alt: string }) {
   );
 }
 
-export function PptPromptsShowcase({ prompts }: PptPromptsShowcaseProps) {
+export function PptPromptsShowcase({
+  prompts,
+  copy = {},
+  categoryLabels = {},
+  styleLabels = {},
+}: PptPromptsShowcaseProps) {
+  const ALL = 'All';
+  /* Taxonomy values stay English internally so filtering keeps working; only
+     the rendered label is localised. 'All' is a UI string, not a taxonomy value. */
+  const labelForCategory = (value: string) =>
+    value === ALL ? (copy.allFilter ?? ALL) : (categoryLabels[value] ?? value);
+  const labelForStyle = (value: string) =>
+    value === ALL ? (copy.allFilter ?? ALL) : (styleLabels[value] ?? value);
+
   const containerRef = useScrollReveal();
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedCategory, setSelectedCategory] = useState('All');
@@ -164,9 +183,9 @@ export function PptPromptsShowcase({ prompts }: PptPromptsShowcaseProps) {
           <div className="mx-auto max-w-7xl">
             {/* Section Label */}
             <div id="library" className="reveal text-center mb-10 scroll-mt-28">
-              <p className="font-inter text-[11px] uppercase tracking-[0.4em] text-white/50 mb-3">Browse the PPT prompt library</p>
+              <p className="font-inter text-[11px] uppercase tracking-[0.4em] text-white/50 mb-3">{copy.browseKicker ?? 'Browse the PPT prompt library'}</p>
               <h2 className="font-arsenica text-3xl sm:text-4xl md:text-5xl tracking-wide text-white drop-shadow-[0_2px_20px_rgba(0,0,0,0.3)]">
-                Explore AI PPT Prompts
+                {copy.browseTitle ?? 'Explore AI PPT Prompts'}
               </h2>
             </div>
 
@@ -178,7 +197,7 @@ export function PptPromptsShowcase({ prompts }: PptPromptsShowcaseProps) {
                   <Search className="absolute left-4 top-1/2 -translate-y-1/2 text-white/40" size={16} />
                   <input
                     type="text"
-                    placeholder="Search prompts..."
+                    placeholder={copy.searchPlaceholder ?? 'Search prompts...'}
                     value={searchQuery}
                     onChange={(e) => setSearchQuery(e.target.value)}
                     className="w-full rounded-[50%] border border-white/30 bg-white/10 py-3 pl-10 pr-4 text-white placeholder:text-white/40 backdrop-blur-sm transition-all hover:border-white/50 focus:border-white/70 focus:outline-none"
@@ -192,7 +211,7 @@ export function PptPromptsShowcase({ prompts }: PptPromptsShowcaseProps) {
                   onClick={() => setShowCategories(!showCategories)}
                   className="text-xs sm:text-sm uppercase tracking-wide text-white/70 hover:text-white transition-colors flex items-center gap-2"
                 >
-                  <span>Use Cases</span>
+                  <span>{copy.navUseCases ?? 'Use Cases'}</span>
                   <svg
                     className={`w-4 h-4 transition-transform ${showCategories ? 'rotate-180' : ''}`}
                     fill="none"
@@ -217,7 +236,7 @@ export function PptPromptsShowcase({ prompts }: PptPromptsShowcaseProps) {
                           : 'border border-white/20 bg-transparent text-white/60 hover:text-white/80 hover:border-white/40'
                       }`}
                     >
-                      {cat}
+                      {labelForCategory(cat)}
                     </button>
                   ))}
                 </div>
@@ -229,7 +248,7 @@ export function PptPromptsShowcase({ prompts }: PptPromptsShowcaseProps) {
                   onClick={() => setShowStyles(!showStyles)}
                   className="text-xs sm:text-sm uppercase tracking-wide text-white/70 hover:text-white transition-colors flex items-center gap-2"
                 >
-                  <span>Styles</span>
+                  <span>{copy.navStyles ?? 'Styles'}</span>
                   <svg
                     className={`w-4 h-4 transition-transform ${showStyles ? 'rotate-180' : ''}`}
                     fill="none"
@@ -254,7 +273,7 @@ export function PptPromptsShowcase({ prompts }: PptPromptsShowcaseProps) {
                           : 'border border-white/20 bg-transparent text-white/60 hover:text-white/80 hover:border-white/40'
                       }`}
                     >
-                      {style}
+                      {labelForStyle(style)}
                     </button>
                   ))}
                 </div>
@@ -263,7 +282,9 @@ export function PptPromptsShowcase({ prompts }: PptPromptsShowcaseProps) {
 
             {/* Results Count */}
             <p className="reveal text-center text-white/60 text-sm mb-8" style={{ animationDelay: '0.15s' }}>
-              Showing {filteredPrompts.length} of {prompts.length} prompts
+              {(copy.resultCountTemplate ?? 'Showing {shown} of {total} prompts')
+                .replace('{shown}', String(filteredPrompts.length))
+                .replace('{total}', String(prompts.length))}
             </p>
 
             {/* Prompts Grid */}
@@ -298,12 +319,12 @@ export function PptPromptsShowcase({ prompts }: PptPromptsShowcaseProps) {
                         <div className="mb-5 flex flex-wrap gap-2">
                           {promptCats.slice(0, 1).map((cat, idx) => (
                             <span key={`cat-${idx}`} className="rounded-full border border-white/10 bg-white/[0.06] px-3 py-1 text-[10px] font-inter uppercase tracking-[0.12em] text-white/60">
-                              {cat}
+                              {labelForCategory(cat)}
                             </span>
                           ))}
                           {promptStyles.slice(0, 1).map((s, idx) => (
                             <span key={`style-${idx}`} className="rounded-full border border-white/10 bg-white/[0.06] px-3 py-1 text-[10px] font-inter uppercase tracking-[0.12em] text-white/60">
-                              {s}
+                              {labelForStyle(s)}
                             </span>
                           ))}
                         </div>
@@ -311,7 +332,7 @@ export function PptPromptsShowcase({ prompts }: PptPromptsShowcaseProps) {
                           onClick={() => copyToClipboard(prompt.prompt, prompt.id)}
                           className="mt-auto w-full rounded-full border border-white/20 bg-white/10 px-4 py-2.5 text-[11px] font-inter uppercase tracking-[0.2em] text-white/90 transition-all hover:border-white/40 hover:bg-white/20 active:scale-[0.98]"
                         >
-                          {copiedId === prompt.id ? 'Copied!' : 'Copy Prompt'}
+                          {copiedId === prompt.id ? (copy.copied ?? 'Copied!') : (copy.copy ?? 'Copy Prompt')}
                         </button>
                       </div>
                     </div>
