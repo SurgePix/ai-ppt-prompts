@@ -5,7 +5,7 @@
 > 从高质量用户社群中持续更新，帮助你更快写出能直接使用的 PPT 提示词。
 
 <a href="https://surgepix.ai/resources/zh/awesome-ppt-prompts">
-  <img src="public/images/hero.jpg" alt="PPT 提示词库" width="100%" />
+  <img src="public/images/hero-zh.jpg" alt="PPT 提示词库" width="100%" />
 </a>
 
 > ⚠️ 版权声明：提示词收集自社区（Reddit、X、GitHub），仅用于学习与灵感参考，均标注来源。如认为任何内容侵权，请提交 issue，我们会及时处理。
