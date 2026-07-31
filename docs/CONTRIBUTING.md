@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for wanting to add a prompt or improve the gallery!
+Thanks for wanting to add a prompt or improve the library.
 
 ## Submit a prompt
 
@@ -9,13 +9,13 @@ Thanks for wanting to add a prompt or improve the gallery!
 [Open a new issue](https://github.com/SurgePix/ai-ppt-prompts/issues/new) with:
 
 - The prompt text
-- A generated slide/preview image (if you have one)
-- Source link and author/handle, if it isn't your own
+- A generated slide image, if you have one
+- Where it came from — a **direct link to the original post**, plus the author's handle. If it's your own, say so.
 - Suggested use case (e.g. `Business Pitch`, `Marketing`, `Education`) and style (e.g. `Minimal`, `Dark`, `Corporate`)
 
-**Option B — Open a PR**
+**Option B — Open a pull request**
 
-Add an entry to [`src/data/ppt-prompts-registry.json`](../src/data/ppt-prompts-registry.json):
+Add an entry to [`data/ppt-prompts-registry.json`](../data/ppt-prompts-registry.json):
 
 ```json
 {
@@ -23,7 +23,7 @@ Add an entry to [`src/data/ppt-prompts-registry.json`](../src/data/ppt-prompts-r
   "title": "Your Prompt Title",
   "prompt": "The full prompt text...",
   "author": "your-handle",
-  "sourceUrl": "https://...",
+  "sourceUrl": "https://link-to-the-exact-post-or-file",
   "sourcePlatform": "github",
   "category": "Business Pitch",
   "style": "Minimal",
@@ -34,13 +34,42 @@ Add an entry to [`src/data/ppt-prompts-registry.json`](../src/data/ppt-prompts-r
 }
 ```
 
-Valid use cases and styles are defined in [`src/features/ppt-prompts/lib/ppt-prompts-types.ts`](../src/features/ppt-prompts/lib/ppt-prompts-types.ts) (`PRESENTATION_USE_CASES`, `PRESENTATION_STYLES`). `category`/`style` must be the first entry of `useCases`/`styles`, and `tags` must mirror them as `use_case:*`/`style:*` — this is enforced by a schema check in `ppt-prompts-locales.ts` at build time.
+Then regenerate the READMEs:
 
-## Code changes
+```bash
+npm run generate
+```
 
-- Run `npm run check` (TypeScript) and `npm run build` before opening a PR.
-- Keep changes scoped to what you're fixing/adding — see the project layout in the main [README](../README.md#-whats-in-this-repo).
+### Rules for `sourceUrl`
+
+Link to the **exact** post, file, or directory the prompt came from — not a site
+homepage, not a subreddit root. `https://x.com/` or `https://reddit.com/r/foo/`
+is not a citation and will be rejected. If you can't produce a verifiable link,
+say so in the PR and leave the field out; an entry with no claimed source is far
+better than one with a wrong one.
+
+Some existing entries in `data/ppt-prompts.json` are marked
+`"provenance": "unverified"` for exactly this reason.
+
+### Taxonomy
+
+Valid use cases and styles are whatever already appears across `data/`.
+`category`/`style` must match the first entry of `useCases`/`styles`, and `tags`
+must mirror them as `use_case:*` / `style:*`.
+
+## Repository layout
+
+| Path | What it is |
+|---|---|
+| `data/*.json` | The prompt library |
+| `data/locales/*.json` | UI strings and per-prompt translations for 12 languages |
+| `data/licenses/` | Upstream licences that must travel with the content |
+| `scripts/generate-readme.mjs` | Regenerates all 13 READMEs from `data/` |
+| `public/images/` | Screenshots used in the READMEs |
+
+READMEs are generated — edit `data/` or the script, never the READMEs directly.
 
 ## Reporting an issue
 
-Use [GitHub Issues](https://github.com/SurgePix/ai-ppt-prompts/issues) for bugs, broken previews, or content you believe shouldn't be here.
+Use [GitHub Issues](https://github.com/SurgePix/ai-ppt-prompts/issues) for broken
+previews, wrong attribution, or content you believe shouldn't be here.
