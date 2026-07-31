@@ -5,7 +5,7 @@
 > อัปเดตเป็นประจำจากชุมชนคุณภาพสูงเพื่อสร้างสไลด์นำเสนอได้เร็วและดียิ่งขึ้น
 
 <a href="https://surgepix.ai/resources/th/awesome-ppt-prompts">
-  <img src="public/images/hero.jpg" alt="คลังพรอมต์ PPT" width="100%" />
+  <img src="public/images/hero-th.jpg" alt="คลังพรอมต์ PPT" width="100%" />
 </a>
 
 > ⚠️ ประกาศลิขสิทธิ์: พรอมต์ทั้งหมดรวบรวมจากชุมชน (Reddit, X, GitHub) เพื่อการศึกษาและอ้างอิง พร้อมระบุแหล่งที่มา หากคุณเชื่อว่ามีเนื้อหาใดละเมิดสิทธิ์ โปรดเปิด issue เราจะดำเนินการโดยเร็ว
@@ -13,7 +13,7 @@
 ---
 
 <a href="https://surgepix.ai/resources/th/awesome-ppt-prompts">
-  <img src="public/images/gallery.jpg" alt="คลังพรอมต์ PPT" width="100%" />
+  <img src="public/images/gallery-th.jpg" alt="คลังพรอมต์ PPT" width="100%" />
 </a>
 
 **[👉 เรียกดูคลังพรอมต์ AI PPT ของ SurgePix (ภาษาไทย)](https://surgepix.ai/resources/th/awesome-ppt-prompts)**

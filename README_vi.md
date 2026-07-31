@@ -5,7 +5,7 @@
 > Được cập nhật thường xuyên từ các cộng đồng chất lượng cao để soạn thảo thuyết trình nhanh hơn, tốt hơn.
 
 <a href="https://surgepix.ai/resources/vi/awesome-ppt-prompts">
-  <img src="public/images/hero.jpg" alt="Thư Viện Prompt PPT" width="100%" />
+  <img src="public/images/hero-vi.jpg" alt="Thư Viện Prompt PPT" width="100%" />
 </a>
 
 > ⚠️ Thông báo bản quyền: Các prompt được thu thập từ cộng đồng (Reddit, X, GitHub) cho mục đích giáo dục và tham khảo, có ghi rõ nguồn. Nếu bạn cho rằng nội dung nào vi phạm quyền của mình, vui lòng mở issue, chúng tôi sẽ xử lý kịp thời.
@@ -13,7 +13,7 @@
 ---
 
 <a href="https://surgepix.ai/resources/vi/awesome-ppt-prompts">
-  <img src="public/images/gallery.jpg" alt="Thư Viện Prompt PPT" width="100%" />
+  <img src="public/images/gallery-vi.jpg" alt="Thư Viện Prompt PPT" width="100%" />
 </a>
 
 **[👉 Duyệt Thư viện Prompt AI PPT của SurgePix (Tiếng Việt)](https://surgepix.ai/resources/vi/awesome-ppt-prompts)**

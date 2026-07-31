@@ -13,7 +13,7 @@
 ---
 
 <a href="https://surgepix.ai/resources/zh/awesome-ppt-prompts">
-  <img src="public/images/gallery.jpg" alt="PPT 提示词库" width="100%" />
+  <img src="public/images/gallery-zh.jpg" alt="PPT 提示词库" width="100%" />
 </a>
 
 **[👉 在 SurgePix AI PPT 提示词库中浏览（中文版）](https://surgepix.ai/resources/zh/awesome-ppt-prompts)**

@@ -5,7 +5,7 @@
 > 고품질 커뮤니티에서 정기적으로 업데이트되어 바로 사용할 수 있는 PPT 프롬프트를 더 빠르게 작성할 수 있습니다.
 
 <a href="https://surgepix.ai/resources/ko/awesome-ppt-prompts">
-  <img src="public/images/hero.jpg" alt="PPT 프롬프트 라이브러리" width="100%" />
+  <img src="public/images/hero-ko.jpg" alt="PPT 프롬프트 라이브러리" width="100%" />
 </a>
 
 > ⚠️ 저작권 안내: 프롬프트는 커뮤니티(Reddit, X, GitHub)에서 출처를 명시하여 수집했으며, 학습 및 참고 목적입니다. 권리 침해라고 판단되면 issue를 열어주세요. 신속히 조치하겠습니다.
@@ -13,7 +13,7 @@
 ---
 
 <a href="https://surgepix.ai/resources/ko/awesome-ppt-prompts">
-  <img src="public/images/gallery.jpg" alt="PPT 프롬프트 라이브러리" width="100%" />
+  <img src="public/images/gallery-ko.jpg" alt="PPT 프롬프트 라이브러리" width="100%" />
 </a>
 
 **[👉 SurgePix AI PPT 프롬프트 라이브러리 보기 (한국어판)](https://surgepix.ai/resources/ko/awesome-ppt-prompts)**

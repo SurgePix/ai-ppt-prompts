@@ -5,7 +5,7 @@
 > Diperbarui rutin dari komunitas berkualitas tinggi untuk membuat presentasi lebih cepat dan lebih baik.
 
 <a href="https://surgepix.ai/resources/id/awesome-ppt-prompts">
-  <img src="public/images/hero.jpg" alt="Koleksi Prompt PPT" width="100%" />
+  <img src="public/images/hero-id.jpg" alt="Koleksi Prompt PPT" width="100%" />
 </a>
 
 > ⚠️ Pemberitahuan hak cipta: Prompt dikumpulkan dari komunitas (Reddit, X, GitHub) untuk tujuan edukasi dan referensi, dengan atribusi sumber. Jika Anda merasa ada konten yang melanggar hak Anda, silakan buka issue dan kami akan segera menghapusnya.
@@ -13,7 +13,7 @@
 ---
 
 <a href="https://surgepix.ai/resources/id/awesome-ppt-prompts">
-  <img src="public/images/gallery.jpg" alt="Koleksi Prompt PPT" width="100%" />
+  <img src="public/images/gallery-id.jpg" alt="Koleksi Prompt PPT" width="100%" />
 </a>
 
 **[👉 Jelajahi Perpustakaan Prompt AI PPT SurgePix (Bahasa Indonesia)](https://surgepix.ai/resources/id/awesome-ppt-prompts)**

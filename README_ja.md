@@ -5,7 +5,7 @@
 > 高品質コミュニティから定期的に更新され、すぐに使えるPPTプロンプトをより早く作成できます。
 
 <a href="https://surgepix.ai/resources/ja/awesome-ppt-prompts">
-  <img src="public/images/hero.jpg" alt="PPT プロンプトライブラリ" width="100%" />
+  <img src="public/images/hero-ja.jpg" alt="PPT プロンプトライブラリ" width="100%" />
 </a>
 
 > ⚠️ 著作権について：プロンプトはコミュニティ（Reddit、X、GitHub）から出典を明記して収集したもので、学習・参考目的です。権利侵害があるとお考えの場合は issue を開いてください。速やかに対応します。
@@ -13,7 +13,7 @@
 ---
 
 <a href="https://surgepix.ai/resources/ja/awesome-ppt-prompts">
-  <img src="public/images/gallery.jpg" alt="PPT プロンプトライブラリ" width="100%" />
+  <img src="public/images/gallery-ja.jpg" alt="PPT プロンプトライブラリ" width="100%" />
 </a>
 
 **[👉 SurgePix AI PPT プロンプトライブラリを見る（日本語版）](https://surgepix.ai/resources/ja/awesome-ppt-prompts)**
