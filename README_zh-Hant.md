@@ -5,7 +5,7 @@
 > 從高品質用戶社群中持續更新，幫助你更快寫出能直接使用的 PPT 提示詞。
 
 <a href="https://surgepix.ai/resources/zh-Hant/awesome-ppt-prompts">
-  <img src="public/images/hero.jpg" alt="PPT 提示詞庫" width="100%" />
+  <img src="public/images/hero-zh.jpg" alt="PPT 提示詞庫" width="100%" />
 </a>
 
 > ⚠️ 版權聲明：提示詞收集自社群（Reddit、X、GitHub），僅用於學習與靈感參考，均標註來源。如認為任何內容侵權，請提交 issue，我們會及時處理。
@@ -13,7 +13,7 @@
 ---
 
 <a href="https://surgepix.ai/resources/zh-Hant/awesome-ppt-prompts">
-  <img src="public/images/gallery.jpg" alt="PPT 提示詞庫" width="100%" />
+  <img src="public/images/gallery-zh.jpg" alt="PPT 提示詞庫" width="100%" />
 </a>
 
 **[👉 在 SurgePix AI PPT 提示詞庫中瀏覽（繁體中文版）](https://surgepix.ai/resources/zh-Hant/awesome-ppt-prompts)**
