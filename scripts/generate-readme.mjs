@@ -191,8 +191,11 @@ const translations = Object.fromEntries(
   LOCALES.filter((l) => l.code !== 'en').map((l) => [l.code, readJson(`data/locales/${l.code}.json`)]),
 );
 
-const galleryUrl = (code) =>
-  code === 'en' ? GALLERY : `https://surgepix.ai/resources/${code}/awesome-ppt-prompts`;
+const GITHUB_UTM = 'utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=ppt_readme';
+const galleryUrl = (code) => {
+  const base = code === 'en' ? GALLERY : `https://surgepix.ai/resources/${code}/awesome-ppt-prompts`;
+  return base + (base.includes('?') ? '&' : '?') + GITHUB_UTM;
+};
 
 const asset = (kind, code) => {
   const localized = `public/images/${kind}-${code}.jpg`;

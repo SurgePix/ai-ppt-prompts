@@ -4,7 +4,7 @@
 
 > Kuratierte Sammlung von KI-Prompts für PowerPoint-Folien und Präsentationen —— jeder Eintrag mit echter Folienvorschau, Filtern nach Anwendungsfall und Stil sowie kopierfertigem Text.
 
-<a href="https://surgepix.ai/resources/de/awesome-ppt-prompts">
+<a href="https://surgepix.ai/resources/de/awesome-ppt-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=ppt_readme">
   <img src="public/images/hero-de.jpg" alt="AI PPT Prompt Library" width="100%" />
 </a>
 
@@ -16,11 +16,11 @@
 
 Alle Prompts durchsuchen, nach Anwendungsfall und Stil filtern und mit einem Klick kopieren:
 
-<a href="https://surgepix.ai/resources/de/awesome-ppt-prompts">
+<a href="https://surgepix.ai/resources/de/awesome-ppt-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=ppt_readme">
   <img src="public/images/gallery-de.jpg" alt="AI PPT Prompt Library gallery" width="100%" />
 </a>
 
-**[👉 Zur Online-Galerie →](https://surgepix.ai/resources/de/awesome-ppt-prompts)**
+**[👉 Zur Online-Galerie →](https://surgepix.ai/resources/de/awesome-ppt-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=ppt_readme)**
 
 ---
 

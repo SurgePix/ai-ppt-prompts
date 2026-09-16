@@ -4,7 +4,7 @@
 
 > คลังพรอมต์ AI คัดสรรสำหรับสร้างสไลด์ PowerPoint และงานนำเสนอ —— แต่ละรายการมีตัวอย่างสไลด์จริง ตัวกรองตามการใช้งานและสไตล์ พร้อมข้อความที่คัดลอกไปใช้ได้ทันที
 
-<a href="https://surgepix.ai/resources/th/awesome-ppt-prompts">
+<a href="https://surgepix.ai/resources/th/awesome-ppt-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=ppt_readme">
   <img src="public/images/hero-th.jpg" alt="AI PPT Prompt Library" width="100%" />
 </a>
 
@@ -16,11 +16,11 @@
 
 ค้นหาทั้งคลัง กรองตามการใช้งานและสไตล์ และคัดลอกได้ในคลิกเดียว:
 
-<a href="https://surgepix.ai/resources/th/awesome-ppt-prompts">
+<a href="https://surgepix.ai/resources/th/awesome-ppt-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=ppt_readme">
   <img src="public/images/gallery-th.jpg" alt="AI PPT Prompt Library gallery" width="100%" />
 </a>
 
-**[👉 เปิดคลังออนไลน์ →](https://surgepix.ai/resources/th/awesome-ppt-prompts)**
+**[👉 เปิดคลังออนไลน์ →](https://surgepix.ai/resources/th/awesome-ppt-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=ppt_readme)**
 
 ---
 
