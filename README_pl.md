@@ -4,7 +4,7 @@
 
 > Wyselekcjonowany zbiór promptów AI do tworzenia slajdów PowerPoint i prezentacji —— każdy wpis z prawdziwym podglądem slajdu, filtrami według zastosowania i stylu oraz gotowym do skopiowania tekstem.
 
-<a href="https://surgepix.ai/resources/pl/awesome-ppt-prompts">
+<a href="https://surgepix.ai/resources/pl/awesome-ppt-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=ppt_readme">
   <img src="public/images/hero-pl.jpg" alt="AI PPT Prompt Library" width="100%" />
 </a>
 
@@ -16,11 +16,11 @@
 
 Przeszukaj całą bibliotekę, filtruj według zastosowania i stylu wizualnego, kopiuj jednym kliknięciem:
 
-<a href="https://surgepix.ai/resources/pl/awesome-ppt-prompts">
+<a href="https://surgepix.ai/resources/pl/awesome-ppt-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=ppt_readme">
   <img src="public/images/gallery-pl.jpg" alt="AI PPT Prompt Library gallery" width="100%" />
 </a>
 
-**[👉 Otwórz galerię online →](https://surgepix.ai/resources/pl/awesome-ppt-prompts)**
+**[👉 Otwórz galerię online →](https://surgepix.ai/resources/pl/awesome-ppt-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=ppt_readme)**
 
 ---
 

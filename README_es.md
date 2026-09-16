@@ -4,7 +4,7 @@
 
 > Colección seleccionada de prompts de IA para generar diapositivas de PowerPoint y presentaciones —— cada entrada con una vista previa real, filtros por caso de uso y estilo, y texto listo para copiar.
 
-<a href="https://surgepix.ai/resources/es/awesome-ppt-prompts">
+<a href="https://surgepix.ai/resources/es/awesome-ppt-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=ppt_readme">
   <img src="public/images/hero-es.jpg" alt="AI PPT Prompt Library" width="100%" />
 </a>
 
@@ -16,11 +16,11 @@
 
 Busca en toda la biblioteca, filtra por caso de uso y estilo visual, y copia con un solo clic:
 
-<a href="https://surgepix.ai/resources/es/awesome-ppt-prompts">
+<a href="https://surgepix.ai/resources/es/awesome-ppt-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=ppt_readme">
   <img src="public/images/gallery-es.jpg" alt="AI PPT Prompt Library gallery" width="100%" />
 </a>
 
-**[👉 Abrir la galería en línea →](https://surgepix.ai/resources/es/awesome-ppt-prompts)**
+**[👉 Abrir la galería en línea →](https://surgepix.ai/resources/es/awesome-ppt-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=ppt_readme)**
 
 ---
 

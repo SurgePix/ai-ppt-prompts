@@ -4,7 +4,7 @@
 
 > Koleksi prompt AI terkurasi untuk membuat slide PowerPoint dan presentasi —— setiap entri disertai pratinjau slide asli, filter kasus penggunaan dan gaya, serta teks siap salin.
 
-<a href="https://surgepix.ai/resources/id/awesome-ppt-prompts">
+<a href="https://surgepix.ai/resources/id/awesome-ppt-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=ppt_readme">
   <img src="public/images/hero-id.jpg" alt="AI PPT Prompt Library" width="100%" />
 </a>
 
@@ -16,11 +16,11 @@
 
 Cari seluruh koleksi, filter berdasarkan kasus penggunaan dan gaya visual, salin dengan satu klik:
 
-<a href="https://surgepix.ai/resources/id/awesome-ppt-prompts">
+<a href="https://surgepix.ai/resources/id/awesome-ppt-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=ppt_readme">
   <img src="public/images/gallery-id.jpg" alt="AI PPT Prompt Library gallery" width="100%" />
 </a>
 
-**[👉 Buka galeri online →](https://surgepix.ai/resources/id/awesome-ppt-prompts)**
+**[👉 Buka galeri online →](https://surgepix.ai/resources/id/awesome-ppt-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=ppt_readme)**
 
 ---
 

@@ -4,7 +4,7 @@
 
 > PowerPoint・プレゼン資料を生成するための厳選 AI プロンプト集 —— 各プロンプトに実際のスライドプレビュー、用途・スタイル絞り込み、コピーしてすぐ使えるテキストが付属。
 
-<a href="https://surgepix.ai/resources/ja/awesome-ppt-prompts">
+<a href="https://surgepix.ai/resources/ja/awesome-ppt-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=ppt_readme">
   <img src="public/images/hero-ja.jpg" alt="AI PPT Prompt Library" width="100%" />
 </a>
 
@@ -16,11 +16,11 @@
 
 全プロンプトを検索し、ユースケースとスタイルで絞り込み、ワンクリックでコピー：
 
-<a href="https://surgepix.ai/resources/ja/awesome-ppt-prompts">
+<a href="https://surgepix.ai/resources/ja/awesome-ppt-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=ppt_readme">
   <img src="public/images/gallery-ja.jpg" alt="AI PPT Prompt Library gallery" width="100%" />
 </a>
 
-**[👉 ギャラリーを開く →](https://surgepix.ai/resources/ja/awesome-ppt-prompts)**
+**[👉 ギャラリーを開く →](https://surgepix.ai/resources/ja/awesome-ppt-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=ppt_readme)**
 
 ---
 
