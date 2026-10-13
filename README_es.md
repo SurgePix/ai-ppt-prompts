@@ -4,7 +4,7 @@
 
 > Colección seleccionada de prompts de IA para generar diapositivas de PowerPoint y presentaciones —— cada entrada con una vista previa real, filtros por caso de uso y estilo, y texto listo para copiar.
 
-<a href="https://surgepix.ai/resources/es/awesome-ppt-prompts">
+<a href="https://surgepix.ai/resources/es/awesome-ppt-prompts?utm_source=github&utm_medium=readme&utm_campaign=ppt_prompts">
   <img src="public/images/hero-es.jpg" alt="AI PPT Prompt Library" width="100%" />
 </a>
 
@@ -16,11 +16,11 @@
 
 Busca en toda la biblioteca, filtra por caso de uso y estilo visual, y copia con un solo clic:
 
-<a href="https://surgepix.ai/resources/es/awesome-ppt-prompts">
+<a href="https://surgepix.ai/resources/es/awesome-ppt-prompts?utm_source=github&utm_medium=readme&utm_campaign=ppt_prompts">
   <img src="public/images/gallery-es.jpg" alt="AI PPT Prompt Library gallery" width="100%" />
 </a>
 
-**[👉 Abrir la galería en línea →](https://surgepix.ai/resources/es/awesome-ppt-prompts)**
+**[👉 Abrir la galería en línea →](https://surgepix.ai/resources/es/awesome-ppt-prompts?utm_source=github&utm_medium=readme&utm_campaign=ppt_prompts)**
 
 ---
 
@@ -1819,7 +1819,7 @@ Use this theme for my slides. Ask me what the presentation is about first, then 
 
 - [SlideSpeak/presentation-design-prompts](https://github.com/SlideSpeak/presentation-design-prompts) (MIT)
 - [AAAAAAAJ/slides](https://github.com/AAAAAAAJ/slides) (MIT)
-- [SurgePix](https://surgepix.ai) — AI tools for creating and editing visuals
+- [SurgePix](https://surgepix.ai?utm_source=github&utm_medium=readme&utm_campaign=ppt_prompts) — AI tools for creating and editing visuals
 
 ## ⭐ Historial de stars
 

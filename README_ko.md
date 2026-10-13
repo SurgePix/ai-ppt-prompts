@@ -4,7 +4,7 @@
 
 > PowerPoint 및 프레젠테이션 생성을 위한 엄선된 AI 프롬프트 모음 —— 각 항목에 실제 슬라이드 미리보기, 활용 사례·스타일 필터, 바로 복사할 수 있는 텍스트가 포함되어 있습니다.
 
-<a href="https://surgepix.ai/resources/ko/awesome-ppt-prompts">
+<a href="https://surgepix.ai/resources/ko/awesome-ppt-prompts?utm_source=github&utm_medium=readme&utm_campaign=ppt_prompts">
   <img src="public/images/hero-ko.jpg" alt="AI PPT Prompt Library" width="100%" />
 </a>
 
@@ -16,11 +16,11 @@
 
 전체 프롬프트 검색, 활용 사례·스타일 필터링, 원클릭 복사:
 
-<a href="https://surgepix.ai/resources/ko/awesome-ppt-prompts">
+<a href="https://surgepix.ai/resources/ko/awesome-ppt-prompts?utm_source=github&utm_medium=readme&utm_campaign=ppt_prompts">
   <img src="public/images/gallery-ko.jpg" alt="AI PPT Prompt Library gallery" width="100%" />
 </a>
 
-**[👉 갤러리 열기 →](https://surgepix.ai/resources/ko/awesome-ppt-prompts)**
+**[👉 갤러리 열기 →](https://surgepix.ai/resources/ko/awesome-ppt-prompts?utm_source=github&utm_medium=readme&utm_campaign=ppt_prompts)**
 
 ---
 
@@ -1819,7 +1819,7 @@ Use this theme for my slides. Ask me what the presentation is about first, then 
 
 - [SlideSpeak/presentation-design-prompts](https://github.com/SlideSpeak/presentation-design-prompts) (MIT)
 - [AAAAAAAJ/slides](https://github.com/AAAAAAAJ/slides) (MIT)
-- [SurgePix](https://surgepix.ai) — AI tools for creating and editing visuals
+- [SurgePix](https://surgepix.ai?utm_source=github&utm_medium=readme&utm_campaign=ppt_prompts) — AI tools for creating and editing visuals
 
 ## ⭐ Star 추이
 
