@@ -4,7 +4,7 @@
 
 > Collection sélectionnée de prompts IA pour créer des diapositives PowerPoint et des présentations —— chaque entrée avec un aperçu de diapositive réel, des filtres par cas d’usage et style, et un texte prêt à copier.
 
-<a href="https://surgepix.ai/resources/fr/awesome-ppt-prompts">
+<a href="https://surgepix.ai/resources/fr/awesome-ppt-prompts?utm_source=github&utm_medium=readme&utm_campaign=ppt_prompts">
   <img src="public/images/hero-fr.jpg" alt="AI PPT Prompt Library" width="100%" />
 </a>
 
@@ -16,11 +16,11 @@
 
 Rechercher dans toute la bibliothèque, filtrer par cas d’usage et style visuel, copier en un clic :
 
-<a href="https://surgepix.ai/resources/fr/awesome-ppt-prompts">
+<a href="https://surgepix.ai/resources/fr/awesome-ppt-prompts?utm_source=github&utm_medium=readme&utm_campaign=ppt_prompts">
   <img src="public/images/gallery-fr.jpg" alt="AI PPT Prompt Library gallery" width="100%" />
 </a>
 
-**[👉 Ouvrir la galerie en ligne →](https://surgepix.ai/resources/fr/awesome-ppt-prompts)**
+**[👉 Ouvrir la galerie en ligne →](https://surgepix.ai/resources/fr/awesome-ppt-prompts?utm_source=github&utm_medium=readme&utm_campaign=ppt_prompts)**
 
 ---
 
@@ -1819,7 +1819,7 @@ Vous avez un bon prompt PPT IA ? Voir [docs/CONTRIBUTING.md](docs/CONTRIBUTING.m
 
 - [SlideSpeak/presentation-design-prompts](https://github.com/SlideSpeak/presentation-design-prompts) (MIT)
 - [AAAAAAAJ/slides](https://github.com/AAAAAAAJ/slides) (MIT)
-- [SurgePix](https://surgepix.ai) — AI tools for creating and editing visuals
+- [SurgePix](https://surgepix.ai?utm_source=github&utm_medium=readme&utm_campaign=ppt_prompts) — AI tools for creating and editing visuals
 
 ## ⭐ Historique des stars
 

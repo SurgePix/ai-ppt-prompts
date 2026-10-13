@@ -4,7 +4,7 @@
 
 > Bộ sưu tập prompt AI được tuyển chọn để tạo slide PowerPoint và bài thuyết trình —— mỗi mục đều có ảnh xem trước slide thật, bộ lọc theo mục đích và phong cách, cùng văn bản sao chép là dùng được ngay.
 
-<a href="https://surgepix.ai/resources/vi/awesome-ppt-prompts">
+<a href="https://surgepix.ai/resources/vi/awesome-ppt-prompts?utm_source=github&utm_medium=readme&utm_campaign=ppt_prompts">
   <img src="public/images/hero-vi.jpg" alt="AI PPT Prompt Library" width="100%" />
 </a>
 
@@ -16,11 +16,11 @@
 
 Tìm kiếm toàn bộ, lọc theo mục đích và phong cách, sao chép chỉ với một cú nhấp:
 
-<a href="https://surgepix.ai/resources/vi/awesome-ppt-prompts">
+<a href="https://surgepix.ai/resources/vi/awesome-ppt-prompts?utm_source=github&utm_medium=readme&utm_campaign=ppt_prompts">
   <img src="public/images/gallery-vi.jpg" alt="AI PPT Prompt Library gallery" width="100%" />
 </a>
 
-**[👉 Mở thư viện trực tuyến →](https://surgepix.ai/resources/vi/awesome-ppt-prompts)**
+**[👉 Mở thư viện trực tuyến →](https://surgepix.ai/resources/vi/awesome-ppt-prompts?utm_source=github&utm_medium=readme&utm_campaign=ppt_prompts)**
 
 ---
 
@@ -1819,7 +1819,7 @@ Bạn có prompt PPT AI hay? Xem [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) �
 
 - [SlideSpeak/presentation-design-prompts](https://github.com/SlideSpeak/presentation-design-prompts) (MIT)
 - [AAAAAAAJ/slides](https://github.com/AAAAAAAJ/slides) (MIT)
-- [SurgePix](https://surgepix.ai) — AI tools for creating and editing visuals
+- [SurgePix](https://surgepix.ai?utm_source=github&utm_medium=readme&utm_campaign=ppt_prompts) — AI tools for creating and editing visuals
 
 ## ⭐ Lịch sử Star
 

@@ -4,7 +4,7 @@
 
 > PowerPoint slaytları ve sunumlar üretmek için derlenmiş yapay zeka prompt koleksiyonu —— her kayıtta gerçek slayt önizlemesi, kullanım alanı ve stil filtreleri, kopyalanmaya hazır metin.
 
-<a href="https://surgepix.ai/resources/tr/awesome-ppt-prompts">
+<a href="https://surgepix.ai/resources/tr/awesome-ppt-prompts?utm_source=github&utm_medium=readme&utm_campaign=ppt_prompts">
   <img src="public/images/hero-tr.jpg" alt="AI PPT Prompt Library" width="100%" />
 </a>
 
@@ -16,11 +16,11 @@
 
 Tüm koleksiyonda arama yapın, kullanım alanı ve görsel stile göre filtreleyin, tek tıkla kopyalayın:
 
-<a href="https://surgepix.ai/resources/tr/awesome-ppt-prompts">
+<a href="https://surgepix.ai/resources/tr/awesome-ppt-prompts?utm_source=github&utm_medium=readme&utm_campaign=ppt_prompts">
   <img src="public/images/gallery-tr.jpg" alt="AI PPT Prompt Library gallery" width="100%" />
 </a>
 
-**[👉 Çevrimiçi galeriyi aç →](https://surgepix.ai/resources/tr/awesome-ppt-prompts)**
+**[👉 Çevrimiçi galeriyi aç →](https://surgepix.ai/resources/tr/awesome-ppt-prompts?utm_source=github&utm_medium=readme&utm_campaign=ppt_prompts)**
 
 ---
 
@@ -1819,7 +1819,7 @@ Use this theme for my slides. Ask me what the presentation is about first, then 
 
 - [SlideSpeak/presentation-design-prompts](https://github.com/SlideSpeak/presentation-design-prompts) (MIT)
 - [AAAAAAAJ/slides](https://github.com/AAAAAAAJ/slides) (MIT)
-- [SurgePix](https://surgepix.ai) — AI tools for creating and editing visuals
+- [SurgePix](https://surgepix.ai?utm_source=github&utm_medium=readme&utm_campaign=ppt_prompts) — AI tools for creating and editing visuals
 
 ## ⭐ Star Geçmişi
 

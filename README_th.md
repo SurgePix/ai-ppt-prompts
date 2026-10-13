@@ -4,7 +4,7 @@
 
 > คลังพรอมต์ AI คัดสรรสำหรับสร้างสไลด์ PowerPoint และงานนำเสนอ —— แต่ละรายการมีตัวอย่างสไลด์จริง ตัวกรองตามการใช้งานและสไตล์ พร้อมข้อความที่คัดลอกไปใช้ได้ทันที
 
-<a href="https://surgepix.ai/resources/th/awesome-ppt-prompts">
+<a href="https://surgepix.ai/resources/th/awesome-ppt-prompts?utm_source=github&utm_medium=readme&utm_campaign=ppt_prompts">
   <img src="public/images/hero-th.jpg" alt="AI PPT Prompt Library" width="100%" />
 </a>
 
@@ -16,11 +16,11 @@
 
 ค้นหาทั้งคลัง กรองตามการใช้งานและสไตล์ และคัดลอกได้ในคลิกเดียว:
 
-<a href="https://surgepix.ai/resources/th/awesome-ppt-prompts">
+<a href="https://surgepix.ai/resources/th/awesome-ppt-prompts?utm_source=github&utm_medium=readme&utm_campaign=ppt_prompts">
   <img src="public/images/gallery-th.jpg" alt="AI PPT Prompt Library gallery" width="100%" />
 </a>
 
-**[👉 เปิดคลังออนไลน์ →](https://surgepix.ai/resources/th/awesome-ppt-prompts)**
+**[👉 เปิดคลังออนไลน์ →](https://surgepix.ai/resources/th/awesome-ppt-prompts?utm_source=github&utm_medium=readme&utm_campaign=ppt_prompts)**
 
 ---
 
@@ -1819,7 +1819,7 @@ Use this theme for my slides. Ask me what the presentation is about first, then 
 
 - [SlideSpeak/presentation-design-prompts](https://github.com/SlideSpeak/presentation-design-prompts) (MIT)
 - [AAAAAAAJ/slides](https://github.com/AAAAAAAJ/slides) (MIT)
-- [SurgePix](https://surgepix.ai) — AI tools for creating and editing visuals
+- [SurgePix](https://surgepix.ai?utm_source=github&utm_medium=readme&utm_campaign=ppt_prompts) — AI tools for creating and editing visuals
 
 ## ⭐ แนวโน้ม Star
 

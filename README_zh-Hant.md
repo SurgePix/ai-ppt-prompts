@@ -4,7 +4,7 @@
 
 > 精選 AI PPT 提示詞庫 —— 每條都配有真實簡報預覽、用途與風格篩選，以及可直接複製的文字。
 
-<a href="https://surgepix.ai/resources/zh-Hant/awesome-ppt-prompts">
+<a href="https://surgepix.ai/resources/zh-Hant/awesome-ppt-prompts?utm_source=github&utm_medium=readme&utm_campaign=ppt_prompts">
   <img src="public/images/hero-zh.jpg" alt="AI PPT Prompt Library" width="100%" />
 </a>
 
@@ -16,11 +16,11 @@
 
 全庫搜尋、依用途與視覺風格篩選，一鍵複製任意提示詞：
 
-<a href="https://surgepix.ai/resources/zh-Hant/awesome-ppt-prompts">
+<a href="https://surgepix.ai/resources/zh-Hant/awesome-ppt-prompts?utm_source=github&utm_medium=readme&utm_campaign=ppt_prompts">
   <img src="public/images/gallery-zh.jpg" alt="AI PPT Prompt Library gallery" width="100%" />
 </a>
 
-**[👉 開啟線上藝廊 →](https://surgepix.ai/resources/zh-Hant/awesome-ppt-prompts)**
+**[👉 開啟線上藝廊 →](https://surgepix.ai/resources/zh-Hant/awesome-ppt-prompts?utm_source=github&utm_medium=readme&utm_campaign=ppt_prompts)**
 
 ---
 
@@ -1819,7 +1819,7 @@ Use this theme for my slides. Ask me what the presentation is about first, then 
 
 - [SlideSpeak/presentation-design-prompts](https://github.com/SlideSpeak/presentation-design-prompts) (MIT)
 - [AAAAAAAJ/slides](https://github.com/AAAAAAAJ/slides) (MIT)
-- [SurgePix](https://surgepix.ai) — AI tools for creating and editing visuals
+- [SurgePix](https://surgepix.ai?utm_source=github&utm_medium=readme&utm_campaign=ppt_prompts) — AI tools for creating and editing visuals
 
 ## ⭐ Star 趨勢
 
