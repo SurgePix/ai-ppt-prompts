@@ -5,7 +5,7 @@
 > A curated collection of AI prompts for generating PowerPoint slides and presentations — each with a real slide preview, use-case and style filters, and copy-ready text.
 
 <a href="https://surgepix.ai/resources/awesome-ppt-prompts?utm_source=github&utm_medium=readme&utm_campaign=ppt_prompts">
-  <img src="public/images/hero.jpg" alt="AI PPT Prompt Library" width="100%" />
+  <img src="https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/awesome-ppt-prompts-social-v3-1290x640.jpg" alt="AI PPT Prompt Library" width="100%" />
 </a>
 
 > ⚠️ **Copyright notice**: prompts are collected from the community for educational and inspirational purposes, with source attribution on every entry. If you believe any content infringes on your rights, please [open an issue](https://github.com/SurgePix/ai-ppt-prompts/issues/new) and we will remove it promptly.
